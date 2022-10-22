@@ -6,6 +6,7 @@ on:
 jobs:
   get_media_meta:
     name: "Add Metadata"
+    runs_on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: "Add Metadata"
