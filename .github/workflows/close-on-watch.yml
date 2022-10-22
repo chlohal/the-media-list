@@ -1,0 +1,19 @@
+name: 'Issue States'
+
+on:
+  project_card:
+    types: [created, edited, moved]
+
+permissions:
+  repository-projects: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  action:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dessant/issue-states@567ed81fb56fdddbe767203c0a90abae6fe356e0
+        with:
+          closed-issue-columns: 'Watched, Watched in Large Group'
+          log-output: false
