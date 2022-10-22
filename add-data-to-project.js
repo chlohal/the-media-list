@@ -74,6 +74,7 @@ async function updateProjectFieldValues(projectId, projectItemId, fieldIdReferen
     const mutationRequest = await sendGraphQl(query);
 
     if("errors" in mutationRequest) {
+        console.error(mutationRequest);
         throw new Error("Couldn't update!");
     }
 }

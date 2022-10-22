@@ -3,17 +3,13 @@ on:
   issues:
     types:
       - opened
+
 jobs:
-  get_media_meta:
-    name: "Add Metadata"
-    runs_on: ubuntu-latest
+  get_meta:
+    runs-on: ubuntu-latest
+    env: 
+      TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       - uses: actions/checkout@v3
-      - name: "Add Metadata"
-        id: dl_meta
-        env: 
-          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          node ./add-data-to-project.js '${{ github.event.issue.number }}'
-
+      - run: node ./add-data-to-project.js '${{ github.event.issue.number }}'
