@@ -7,15 +7,17 @@ const fs = require("fs");
 const TMDB_TOKEN = getToken();
 
 module.exports = async function(search) {
-    const results = await movieSearch(search);
+    const searchResult = await movieSearch(search);
 
-    const {id, media_type} = results.results[0];
+    const {id, media_type} = searchResult;
 
     const fullJSON = await tmdbApiRequest(`${media_type}/${id}`, {
         append_to_response: ["watch/providers", "keywords"]
     });
 
     fullJSON.media_type = media_type;
+
+    console.log(fullJSON);
 
     return fullJSON;
 }
@@ -93,7 +95,25 @@ function scanJSONObjects(text) {
 }
 
 async function movieSearch(search) {
-    return await tmdbApiRequest(`search/multi`, {
+
+    const yearExec = /\((\d+)\)/.exec(search);
+    let year;
+    if(yearExec) {
+        year = yearExec[1];
+        search = search.replace(yearExec[0], "");
+    }
+
+    const searchResults = await tmdbApiRequest(`search/multi`, {
         query: search
     }); 
+
+    if(!year) return searchResults.results[0];
+
+    for(const searchResult of searchResults.results) {
+        if(searchResult.release_date.startsWith(year + "-")) {
+            return searchResult;
+        }
+    }
+
+    return null;
 }

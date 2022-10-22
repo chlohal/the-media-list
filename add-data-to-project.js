@@ -5,6 +5,8 @@ const tmdbSearch = require("./tmdb-search");
 const TOKEN = loadToken();
 const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 
+const TMDB_BASE_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
+
 const PROJECT_NUMBER = 2;
 
 (async() => {
@@ -20,7 +22,7 @@ const PROJECT_NUMBER = 2;
 
     const updated = await updateProjectFieldValues(ids.projectV2.id, projectItemId, ids, {
         "Genres": metadata.genres.map(x=> x.name).join(", "),
-        "Available On": metadata["watch/providers"].results.US.flatrate.map(x=> x.provider_name).join(", "),
+        "Available On": metadata["watch/providers"]?.results.US?.flatrate.map(x=> x.provider_name).join(", "),
         "TMDB ID": metadata.id,
         "Media Type": metadata.media_type,
         "Airing Status": metadata.media_type == "tv" ? (metadata.status == "Ended" ? "Over" : "Airing") : "N/A",
@@ -33,7 +35,7 @@ const PROJECT_NUMBER = 2;
                 y.trim()
             )
         ),
-`# ${metadata.name}
+`# ${metadata.name || metadata.title}
 
 *${metadata.tagline}*
 
@@ -41,7 +43,7 @@ Average Review: ${metadata.vote_average}/10
 
 ${metadata.overview}
 
-![backdrop](${metadata.poster_path})
+![backdrop](${TMDB_BASE_IMAGE_URL}${metadata.poster_path})
 
 Keywords: ${(metadata.keywords.results || []).map(x=>x.name).join(", ")}
 `
