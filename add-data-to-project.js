@@ -14,7 +14,7 @@ const PROJECT_NUMBER = 2;
     const ids = await getIssueAndProjectData(issueNumber, PROJECT_NUMBER);
 
 
-    const metadata = require("./test.json"); //await tmdbSearch(ids.repository.issue.title);
+    const metadata = await tmdbSearch(ids.repository.issue.title);
 
     const projectItemId = await addIssueToProject(ids.projectV2.id, ids.repository.issue.id);
 
