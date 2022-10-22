@@ -15,5 +15,4 @@ jobs:
     steps:
       - uses: dessant/issue-states@567ed81fb56fdddbe767203c0a90abae6fe356e0
         with:
-          closed-issue-columns: 'Watched, Watched in Large Group'
-          log-output: false
+          closed-issue-columns: 'Watched in Large Group'
