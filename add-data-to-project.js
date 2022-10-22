@@ -43,7 +43,7 @@ ${metadata.overview}
 
 ![backdrop](${metadata.poster_path})
 
-Keywords: ${metadata.keywords.results.map(x=>x.name).join(", ")}
+Keywords: ${(metadata.keywords.results || []).map(x=>x.name).join(", ")}
 `
     );
     
