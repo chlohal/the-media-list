@@ -18,8 +18,6 @@ const PROJECT_NUMBER = 2;
 
     const projectItemId = await addIssueToProject(ids.projectV2.id, ids.repository.issue.id);
 
-    console.log(metadata);
-
     const updated = await updateProjectFieldValues(ids.projectV2.id, projectItemId, ids, {
         "Genres": metadata.genres.map(x=> x.name).join(", "),
         "Available On": metadata["watch/providers"].results.US.flatrate.map(x=> x.provider_name).join(", "),
@@ -71,7 +69,11 @@ async function updateProjectFieldValues(projectId, projectItemId, fieldIdReferen
         ${getMutationsForUpdatingFieldValues(projectId, projectItemId, fields, updates)} 
     }`;
 
-    console.log(await sendGraphQl(query));
+    const mutationRequest = await sendGraphQl(query);
+
+    if("errors" in mutationRequest) {
+        throw new Error("Couldn't update!");
+    }
 }
 
 function getMutationForUpdatingIssue(issueId, labelReference, selectLabels, body, projectId) {
