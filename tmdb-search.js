@@ -6,8 +6,7 @@ const fs = require("fs");
 
 const TMDB_TOKEN = getToken();
 
-module.exports = async function() {
-    const search = process.argv[2];
+module.exports = async function(search) {
     const results = await movieSearch(search);
 
     const {id, media_type} = results.results[0];
@@ -16,12 +15,14 @@ module.exports = async function() {
         append_to_response: ["watch/providers", "keywords"]
     });
 
+    fullJSON.media_type = media_type;
+
     return fullJSON;
 }
 
 function getToken() {
     try {
-        return fs.readFileSync(__dirname + "/token").toString();
+        return fs.readFileSync(__dirname + "/token_tmdb").toString();
     } catch(e) {}
 
     return process.env.TMDB_TOKEN;

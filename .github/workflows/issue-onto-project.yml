@@ -4,15 +4,14 @@ on:
     - opened
 jobs:
   get_media_meta:
-    name: "Get Media Metadata"
-    outputs: 
-      ${{ steps.dl_meta.outputs.metadata }}
+    name: "Add Metadata"
     steps:
       - uses: actions/checkout@v3
-      - name: "Download Metadata"
+      - name: "Add Metadata"
         id: dl_meta
         env: 
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "metadata=$(node ./tmdb-search.js '${{ github.event.issue.title }}')" >> $GITHUB_OUTPUT
+          node ./add-data-to-project.js '${{ github.event.issue.number }}'
 
