@@ -1,7 +1,8 @@
 name: Find Media on TMDB
 on:
   issues:
-    - opened
+    types:
+      - opened
 jobs:
   get_media_meta:
     name: "Add Metadata"
@@ -11,7 +12,7 @@ jobs:
         id: dl_meta
         env: 
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           node ./add-data-to-project.js '${{ github.event.issue.number }}'
 
