@@ -1,12 +1,98 @@
+const fs = require("fs");
+
 /**
- * Takes 1 argument in argv. Searches the TMDB API for that string; if there is exactly 1 result or if there is 
- * one result that is exactly the argument, logs its JSON to stdout. If the aforementioned conditions are not fulfilled, 
- * exits with an error.
+ * Takes 1 argument in argv. Searches the TMDB API for that string; logs the JSON of the first result.
  */
 
-const movie = process.argv[2];
-console.log(movie);
+const TMDB_TOKEN = getToken();
 
-function movieSearch(movie) {
+module.exports = async function() {
+    const search = process.argv[2];
+    const results = await movieSearch(search);
 
+    const {id, media_type} = results.results[0];
+
+    const fullJSON = await tmdbApiRequest(`${media_type}/${id}`, {
+        append_to_response: ["watch/providers", "keywords"]
+    });
+
+    return fullJSON;
+}
+
+function getToken() {
+    try {
+        return fs.readFileSync(__dirname + "/token").toString();
+    } catch(e) {}
+
+    return process.env.TMDB_TOKEN;
+}
+
+async function tmdbApiRequest(path, options) {
+    const url = new URL(path, "https://api.themoviedb.org/3/");
+    url.searchParams.set("api_key", TMDB_TOKEN);
+    for(const param in options) {
+        url.searchParams.set(param, options[param]);
+    }
+
+    const responseText = await (await fetch(url)).text();
+    const responseObjects = scanJSONObjects(responseText);
+
+    if(responseObjects.length == 1) return responseObjects[0];
+
+    let response = responseObjects[0];
+    let subrequests = options.append_to_response.split(",");
+
+    for(let i = 1; i < responseObjects.length; i++) {
+        let subreq = subrequests[i - 1];
+        response[subreq] = responseObjects[i];
+    }
+
+    return response;
+}
+
+/**
+ * Scans through a text that contains one or more concatenated JSON objects. 
+ * Returns an array of them.
+ * @param {string} text text to search through
+ * @returns {object[]} all objects in the source text
+ */
+function scanJSONObjects(text) {
+    const objects = [];
+
+    let curlyDepth = 0, inQuotes = false, escaping = false, objectStartIndex = 0;
+    //scan through the text; look for the end of each JSON object.
+    //when we find it, parse it and add it to the list of JSON objects.
+    for(let i = 0; i < text.length; i++) {
+        const char = text[i];
+        if(escaping) {
+            escaping = false;
+            continue;
+        }
+        if(char == "\\") {
+            escaping = true;
+            continue;
+        }
+
+        if(char == "\"") {
+            inQuotes = !inQuotes;
+            continue;
+        }
+
+        if(!inQuotes) {
+            if(char == "{") curlyDepth++;
+            if(char == "}") curlyDepth--;
+            
+            if(char == "}" && curlyDepth == 0) {
+                objects.push(JSON.parse(text.substring(objectStartIndex, i + 1)));
+                objectStartIndex = i + 1;
+            }
+        }
+    }
+    return objects;
+}
+
+async function movieSearch(search) {
+    return await tmdbApiRequest(`search/multi`, {
+        query: search
+    }); 
 }
