@@ -12,4 +12,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 19
       - run: node ./add-data-to-project.js '${{ github.event.issue.number }}'
