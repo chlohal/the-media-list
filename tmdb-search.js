@@ -109,8 +109,10 @@ async function movieSearch(search) {
 
     if(!year) return searchResults.results[0];
 
+    console.log(searchResults.results);
+
     for(const searchResult of searchResults.results) {
-        if(searchResult.release_date.startsWith(year + "-")) {
+        if(searchResult.release_date?.startsWith(year + "-")) {
             return searchResult;
         }
     }
