@@ -22,7 +22,7 @@ const PROJECT_NUMBER = 2;
 
     const updated = await updateProjectFieldValues(ids.projectV2.id, projectItemId, ids, {
         "Genres": metadata.genres.map(x=> x.name).join(", "),
-        "Available On": metadata["watch/providers"]?.results.US?.flatrate.map(x=> x.provider_name).join(", "),
+        "Available On": metadata["watch/providers"]?.results.US?.flatrate?.map(x=> x.provider_name).join(", "),
         "TMDB ID": metadata.id,
         "Media Type": metadata.media_type,
         "Airing Status": metadata.media_type == "tv" ? (metadata.status == "Ended" ? "Over" : "Airing") : "N/A",
