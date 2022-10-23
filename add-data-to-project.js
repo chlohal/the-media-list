@@ -1,4 +1,5 @@
 const fs = require("fs");
+const doesTheDogDieSearch = require("./does-the-dog-die-search");
 
 const tmdbSearch = require("./tmdb-search");
 
@@ -18,11 +19,15 @@ const PROJECT_NUMBER = 2;
 
     const metadata = await tmdbSearch(ids.repository.issue.title);
 
+    const triggersPromise = doesTheDogDieSearch(metadata.name || metadata.title, metadata.id);
+
     const projectItemId = await addIssueToProject(ids.projectV2.id, ids.repository.issue.id);
+
+    const triggers = await triggersPromise;
 
     const updated = await updateProjectFieldValues(ids.projectV2.id, projectItemId, ids, {
         "Genres": metadata.genres.map(x=> x.name).join(", "),
-        "Available On": metadata["watch/providers"]?.results.US?.flatrate?.map(x=> x.provider_name).join(", "),
+        "Available On": metadata.watch_providers?.US?.flatrate?.map(x=> x.provider_name).join(", "),
         "TMDB ID": metadata.id,
         "Media Type": metadata.media_type,
         "Airing Status": metadata.media_type == "tv" ? (metadata.status == "Ended" ? "Over" : "Airing") : "N/A",
@@ -39,17 +44,35 @@ const PROJECT_NUMBER = 2;
 
 *${metadata.tagline}*
 
-Average Review: ${metadata.vote_average}/10
+Average Review: ${metadata.vote_average}/10 (${metadata.vote_count} votes)
 
 ${metadata.overview}
 
 ![backdrop](${TMDB_BASE_IMAGE_URL}${metadata.poster_path})
 
-Keywords: ${(metadata.keywords.results || []).map(x=>x.name).join(", ")}
+Streaming On: ${metadata.watch_providers?.US?.flatrate?.map(x=> x.provider_name).join(", ")}
+Cast: ${metadata.credits.cast.map(x=>x.name).join(", ")}
+Keywords: ${metadata.keywords.map(x=>x.name).join(", ")}
+
+<details>
+<summary>Triggers</summary>
+${triggers.topicItemStats.filter(x=> x.yesSum > x.noSum).map(x=> x.topic.name ).join(", ")}
+</details>
+
 `
     );
+
+
+    createDirectory(`${__dirname}/data/${metadata.id}`);
+
+    fs.writeFileSync(`${__dirname}/data/${metadata.id}/tmdb.json`, JSON.stringify(metadata, null, 2));
+    fs.writeFileSync(`${__dirname}/data/${metadata.id}/d4.json`, JSON.stringify(triggers, null, 2));
     
 })();
+
+function createDirectory(dir) {
+    if(!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+}
 
 function getMutationsForUpdatingFieldValues(projectId, projectItemId, fields, updates) {
     let query = ``;

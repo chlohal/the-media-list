@@ -12,12 +12,10 @@ module.exports = async function(search) {
     const {id, media_type} = searchResult;
 
     const fullJSON = await tmdbApiRequest(`${media_type}/${id}`, {
-        append_to_response: ["watch/providers", "keywords"]
+        append_to_response: ["watch/providers", "keywords", "credits", "external_ids"]
     });
 
     fullJSON.media_type = media_type;
-
-    console.log(fullJSON);
 
     return fullJSON;
 }
@@ -37,20 +35,51 @@ async function tmdbApiRequest(path, options) {
         url.searchParams.set(param, options[param]);
     }
 
+    console.log("" + url);
+
     const responseText = await (await fetch(url)).text();
     const responseObjects = scanJSONObjects(responseText);
 
-    if(responseObjects.length == 1) return responseObjects[0];
+    if(responseObjects.length == 1) return unwrapChildren(responseObjects[0], options.append_to_response);
 
     let response = responseObjects[0];
     let subrequests = options.append_to_response.split(",");
 
     for(let i = 1; i < responseObjects.length; i++) {
         let subreq = subrequests[i - 1];
-        response[subreq] = responseObjects[i];
+        response[subreq] = unwrapResponse(responseObjects[i]);
     }
 
     return response;
+}
+
+function unwrapChildren(parentResponse, subrequests) {
+    if(!subrequests) return parentResponse;
+
+    if(typeof subrequests === "string")  subrequests = subrequests.split(",").map(x=>x.trim());
+
+    for(const subreq of subrequests) {
+        if(subreq in parentResponse) {
+            const unwrapped = unwrapResponse(parentResponse[subreq]);
+            const cleanPath = subreq.replace(/\//g, "_");
+            delete parentResponse[subreq];
+            parentResponse[cleanPath] = unwrapped; 
+        }
+    }
+
+    return parentResponse;
+}
+
+function unwrapResponse(responseObject) {
+    let keys = Object.keys(responseObject);
+    if(keys.length == 1) return responseObject[keys[0]];
+
+    if(keys.length == 2 && keys.includes("id")) {
+        keys.splice(keys.indexOf("id"), 1);
+        return responseObject[keys[0]];
+    }
+
+    return responseObject;
 }
 
 /**
@@ -108,8 +137,6 @@ async function movieSearch(search) {
     }); 
 
     if(!year) return searchResults.results[0];
-
-    console.log(searchResults.results);
 
     for(const searchResult of searchResults.results) {
         if(searchResult.release_date?.startsWith(year + "-")) {

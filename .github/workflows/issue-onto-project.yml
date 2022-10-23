@@ -10,9 +10,15 @@ jobs:
     env: 
       TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      D4_TOKEN: ${{ secrets.D4_TOKEN }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 19
-      - run: node ./add-data-to-project.js '${{ github.event.issue.number }}'
+      - run: |
+          node ./add-data-to-project.js '${{ github.event.issue.number }}'
+          git add .
+          git commit -m 'added ${{ github.event.issue.title }}'
+          git push https://${{ github.actor }}:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+      
