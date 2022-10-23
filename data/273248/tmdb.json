@@ -1,0 +1,4873 @@
+{
+  "adult": false,
+  "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+  "belongs_to_collection": null,
+  "budget": 44000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "http://thehatefuleight.com",
+  "id": 273248,
+  "imdb_id": "tt3460252",
+  "original_language": "en",
+  "original_title": "The Hateful Eight",
+  "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+  "popularity": 31.017,
+  "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+  "production_companies": [
+    {
+      "id": 215,
+      "logo_path": "/tQyeqkCj24krhY2W8qeAztcOS37.png",
+      "name": "Double Feature Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 308,
+      "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+      "name": "The Weinstein Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 1811,
+      "logo_path": "/3yDJuCucOl41d9z3712l5gER0Md.png",
+      "name": "FilmColony",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-12-25",
+  "revenue": 155760117,
+  "runtime": 188,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one comes up here without a damn good reason.",
+  "title": "The Hateful Eight",
+  "video": false,
+  "vote_average": 7.738,
+  "vote_count": 12453,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 18
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "AG": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AG",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=AU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/rDd7IEBnJB0gPagFvagP1kK3pDu.jpg",
+          "provider_id": 21,
+          "provider_name": "Stan",
+          "display_priority": 9
+        }
+      ]
+    },
+    "BB": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BB",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/vjsvYNPgq6BpUoubXR1wNkokoBb.jpg",
+          "provider_id": 313,
+          "provider_name": "Yelo Play",
+          "display_priority": 12
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "BM": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BR",
+      "rent": [
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 50
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        }
+      ]
+    },
+    "BS": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=BS",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CA",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/sB5vHrmYmliwUvBwZe8HpXo9r8m.jpg",
+          "provider_id": 305,
+          "provider_name": "Crave Starz",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 69
+        },
+        {
+          "logo_path": "/jqByg3hw9LsuKTxgpAQPbO9b1ZQ.jpg",
+          "provider_id": 605,
+          "provider_name": "Super Channel Amazon Channel",
+          "display_priority": 82
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/sXixZNwjBjMoBR97alHOKVerKf4.jpg",
+          "provider_id": 349,
+          "provider_name": "Kino on Demand",
+          "display_priority": 26
+        },
+        {
+          "logo_path": "/vbqsW89lc8h7nrd5jswf8LjPUtO.jpg",
+          "provider_id": 1756,
+          "provider_name": "filmingo",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/hGvUo8KZTRLDZWcfFJS3gA8aenB.jpg",
+          "provider_id": 381,
+          "provider_name": "Canal+",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/vbqsW89lc8h7nrd5jswf8LjPUtO.jpg",
+          "provider_id": 1756,
+          "provider_name": "filmingo",
+          "display_priority": 48
+        }
+      ]
+    },
+    "CI": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CI",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 26
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CL",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 11
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "CU": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CU",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CV": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CV",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=DE",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/sXixZNwjBjMoBR97alHOKVerKf4.jpg",
+          "provider_id": 349,
+          "provider_name": "Kino on Demand",
+          "display_priority": 49
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/gmXeSpaYVJcb49SAzYcVHgQKQWM.jpg",
+          "provider_id": 334,
+          "provider_name": "Filmtastic Amazon Channel",
+          "display_priority": 44
+        },
+        {
+          "logo_path": "/u04LR9vGEhc8B1ml4HSj1RCbqTG.jpg",
+          "provider_id": 480,
+          "provider_name": "Filmtastic",
+          "display_priority": 56
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=DK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/vqybB1exnaQ3UOlKaw4t6OgzFIu.jpg",
+          "provider_id": 443,
+          "provider_name": "Filmstriben",
+          "display_priority": 20
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 22
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "DZ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=DZ",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 28
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 31
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=EC",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=EG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 35
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=ES",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/gqdajHmtr6qtutL7kkmEgleGfV9.jpg",
+          "provider_id": 63,
+          "provider_name": "Filmin",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=FI",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/ihE8Z4jZcGsmQsGRj6q06oxD2Wd.jpg",
+          "provider_id": 540,
+          "provider_name": "Elisa Viihde",
+          "display_priority": 26
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/ihE8Z4jZcGsmQsGRj6q06oxD2Wd.jpg",
+          "provider_id": 540,
+          "provider_name": "Elisa Viihde",
+          "display_priority": 26
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 35
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=FR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/b6hJjWPa7h8VCpaCVJCSu8EPlqT.jpg",
+          "provider_id": 138,
+          "provider_name": "Filmo TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/hGvUo8KZTRLDZWcfFJS3gA8aenB.jpg",
+          "provider_id": 381,
+          "provider_name": "Canal+",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/riPZYc1ILIbubFaxYSdVfc7K6bm.jpg",
+          "provider_id": 56,
+          "provider_name": "OCS Go",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/42Cj5KNEteBRpfWnGWQbTJpJDGV.jpg",
+          "provider_id": 685,
+          "provider_name": "OCS Amazon Channel ",
+          "display_priority": 51
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/ulTa4e9ysKwMwNpg7EfhYnvAj8q.jpg",
+          "provider_id": 59,
+          "provider_name": "Bbox VOD",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=GB",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GF": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=GF",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GH": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=GH",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 11
+        }
+      ]
+    },
+    "GQ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=GQ",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 11
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=GT",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=HN",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/6IdiH2yMRYCtB7XoIQ36wZig9gZ.jpg",
+          "provider_id": 489,
+          "provider_name": "Vidio",
+          "display_priority": 18
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=IE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ]
+    },
+    "IL": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=IL",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 14
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=IN",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/vrFpju3t7kplDbFsN5GLJpG0obj.jpg",
+          "provider_id": 561,
+          "provider_name": "Lionsgate Play",
+          "display_priority": 42
+        }
+      ]
+    },
+    "IQ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=IQ",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 13
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=IT",
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/s1QWuiBbZhLGSFzYOglPTVye7td.jpg",
+          "provider_id": 222,
+          "provider_name": "Rai Play",
+          "display_priority": 17
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/ftxHS1anAWTYgtDtIDv8VLXoepH.jpg",
+          "provider_id": 109,
+          "provider_name": "Timvision",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/7khYVzFljIj9FpXIP7AEvxC8Nk6.jpg",
+          "provider_id": 110,
+          "provider_name": "Infinity",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/tdJqKoJVBtYSQUe4zIADZOgqsH7.jpg",
+          "provider_id": 1726,
+          "provider_name": "Infinity Selection Amazon Channel",
+          "display_priority": 49
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "JM": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=JM",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=JP",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/zxrVdFjIjLqkfnwyghnfywTn3Lh.jpg",
+          "provider_id": 15,
+          "provider_name": "Hulu",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/g8jqHtXJsMlc8B1Gb0Rt8AvUJMn.jpg",
+          "provider_id": 85,
+          "provider_name": "dTV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/9pS9Y3xkCLJnti9pi1AyrD5KbZe.jpg",
+          "provider_id": 84,
+          "provider_name": "U-NEXT",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ]
+    },
+    "KE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=KE",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 10
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+          "provider_id": 356,
+          "provider_name": "wavve",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "LB": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=LB",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 14
+        }
+      ]
+    },
+    "LC": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=LC",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LY": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=LY",
+      "flatrate": [
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 31
+        }
+      ]
+    },
+    "MA": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=MA",
+      "flatrate": [
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 30
+        }
+      ]
+    },
+    "MU": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=MU",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 8
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=MX",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=MY",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "MZ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=MZ",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 10
+        }
+      ]
+    },
+    "NE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NE",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 26
+        }
+      ]
+    },
+    "NG": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NG",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 28
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NL",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 35
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 34
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=NZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/od4YNSSLgOP3p8EtQTnEYfrPa77.jpg",
+          "provider_id": 273,
+          "provider_name": "Neon TV",
+          "display_priority": 2
+        }
+      ]
+    },
+    "PA": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PL",
+      "free": [
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PS": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PS",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 13
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PT",
+      "rent": [
+        {
+          "logo_path": "/dUeHhim2WUZz8S7EWjv0Ws6anRP.jpg",
+          "provider_id": 242,
+          "provider_name": "Meo",
+          "display_priority": 3
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=PY",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 23
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/l5Wxbsgral716BOtZsGyPVNn8GC.jpg",
+          "provider_id": 250,
+          "provider_name": "Horizon",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=RU",
+      "ads": [
+        {
+          "logo_path": "/Aduyz3yAGMXTmd2N6NiIOYCmWF3.jpg",
+          "provider_id": 557,
+          "provider_name": "More TV",
+          "display_priority": 18
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SA",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "SC": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SC",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 9
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SE",
+      "flatrate": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/vuAxCPW4tlZ7Dg9EshAdPoHZFBo.jpg",
+          "provider_id": 497,
+          "provider_name": "Tele2 Play",
+          "display_priority": 25
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/thucdaw2gnOE0g478AHVZw5UeYm.jpg",
+          "provider_id": 496,
+          "provider_name": "Cineasterna",
+          "display_priority": 27
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/yqdmrKY4D0WuB9Q06EQvBoOOgKP.jpg",
+          "provider_id": 517,
+          "provider_name": "TriArt Play",
+          "display_priority": 26
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "SN": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SN",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 11
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 26
+        }
+      ]
+    },
+    "TC": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TC",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "TN": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TN",
+      "flatrate": [
+        {
+          "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
+          "provider_id": 1715,
+          "provider_name": "Shahid VIP",
+          "display_priority": 30
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TT": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TT",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 11
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TW",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/45eTLxznKGY9xq50NBWjN4adVng.jpg",
+          "provider_id": 159,
+          "provider_name": "Catchplay",
+          "display_priority": 16
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/45eTLxznKGY9xq50NBWjN4adVng.jpg",
+          "provider_id": 159,
+          "provider_name": "Catchplay",
+          "display_priority": 16
+        }
+      ]
+    },
+    "TZ": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=TZ",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 9
+        }
+      ]
+    },
+    "UG": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=UG",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 10
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=US",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=ZA",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ZM": {
+      "link": "https://www.themoviedb.org/movie/273248-the-hateful-eight/watch?locale=ZM",
+      "flatrate": [
+        {
+          "logo_path": "/okiQZMXnqwv0aD3QDYmu5DBNLce.jpg",
+          "provider_id": 55,
+          "provider_name": "ShowMax",
+          "display_priority": 10
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 801,
+      "name": "bounty hunter"
+    },
+    {
+      "id": 1016,
+      "name": "wyoming, usa"
+    },
+    {
+      "id": 1262,
+      "name": "mountain"
+    },
+    {
+      "id": 2398,
+      "name": "narration"
+    },
+    {
+      "id": 7150,
+      "name": "hangman"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 33600,
+      "name": "stagecoach"
+    },
+    {
+      "id": 156783,
+      "name": "blizzard"
+    },
+    {
+      "id": 187321,
+      "name": "post civil war"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2231,
+        "known_for_department": "Acting",
+        "name": "Samuel L. Jackson",
+        "original_name": "Samuel L. Jackson",
+        "popularity": 85.542,
+        "profile_path": "/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg",
+        "cast_id": 22,
+        "character": "Major Marquis Warren",
+        "credit_id": "559d5f3e92514125150000f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6856,
+        "known_for_department": "Acting",
+        "name": "Kurt Russell",
+        "original_name": "Kurt Russell",
+        "popularity": 27.658,
+        "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg",
+        "cast_id": 23,
+        "character": "John 'The Hangman' Ruth",
+        "credit_id": "559d5f4e92514125150000f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10431,
+        "known_for_department": "Acting",
+        "name": "Jennifer Jason Leigh",
+        "original_name": "Jennifer Jason Leigh",
+        "popularity": 30.748,
+        "profile_path": "/7DbG2AO3nygHAkNC866HLPKkxv9.jpg",
+        "cast_id": 25,
+        "character": "Daisy Domergue",
+        "credit_id": "559d5f6ec3a368659e000100",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27740,
+        "known_for_department": "Acting",
+        "name": "Walton Goggins",
+        "original_name": "Walton Goggins",
+        "popularity": 24.755,
+        "profile_path": "/8WAXNCOo66vBnSi396Eh2IQUsG6.jpg",
+        "cast_id": 24,
+        "character": "Sheriff Chris Mannix",
+        "credit_id": "559d5f5f925141251e000107",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76961,
+        "known_for_department": "Acting",
+        "name": "Demián Bichir",
+        "original_name": "Demián Bichir",
+        "popularity": 10.38,
+        "profile_path": "/sw8TqPQLbMMgLbkNNUIW649THWJ.jpg",
+        "cast_id": 30,
+        "character": "Bob",
+        "credit_id": "559d5fc0c3a36865930000fb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3129,
+        "known_for_department": "Acting",
+        "name": "Tim Roth",
+        "original_name": "Tim Roth",
+        "popularity": 32.838,
+        "profile_path": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg",
+        "cast_id": 26,
+        "character": "Oswaldo Mobray",
+        "credit_id": "559d5f7cc3a36865930000f0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147,
+        "known_for_department": "Acting",
+        "name": "Michael Madsen",
+        "original_name": "Michael Madsen",
+        "popularity": 23.033,
+        "profile_path": "/AnQm8pXVbMicr4U0IRsOascthVI.jpg",
+        "cast_id": 28,
+        "character": "Joe Gage",
+        "credit_id": "559d5fa0925141251b000129",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6905,
+        "known_for_department": "Acting",
+        "name": "Bruce Dern",
+        "original_name": "Bruce Dern",
+        "popularity": 16.625,
+        "profile_path": "/24aH1ahmFFImPiBA5N4NhemshH9.jpg",
+        "cast_id": 29,
+        "character": "General Sandy Smithers",
+        "credit_id": "559d5faec3a36865930000f6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87312,
+        "known_for_department": "Acting",
+        "name": "James Parks",
+        "original_name": "James Parks",
+        "popularity": 3.679,
+        "profile_path": "/5ZunnUnhjT1FeKf0j7ONog30fis.jpg",
+        "cast_id": 32,
+        "character": "O. B. Jackson",
+        "credit_id": "559d5fe9925141251e000115",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1133063,
+        "known_for_department": "Acting",
+        "name": "Dana Gourrier",
+        "original_name": "Dana Gourrier",
+        "popularity": 5.398,
+        "profile_path": "/v3krc3R7LKMsHJEm8esPqEa7CR.jpg",
+        "cast_id": 31,
+        "character": "Minnie",
+        "credit_id": "559d5fd7c3a36865a7000115",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20494,
+        "known_for_department": "Acting",
+        "name": "Zoë Bell",
+        "original_name": "Zoë Bell",
+        "popularity": 6.185,
+        "profile_path": "/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg",
+        "cast_id": 27,
+        "character": "'Six-Horse' Judy",
+        "credit_id": "559d5f8ac3a36865930000f2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47859,
+        "known_for_department": "Acting",
+        "name": "Lee Horsley",
+        "original_name": "Lee Horsley",
+        "popularity": 8.438,
+        "profile_path": "/u2qrM9SVwrHFrIOl6a5dv5C9zMw.jpg",
+        "cast_id": 37,
+        "character": "Ed",
+        "credit_id": "559d60359251412518000133",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1194944,
+        "known_for_department": "Acting",
+        "name": "Gene Jones",
+        "original_name": "Gene Jones",
+        "popularity": 3.844,
+        "profile_path": "/7bswusgmP1hhc0u1Z2t8XiDOS0s.jpg",
+        "cast_id": 38,
+        "character": "Sweet Dave",
+        "credit_id": "559d603f925141250f00012f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1198202,
+        "known_for_department": "Acting",
+        "name": "Keith Jefferson",
+        "original_name": "Keith Jefferson",
+        "popularity": 3.734,
+        "profile_path": "/sgeLEldvPlTIogfriyoOJHmhH4.jpg",
+        "cast_id": 36,
+        "character": "Charly",
+        "credit_id": "559d6028925141250b000110",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 183519,
+        "known_for_department": "Acting",
+        "name": "Craig Stark",
+        "original_name": "Craig Stark",
+        "popularity": 3.588,
+        "profile_path": "/5GDo19fwIWKW13oFTRoKOdKlyX8.jpg",
+        "cast_id": 33,
+        "character": "Chester Charles Smithers",
+        "credit_id": "559d5ffac3a36865a4000128",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485552,
+        "known_for_department": "Acting",
+        "name": "Belinda Owino",
+        "original_name": "Belinda Owino",
+        "popularity": 0.84,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Gemma",
+        "credit_id": "559d600bc3a368659e00010c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38673,
+        "known_for_department": "Acting",
+        "name": "Channing Tatum",
+        "original_name": "Channing Tatum",
+        "popularity": 57.46,
+        "profile_path": "/bhTmp6FA8fOQnGlNk75tdmj2bpu.jpg",
+        "cast_id": 47,
+        "character": "Jody",
+        "credit_id": "55ed3c84c3a3682c62013fbe",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "cast_id": 87,
+        "character": "Narrator (voice) (uncredited)",
+        "credit_id": "56fd5e8fc3a3685cd700052b",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit_id": "5d0846050e0a260533c9a9ac",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit_id": "5e84101e5aba320016e426c4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit_id": "621bde41f85958004228242a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149,
+        "known_for_department": "Camera",
+        "name": "Robert Richardson",
+        "original_name": "Robert Richardson",
+        "popularity": 2.744,
+        "profile_path": "/lmJy31oZtN5l2VAGpkrt3xEXsxL.jpg",
+        "credit_id": "56fd5fdd925141150600052b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 547,
+        "known_for_department": "Production",
+        "name": "Victoria Thomas",
+        "original_name": "Victoria Thomas",
+        "popularity": 6.875,
+        "profile_path": "/l0WTF9M0Dg6lNCGcKsXc5H6xVqZ.jpg",
+        "credit_id": "55a2aed5c3a3681cf0003c70",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 4.681,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "credit_id": "55a2af44925141297d003c7c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305,
+        "known_for_department": "Sound",
+        "name": "Bill Abbott",
+        "original_name": "Bill Abbott",
+        "popularity": 4.927,
+        "profile_path": null,
+        "credit_id": "568f8c26c3a3683246001c9d",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1307,
+        "known_for_department": "Production",
+        "name": "Bob Weinstein",
+        "original_name": "Bob Weinstein",
+        "popularity": 3.529,
+        "profile_path": "/lCLIlmY3oZN9n0YgrH3i0oZygPU.jpg",
+        "credit_id": "538aa99bc3a368713c00060a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59839,
+        "known_for_department": "Production",
+        "name": "Harvey Weinstein",
+        "original_name": "Harvey Weinstein",
+        "popularity": 4.479,
+        "profile_path": "/ylC5G8B151xdRGNX30odj0HALIi.jpg",
+        "credit_id": "538aa9a8c3a36871520005dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2947,
+        "known_for_department": "Production",
+        "name": "Georgia Kacandes",
+        "original_name": "Georgia Kacandes",
+        "popularity": 1.96,
+        "profile_path": "/Vct0XHfBGXNpl0xIifJbcPeJ57.jpg",
+        "credit_id": "578a14e792514163c400256b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6444,
+        "known_for_department": "Art",
+        "name": "Yohei Taneda",
+        "original_name": "Yohei Taneda",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "55a2aee1c3a3681cec00358c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5382,
+        "known_for_department": "Production",
+        "name": "Stacey Sher",
+        "original_name": "Stacey Sher",
+        "popularity": 2.603,
+        "profile_path": "/khoGvyCVxvQ44wxHQY1lPQdnJK2.jpg",
+        "credit_id": "578a14c4c3a368662b00038a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8285,
+        "known_for_department": "Art",
+        "name": "Richard L. Johnson",
+        "original_name": "Richard L. Johnson",
+        "popularity": 1.826,
+        "profile_path": null,
+        "credit_id": "55a2aeeec3a3681cde0037d1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12997,
+        "known_for_department": "Production",
+        "name": "Richard N. Gladstein",
+        "original_name": "Richard N. Gladstein",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "56fd5f9fc3a3685cd7000550",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13588,
+        "known_for_department": "Art",
+        "name": "Rosemary Brandenburg",
+        "original_name": "Rosemary Brandenburg",
+        "popularity": 2.376,
+        "profile_path": "/rrlIjwGSprN47jjXCVIhoIBjKXr.jpg",
+        "credit_id": "55a2aefbc3a3681cec00358e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23285,
+        "known_for_department": "Crew",
+        "name": "Jeffrey J. Dashnaw",
+        "original_name": "Jeffrey J. Dashnaw",
+        "popularity": 8.141,
+        "profile_path": "/5Sw0YV4U8Yg7BpN8yVX7vVc8y8x.jpg",
+        "credit_id": "56fd648e92514115060005c4",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58194,
+        "known_for_department": "Editing",
+        "name": "Fred Raskin",
+        "original_name": "Fred Raskin",
+        "popularity": 1.89,
+        "profile_path": "/aqNCDunpfVqzPYPpzhZZQeXDNQe.jpg",
+        "credit_id": "55a2aec9925141297d003c72",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58809,
+        "known_for_department": "Directing",
+        "name": "Martin Kitrosser",
+        "original_name": "Martin Kitrosser",
+        "popularity": 3.402,
+        "profile_path": null,
+        "credit_id": "57325cbd92514105b900090a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71279,
+        "known_for_department": "Editing",
+        "name": "Andrew S. Eisen",
+        "original_name": "Andrew S. Eisen",
+        "popularity": 1.105,
+        "profile_path": null,
+        "credit_id": "568f948f92514118a1001c75",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555329,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Greg Funk",
+        "original_name": "Greg Funk",
+        "popularity": 2.767,
+        "profile_path": "/eCKDzWvyHEuwJPfgW5xHd2PEqxo.jpg",
+        "credit_id": "568f9045c3a368324c001de0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 963669,
+        "known_for_department": "Production",
+        "name": "Shannon McIntosh",
+        "original_name": "Shannon McIntosh",
+        "popularity": 1.616,
+        "profile_path": null,
+        "credit_id": "57325b49c3a368692500084f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077782,
+        "known_for_department": "Sound",
+        "name": "Gary A. Hecker",
+        "original_name": "Gary A. Hecker",
+        "popularity": 6.326,
+        "profile_path": "/cEs5VifZGciPAXiCCYlGqzTnhmX.jpg",
+        "credit_id": "568f9112c3a3683256001e76",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1162661,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carole Zacek",
+        "original_name": "Carole Zacek",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "57325dafc3a3687d5200075e",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1317534,
+        "known_for_department": "Visual Effects",
+        "name": "Lara Perez Takagi",
+        "original_name": "Lara Perez Takagi",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f93c0925141189e001d00",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324192,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Courtney Hoffman",
+        "original_name": "Courtney Hoffman",
+        "popularity": 2.716,
+        "profile_path": "/cK9AujvWiUgW4H6XanDSjLzwKZ0.jpg",
+        "credit_id": "55a2af08c3a3681cde0037d4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1326407,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jonny Pray",
+        "original_name": "Jonny Pray",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "568f8bfe9251411892001beb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330582,
+        "known_for_department": "Art",
+        "name": "Benjamin Edelberg",
+        "original_name": "Benjamin Edelberg",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "56fd6048c3a3685cce00053f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335416,
+        "known_for_department": "Sound",
+        "name": "Sylvain Lasseur",
+        "original_name": "Sylvain Lasseur",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f915e925141188c001d2f",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352966,
+        "known_for_department": "Sound",
+        "name": "Michael Hertlein",
+        "original_name": "Michael Hertlein",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5e1a4fc51d820f00172627e4",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352969,
+        "known_for_department": "Sound",
+        "name": "Wylie Stateman",
+        "original_name": "Wylie Stateman",
+        "popularity": 1.96,
+        "profile_path": "/cnqFtKb2x6nrbbFFPgT9pM9GiHb.jpg",
+        "credit_id": "59905562c3a36874a302ccd6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352969,
+        "known_for_department": "Sound",
+        "name": "Wylie Stateman",
+        "original_name": "Wylie Stateman",
+        "popularity": 1.96,
+        "profile_path": "/cnqFtKb2x6nrbbFFPgT9pM9GiHb.jpg",
+        "credit_id": "568f91bfc3a368324c001e08",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364417,
+        "known_for_department": "Sound",
+        "name": "Christian P. Minkler",
+        "original_name": "Christian P. Minkler",
+        "popularity": 1.607,
+        "profile_path": null,
+        "credit_id": "568f918bc3a3683251001dd8",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367362,
+        "known_for_department": "Sound",
+        "name": "Rick Owens",
+        "original_name": "Rick Owens",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "568f9127c3a368324c001dfa",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368851,
+        "known_for_department": "Visual Effects",
+        "name": "Darren Poe",
+        "original_name": "Darren Poe",
+        "popularity": 0.608,
+        "profile_path": null,
+        "credit_id": "568f9521925141188c001d9e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368882,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tricia Yoo",
+        "original_name": "Tricia Yoo",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "57325d9ac3a368691c000abb",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368883,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joshua Coleman",
+        "original_name": "Joshua Coleman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "57325d4f92514105b3000905",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386920,
+        "known_for_department": "Camera",
+        "name": "Andrew Cooper",
+        "original_name": "Andrew Cooper",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "568f920ac3a3683249001e1d",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389609,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heba Thorisdottir",
+        "original_name": "Heba Thorisdottir",
+        "popularity": 2.302,
+        "profile_path": "/i8B2cXDxv58NoSCEG1XALUuu8CQ.jpg",
+        "credit_id": "568f9032c3a3683249001de5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392143,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bob Moore Jr.",
+        "original_name": "Bob Moore Jr.",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "57325d7f92514105c80008ca",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392622,
+        "known_for_department": "Visual Effects",
+        "name": "Lisa Goldberg",
+        "original_name": "Lisa Goldberg",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f94c2c3a368323e001f5f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1394765,
+        "known_for_department": "Crew",
+        "name": "Michael Harden",
+        "original_name": "Michael Harden",
+        "popularity": 1.388,
+        "profile_path": null,
+        "credit_id": "568f94a5c3a368324c001e6e",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399141,
+        "known_for_department": "Sound",
+        "name": "Michael Minkler",
+        "original_name": "Michael Minkler",
+        "popularity": 2.241,
+        "profile_path": null,
+        "credit_id": "59905578c3a36874b402ad49",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399141,
+        "known_for_department": "Sound",
+        "name": "Michael Minkler",
+        "original_name": "Michael Minkler",
+        "popularity": 2.241,
+        "profile_path": null,
+        "credit_id": "568f91a0c3a3683256001e81",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1400529,
+        "known_for_department": "Crew",
+        "name": "Tina Anderson",
+        "original_name": "Tina Anderson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "56fd624092514114f4000665",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403399,
+        "known_for_department": "Crew",
+        "name": "Stan Parks",
+        "original_name": "Stan Parks",
+        "popularity": 1.614,
+        "profile_path": null,
+        "credit_id": "574c6806c3a36854370001cb",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406826,
+        "known_for_department": "Sound",
+        "name": "Hector C. Gika",
+        "original_name": "Hector C. Gika",
+        "popularity": 1.96,
+        "profile_path": "/1yJ3xp1jj4Az44n6fdIw4F6lCz6.jpg",
+        "credit_id": "568f9146c3a3683251001dd1",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409816,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Cantu",
+        "original_name": "Barbara Cantu",
+        "popularity": 1.708,
+        "profile_path": null,
+        "credit_id": "568f9016c3a3683251001daf",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413125,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marina Marit",
+        "original_name": "Marina Marit",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "57325d68c3a368691c000aac",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413153,
+        "known_for_department": "Art",
+        "name": "Michael Diersing",
+        "original_name": "Michael Diersing",
+        "popularity": 1.094,
+        "profile_path": null,
+        "credit_id": "568f8fe8925141189b001e41",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1415342,
+        "known_for_department": "Production",
+        "name": "Marc A. Hammer",
+        "original_name": "Marc A. Hammer",
+        "popularity": 1.214,
+        "profile_path": null,
+        "credit_id": "56fd62a5c3a3685cda000605",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1415606,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Diana Choi",
+        "original_name": "Diana Choi",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "56fd614c92514114fd000562",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416584,
+        "known_for_department": "Crew",
+        "name": "Bruno Van Zeebroeck",
+        "original_name": "Bruno Van Zeebroeck",
+        "popularity": 1.96,
+        "profile_path": "/rTG2HRFJqAR35RzI7X5vpOtVTfG.jpg",
+        "credit_id": "568f8dc5c3a3683244001e05",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424894,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camille Friend",
+        "original_name": "Camille Friend",
+        "popularity": 1.674,
+        "profile_path": null,
+        "credit_id": "568f8ffe925141189b001e48",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1434559,
+        "known_for_department": "Crew",
+        "name": "Robert 'Rock' Galotti",
+        "original_name": "Robert 'Rock' Galotti",
+        "popularity": 2.705,
+        "profile_path": null,
+        "credit_id": "568f8c65925141188c001cb4",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1437193,
+        "known_for_department": "Sound",
+        "name": "Lauren Hadaway",
+        "original_name": "Lauren Hadaway",
+        "popularity": 3.528,
+        "profile_path": "/n8yvg8bs1wNBSu3DXvWDcC68hUr.jpg",
+        "credit_id": "5e1a4fd51d820f0013262fd6",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459895,
+        "known_for_department": "Crew",
+        "name": "Shawn Broes",
+        "original_name": "Shawn Broes",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "568f947ac3a3683244001ed2",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485553,
+        "known_for_department": "Camera",
+        "name": "Bruce Del Castillo",
+        "original_name": "Bruce Del Castillo",
+        "popularity": 1.96,
+        "profile_path": "/hNuRFnCU7JLy5IQ0bLCgQhpLRU3.jpg",
+        "credit_id": "56fd5ee29251413072000231",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1494214,
+        "known_for_department": "Art",
+        "name": "Sara Ghaffar",
+        "original_name": "Sara Ghaffar",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f8b599251411898001c85",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1531524,
+        "known_for_department": "Visual Effects",
+        "name": "Laurent Gillet",
+        "original_name": "Laurent Gillet",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f950b92514118a1001c96",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543227,
+        "known_for_department": "Visual Effects",
+        "name": "Brittany Montero",
+        "original_name": "Brittany Montero",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f934dc3a3683246001d7b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543756,
+        "known_for_department": "Visual Effects",
+        "name": "Mark Webb",
+        "original_name": "Mark Webb",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f94f19251411895001cd6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1545448,
+        "known_for_department": "Sound",
+        "name": "Mary Ramos",
+        "original_name": "Mary Ramos",
+        "popularity": 3.119,
+        "profile_path": "/23BDqamvTnnbaFNRNPg34qS62En.jpg",
+        "credit_id": "568f8c49c3a3683244001de3",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547309,
+        "known_for_department": "Sound",
+        "name": "Mark Ulano",
+        "original_name": "Mark Ulano",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "59905542925141675f02c292",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547309,
+        "known_for_department": "Sound",
+        "name": "Mark Ulano",
+        "original_name": "Mark Ulano",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5703f5689251415bb90001aa",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548104,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Molly Tissavary",
+        "original_name": "Molly Tissavary",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f9066c3a3683241001f1b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1550718,
+        "known_for_department": "Camera",
+        "name": "Gregor Tavenner",
+        "original_name": "Gregor Tavenner",
+        "popularity": 1.442,
+        "profile_path": null,
+        "credit_id": "57325c5e92514105c100092f",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559781,
+        "known_for_department": "Art",
+        "name": "Jen R. Clark",
+        "original_name": "Jen R. Clark",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f8b8892514118a1001b85",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559782,
+        "known_for_department": "Art",
+        "name": "Holly E. McCarthy",
+        "original_name": "Holly E. McCarthy",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f8b9d925141188f001ccd",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559783,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Edmonson",
+        "original_name": "Mike Edmonson",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "568f8dab9251411898001cd6",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559784,
+        "known_for_department": "Art",
+        "name": "Kil Won Yu",
+        "original_name": "Kil Won Yu",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f8e5a92514118a1001bd4",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559785,
+        "known_for_department": "Visual Effects",
+        "name": "Megan Louise Smith",
+        "original_name": "Megan Louise Smith",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f93dac3a3683256001eb0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559823,
+        "known_for_department": "Visual Effects",
+        "name": "Ashley Bradford",
+        "original_name": "Ashley Bradford",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f945ec3a3683251001e2b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559832,
+        "known_for_department": "Acting",
+        "name": "Patrick Ready",
+        "original_name": "Patrick Ready",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "568f9542925141189b001ed4",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565131,
+        "known_for_department": "Production",
+        "name": "Louise DeCordoba",
+        "original_name": "Louise DeCordoba",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "56fd626b9251411506000581",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1599138,
+        "known_for_department": "Art",
+        "name": "Nick Marra",
+        "original_name": "Nick Marra",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "56fd6102c3a3685ccc000596",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599143,
+        "known_for_department": "Directing",
+        "name": "William Paul Clark",
+        "original_name": "William Paul Clark",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5702a06ec3a368569c003e1d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618130,
+        "known_for_department": "Editing",
+        "name": "Billy Hobson",
+        "original_name": "Billy Hobson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "57325d0d92514105b30008eb",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1651460,
+        "known_for_department": "Production",
+        "name": "Coco Francini",
+        "original_name": "Coco Francini",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "578a150fc3a36874a8001cc0",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2746504,
+        "known_for_department": "Sound",
+        "name": "Matt Lange",
+        "original_name": "Matt Lange",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "627568501283e90169b8e558",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt3460252",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}

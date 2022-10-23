@@ -1,9 +1,19 @@
 const TOKEN = getToken();
 
 module.exports = async function d4Search(title, tmdbId) {
+    if(process.argv[3]) return await getMedia(process.argv[3]);
+    else return searchFor(title, tmdbId);
+}
+
+async function searchFor(title, tmdbId) {
     const results = await getSearchResults(title);
 
     const correctResult = results.items.find(x=>x.tmdbId === tmdbId);
+
+    if(!correctResult) {
+        console.error("Couldn't find D4 media for " + title);
+        return null;
+    }
 
     return await getMedia(correctResult.id);
 }

@@ -51,14 +51,29 @@ ${metadata.overview}
 ![backdrop](${TMDB_BASE_IMAGE_URL}${metadata.poster_path})
 
 Streaming On: ${metadata.watch_providers?.US?.flatrate?.map(x=> x.provider_name).join(", ")}
+
 Cast: ${metadata.credits.cast.map(x=>x.name).join(", ")}
+
 Keywords: ${metadata.keywords.map(x=>x.name).join(", ")}
 
+${triggers ? `
 <details>
 <summary>Triggers</summary>
-${triggers.topicItemStats.filter(x=> x.yesSum > x.noSum).map(x=> x.topic.name ).join(", ")}
-</details>
 
+${triggers
+    .topicItemStats
+    .filter(x=> x.yesSum > x.noSum) //voted 'yes'
+    .map(x=> //format as a list
+        `- ${x.topic.smmwDescription}: ${ 
+            x.comments.sort((a,b)=>b.voteSum - a.voteSum) //find best comment
+            [0]?.comment //if it exists, get it
+            || "(no comment)" //or '(no comment)'
+        } `.replace(": (no comment)", "")
+    ).join("\n")
+}
+
+</details>
+` : "Couldn't get trigger data"}
 `
     );
 

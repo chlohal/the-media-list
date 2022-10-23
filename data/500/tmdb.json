@@ -1,0 +1,4610 @@
+{
+  "adult": false,
+  "backdrop_path": "/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 500,
+  "imdb_id": "tt0105236",
+  "original_language": "en",
+  "original_title": "Reservoir Dogs",
+  "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+  "popularity": 37.512,
+  "poster_path": "/lsBnfheKZBO3UKU7lVHIeGZLWuF.jpg",
+  "production_companies": [
+    {
+      "id": 285,
+      "logo_path": null,
+      "name": "Live Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 26198,
+      "logo_path": null,
+      "name": "Dog Eat Dog Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-09-02",
+  "revenue": 2859750,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every dog has his day.",
+  "title": "Reservoir Dogs",
+  "video": false,
+  "vote_average": 8.145,
+  "vote_count": 12294,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=AR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/iM0P8o5S1hDahB41kIY5voQWXtU.jpg",
+          "provider_id": 274,
+          "provider_name": "QubitTV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 33
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 39
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=AU",
+      "flatrate": [
+        {
+          "logo_path": "/rDd7IEBnJB0gPagFvagP1kK3pDu.jpg",
+          "provider_id": 21,
+          "provider_name": "Stan",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BA",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "BB": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BB",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 16
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BO",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 15
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/oBoWstXQFHAlPApyxIQ31CIbNQk.jpg",
+          "provider_id": 307,
+          "provider_name": "Globoplay",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/cQQYtdaCg7vDo28JPru4v8Ypi8x.jpg",
+          "provider_id": 484,
+          "provider_name": "NOW",
+          "display_priority": 28
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 45
+        },
+        {
+          "logo_path": "/3E0RkIEQrrGYazs63NMsn3XONT6.jpg",
+          "provider_id": 582,
+          "provider_name": "Paramount+ Amazon Channel",
+          "display_priority": 49
+        },
+        {
+          "logo_path": "/fUUgfrOfvvPKx9vhFBd6IMdkfLy.jpg",
+          "provider_id": 588,
+          "provider_name": "MGM Amazon Channel",
+          "display_priority": 52
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 57
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 50
+        }
+      ]
+    },
+    "BS": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=BS",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CH",
+      "buy": [
+        {
+          "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+          "provider_id": 150,
+          "provider_name": "SwissCom",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+          "provider_id": 150,
+          "provider_name": "SwissCom",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/sHP8XLo4Ac4WMbziRyAdRQdb76q.jpg",
+          "provider_id": 210,
+          "provider_name": "Sky",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/hGvUo8KZTRLDZWcfFJS3gA8aenB.jpg",
+          "provider_id": 381,
+          "provider_name": "Canal+",
+          "display_priority": 46
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+          "provider_id": 150,
+          "provider_name": "SwissCom",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/iM0P8o5S1hDahB41kIY5voQWXtU.jpg",
+          "provider_id": 274,
+          "provider_name": "QubitTV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        }
+      ]
+    },
+    "CV": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CV",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=DE",
+      "flatrate": [
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 37
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 114
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=DK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 43
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=EC",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 34
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=EE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=ES",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/gqdajHmtr6qtutL7kkmEgleGfV9.jpg",
+          "provider_id": 63,
+          "provider_name": "Filmin",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 37
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 66
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=FI",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 43
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 35
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=FR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/hGvUo8KZTRLDZWcfFJS3gA8aenB.jpg",
+          "provider_id": 381,
+          "provider_name": "Canal+",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 80
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=GB",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/32Pe7XfsubjbmvnZveBH5HfBQOm.jpg",
+          "provider_id": 224,
+          "provider_name": "BFI Player",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/ugFkAFzcZm6I1ftFumwAmhtFaVO.jpg",
+          "provider_id": 189,
+          "provider_name": "Curzon Home Cinema",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/o6li3XZrBKXSqyNRS39UQEfPTCH.jpg",
+          "provider_id": 594,
+          "provider_name": "Virgin TV Go",
+          "display_priority": 66
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 81
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 107
+        }
+      ]
+    },
+    "GF": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=GF",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=GR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=GT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=HK",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=HN",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 9
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=HR",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 35
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/xrHrIraInfRXnrz1zHhY1tXJowg.jpg",
+          "provider_id": 572,
+          "provider_name": "RTL Play",
+          "display_priority": 31
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=HU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=ID",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=IE",
+      "flatrate": [
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 41
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=IS",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 31
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=IT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/fUUgfrOfvvPKx9vhFBd6IMdkfLy.jpg",
+          "provider_id": 588,
+          "provider_name": "MGM Amazon Channel",
+          "display_priority": 55
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 67
+        }
+      ]
+    },
+    "JM": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=JM",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=JP",
+      "flatrate": [
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 16
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=LT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=LV",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "MD": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=MD",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 27
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=MX",
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/fUUgfrOfvvPKx9vhFBd6IMdkfLy.jpg",
+          "provider_id": 588,
+          "provider_name": "MGM Amazon Channel",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/3E0RkIEQrrGYazs63NMsn3XONT6.jpg",
+          "provider_id": 582,
+          "provider_name": "Paramount+ Amazon Channel",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 53
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=MY",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=NL",
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 52
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=NO",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 44
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=NZ",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "PA": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PA",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 36
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/l5Wxbsgral716BOtZsGyPVNn8GC.jpg",
+          "provider_id": 250,
+          "provider_name": "Horizon",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/uXc2fJqhtXfuNq6ha8tTLL9VnXj.jpg",
+          "provider_id": 505,
+          "provider_name": "Player",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/dUeHhim2WUZz8S7EWjv0Ws6anRP.jpg",
+          "provider_id": 242,
+          "provider_name": "Meo",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=PY",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 17
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=RU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=SE",
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=SG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=SI",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=SK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 37
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 26
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=TR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TT": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=TT",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 11
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=US",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/5OAb2w7D9C2VHa0k5PaoAYeFYFE.jpg",
+          "provider_id": 634,
+          "provider_name": "Starz Roku Premium Channel",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 37
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 164
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=VE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/500-reservoir-dogs/watch?locale=ZA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 2052,
+      "name": "traitor"
+    },
+    {
+      "id": 6099,
+      "name": "jewelry"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 9727,
+      "name": "thief"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 10092,
+      "name": "mystery"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    },
+    {
+      "id": 11071,
+      "name": "plan gone wrong"
+    },
+    {
+      "id": 34117,
+      "name": "cult film"
+    },
+    {
+      "id": 157171,
+      "name": "nonlinear timeline"
+    },
+    {
+      "id": 157892,
+      "name": "warehouse"
+    },
+    {
+      "id": 171826,
+      "name": "told in flashback"
+    },
+    {
+      "id": 177438,
+      "name": "heist gone wrong"
+    },
+    {
+      "id": 188665,
+      "name": "botched robbery"
+    },
+    {
+      "id": 201058,
+      "name": "foreshadowing"
+    },
+    {
+      "id": 207784,
+      "name": "rendezvous"
+    },
+    {
+      "id": 224552,
+      "name": "iconic"
+    },
+    {
+      "id": 233069,
+      "name": "set in one room"
+    },
+    {
+      "id": 233072,
+      "name": "uneasy alliance"
+    },
+    {
+      "id": 233073,
+      "name": "rag tag group"
+    },
+    {
+      "id": 268132,
+      "name": "based on short film"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037,
+        "known_for_department": "Acting",
+        "name": "Harvey Keitel",
+        "original_name": "Harvey Keitel",
+        "popularity": 24.269,
+        "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg",
+        "cast_id": 20,
+        "character": "Mr. White / Larry Dimmick",
+        "credit_id": "52fe424ac3a36847f8012d01",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3129,
+        "known_for_department": "Acting",
+        "name": "Tim Roth",
+        "original_name": "Tim Roth",
+        "popularity": 32.838,
+        "profile_path": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg",
+        "cast_id": 4,
+        "character": "Mr. Orange / Freddy Newandyke",
+        "credit_id": "52fe424ac3a36847f8012cbd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147,
+        "known_for_department": "Acting",
+        "name": "Michael Madsen",
+        "original_name": "Michael Madsen",
+        "popularity": 23.033,
+        "profile_path": "/AnQm8pXVbMicr4U0IRsOascthVI.jpg",
+        "cast_id": 5,
+        "character": "Mr. Blonde / Vic Vega",
+        "credit_id": "52fe424ac3a36847f8012cc1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2969,
+        "known_for_department": "Acting",
+        "name": "Chris Penn",
+        "original_name": "Chris Penn",
+        "popularity": 16.747,
+        "profile_path": "/9yvXUh10ZVSapGuem5daebveqR4.jpg",
+        "cast_id": 6,
+        "character": "\"Nice Guy\" Eddie Cabot",
+        "credit_id": "52fe424ac3a36847f8012cc5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 884,
+        "known_for_department": "Acting",
+        "name": "Steve Buscemi",
+        "original_name": "Steve Buscemi",
+        "popularity": 26.85,
+        "profile_path": "/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg",
+        "cast_id": 7,
+        "character": "Mr. Pink",
+        "credit_id": "52fe424ac3a36847f8012cc9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6937,
+        "known_for_department": "Acting",
+        "name": "Lawrence Tierney",
+        "original_name": "Lawrence Tierney",
+        "popularity": 6.961,
+        "profile_path": "/veRzbAKX8vSoPiL7v7eMcAvRprK.jpg",
+        "cast_id": 8,
+        "character": "Joe Cabot",
+        "credit_id": "52fe424ac3a36847f8012ccd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6938,
+        "known_for_department": "Acting",
+        "name": "Randy Brooks",
+        "original_name": "Randy Brooks",
+        "popularity": 5.683,
+        "profile_path": "/mSZl3TZZcrkfAlZT8IDX7iHF5EC.jpg",
+        "cast_id": 9,
+        "character": "Detective Holdaway",
+        "credit_id": "52fe424ac3a36847f8012cd1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3206,
+        "known_for_department": "Acting",
+        "name": "Kirk Baltz",
+        "original_name": "Kirk Baltz",
+        "popularity": 6.674,
+        "profile_path": "/8PkKnqLOjfWm33GFk2Azt7MvY2Q.jpg",
+        "cast_id": 22,
+        "character": "Officer Marvin Nash",
+        "credit_id": "52fe424ac3a36847f8012d05",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6939,
+        "known_for_department": "Acting",
+        "name": "Edward Bunker",
+        "original_name": "Edward Bunker",
+        "popularity": 5.522,
+        "profile_path": "/or5afkJZ6wVCL9XWOxs7tjft2El.jpg",
+        "cast_id": 11,
+        "character": "Mr. Blue",
+        "credit_id": "52fe424ac3a36847f8012cd5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "cast_id": 12,
+        "character": "Mr. Brown",
+        "credit_id": "52fe424ac3a36847f8012cd9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46346,
+        "known_for_department": "Acting",
+        "name": "Rich Turner",
+        "original_name": "Rich Turner",
+        "popularity": 1.38,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Sheriff #1",
+        "credit_id": "52fe424ac3a36847f8012d49",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1067187,
+        "known_for_department": "Acting",
+        "name": "David Steen",
+        "original_name": "David Steen",
+        "popularity": 1.805,
+        "profile_path": "/frsLHFlVY6UVwh0ux4vrqHixO5C.jpg",
+        "cast_id": 35,
+        "character": "Sheriff #2",
+        "credit_id": "52fe424ac3a36847f8012d4d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1287673,
+        "known_for_department": "Acting",
+        "name": "Tony Cosmo",
+        "original_name": "Tony Cosmo",
+        "popularity": 0.98,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Sheriff #3",
+        "credit_id": "52fe424ac3a36847f8012d51",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 65908,
+        "known_for_department": "Acting",
+        "name": "Stevo Polyi",
+        "original_name": "Stevo Polyi",
+        "popularity": 1.96,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Sheriff #4",
+        "credit_id": "52fe424ac3a36847f8012d55",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 271738,
+        "known_for_department": "Acting",
+        "name": "Michael Sottile",
+        "original_name": "Michael Sottile",
+        "popularity": 3.865,
+        "profile_path": "/tOuwYfJyfJq8e3lZEpKtOi5afU0.jpg",
+        "cast_id": 92,
+        "character": "Teddy",
+        "credit_id": "5adc1db10e0a26144501882f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1173999,
+        "known_for_department": "Acting",
+        "name": "Robert Ruth",
+        "original_name": "Robert Ruth",
+        "popularity": 1.96,
+        "profile_path": "/7evl0ZWubDDaIHnRA546Aj8WGvG.jpg",
+        "cast_id": 93,
+        "character": "Shot Cop",
+        "credit_id": "5adc1dc19251410ac50187bd",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2545,
+        "known_for_department": "Production",
+        "name": "Lawrence Bender",
+        "original_name": "Lawrence Bender",
+        "popularity": 6.6,
+        "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+        "cast_id": 94,
+        "character": "Young Cop",
+        "credit_id": "5adc1dd3c3a36862c0018eb8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65907,
+        "known_for_department": "Acting",
+        "name": "Linda Kaye",
+        "original_name": "Linda Kaye",
+        "popularity": 1.823,
+        "profile_path": "/ftcHVQAFvaZPpAwZFI1uMmXUrlL.jpg",
+        "cast_id": 87,
+        "character": "Shocked Woman",
+        "credit_id": "5aa3d2fe0e0a26074b00c2c5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878558,
+        "known_for_department": "Crew",
+        "name": "Suzanne Celeste",
+        "original_name": "Suzanne Celeste",
+        "popularity": 1.96,
+        "profile_path": null,
+        "cast_id": 95,
+        "character": "Shot Woman",
+        "credit_id": "5adc1e0d9251410acb017fee",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3214,
+        "known_for_department": "Acting",
+        "name": "Steven Wright",
+        "original_name": "Steven Wright",
+        "popularity": 10.557,
+        "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg",
+        "cast_id": 33,
+        "character": "K-Billy DJ (voice)",
+        "credit_id": "52fe424ac3a36847f8012d45",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1772250,
+        "known_for_department": "Acting",
+        "name": "Laurie Lathem",
+        "original_name": "Laurie Lathem",
+        "popularity": 4.132,
+        "profile_path": null,
+        "cast_id": 96,
+        "character": "Background Radio Play (voice)",
+        "credit_id": "5adc1e520e0a2614420189b5",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2027645,
+        "known_for_department": "Acting",
+        "name": "Maria Strova",
+        "original_name": "Maria Strova",
+        "popularity": 1.787,
+        "profile_path": "/bmhTdiFb974a9s9gU5Pk4t0ZYVl.jpg",
+        "cast_id": 97,
+        "character": "Background Radio Play (voice)",
+        "credit_id": "5adc1e709251410acb01804c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58552,
+        "known_for_department": "Directing",
+        "name": "Burr Steers",
+        "original_name": "Burr Steers",
+        "popularity": 4.971,
+        "profile_path": "/k9rAVWornL0SUIykpjd3K3IfSll.jpg",
+        "cast_id": 98,
+        "character": "Background Radio Play (voice)",
+        "credit_id": "5adc1e840e0a261442018a07",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65903,
+        "known_for_department": "Writing",
+        "name": "Craig Hamann",
+        "original_name": "Craig Hamann",
+        "popularity": 2.59,
+        "profile_path": "/7WSKIislGgMQFuRnEI59VgjAro3.jpg",
+        "cast_id": 99,
+        "character": "Background Radio Play (voice)",
+        "credit_id": "5adc1e9cc3a36862ca01a727",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 65911,
+        "known_for_department": "Acting",
+        "name": "Rowland Wafford",
+        "original_name": "Rowland Wafford",
+        "popularity": 1.62,
+        "profile_path": null,
+        "cast_id": 100,
+        "character": "Diner Patron (uncredited)",
+        "credit_id": "5adc1f93c3a36803fa018379",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit_id": "5e840d0dcb6db50013a6b3b6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138,
+        "known_for_department": "Directing",
+        "name": "Quentin Tarantino",
+        "original_name": "Quentin Tarantino",
+        "popularity": 22.388,
+        "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "credit_id": "52fe424ac3a36847f8012d0b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2545,
+        "known_for_department": "Production",
+        "name": "Lawrence Bender",
+        "original_name": "Lawrence Bender",
+        "popularity": 6.6,
+        "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+        "credit_id": "52fe424ac3a36847f8012cdf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37334,
+        "known_for_department": "Production",
+        "name": "Paul Hellerman",
+        "original_name": "Paul Hellerman",
+        "popularity": 3.044,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d2f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 156,
+        "known_for_department": "Editing",
+        "name": "Sally Menke",
+        "original_name": "Sally Menke",
+        "popularity": 2.411,
+        "profile_path": "/ggD5FOF6kgCz2X9NQESmxJwCCWc.jpg",
+        "credit_id": "52fe424ac3a36847f8012ceb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037,
+        "known_for_department": "Acting",
+        "name": "Harvey Keitel",
+        "original_name": "Harvey Keitel",
+        "popularity": 24.269,
+        "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg",
+        "credit_id": "557df738c3a36821ab000546",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1777,
+        "known_for_department": "Production",
+        "name": "Ross Katz",
+        "original_name": "Ross Katz",
+        "popularity": 1.96,
+        "profile_path": "/1JAPs21rMe9O6ggAoUjAMQjbNeK.jpg",
+        "credit_id": "59a48ac7925141396f0041b2",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5779,
+        "known_for_department": "Art",
+        "name": "David Wasco",
+        "original_name": "David Wasco",
+        "popularity": 5.908,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012cf7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8297,
+        "known_for_department": "Writing",
+        "name": "Roger Avary",
+        "original_name": "Roger Avary",
+        "popularity": 5.253,
+        "profile_path": "/eq810bljrpQ0FB0SUmUTGyxqFv6.jpg",
+        "credit_id": "5aa3d2cf0e0a26075700c68b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8297,
+        "known_for_department": "Writing",
+        "name": "Roger Avary",
+        "original_name": "Roger Avary",
+        "popularity": 5.253,
+        "profile_path": "/eq810bljrpQ0FB0SUmUTGyxqFv6.jpg",
+        "credit_id": "59a48dc892514139b400465b",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5507,
+        "known_for_department": "Production",
+        "name": "Ronnie Yeskel",
+        "original_name": "Ronnie Yeskel",
+        "popularity": 3.087,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012cf1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3115,
+        "known_for_department": "Camera",
+        "name": "Andrzej Sekula",
+        "original_name": "Andrzej Sekula",
+        "popularity": 5.061,
+        "profile_path": "/8vPRxAkQC1j22qvadt0H8ZByqBb.jpg",
+        "credit_id": "52fe424ac3a36847f8012ce5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6940,
+        "known_for_department": "Sound",
+        "name": "Karyn Rachtman",
+        "original_name": "Karyn Rachtman",
+        "popularity": 2.58,
+        "profile_path": null,
+        "credit_id": "5636061a925141284c01a4db",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11801,
+        "known_for_department": "Art",
+        "name": "Sandy Reynolds-Wasco",
+        "original_name": "Sandy Reynolds-Wasco",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d23",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11802,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Betsy Heimann",
+        "original_name": "Betsy Heimann",
+        "popularity": 4.238,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d29",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12525,
+        "known_for_department": "Production",
+        "name": "Debra Grieco",
+        "original_name": "Debra Grieco",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5ca08d25c3a36873448389c4",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12997,
+        "known_for_department": "Production",
+        "name": "Richard N. Gladstein",
+        "original_name": "Richard N. Gladstein",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d11",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16177,
+        "known_for_department": "Sound",
+        "name": "Ron Bartlett",
+        "original_name": "Ron Bartlett",
+        "popularity": 2.813,
+        "profile_path": "/AmFG81joHLkvnh4Io20TdCCBk8P.jpg",
+        "credit_id": "5aa3d356925141279300b31a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20921,
+        "known_for_department": "Directing",
+        "name": "Monte Hellman",
+        "original_name": "Monte Hellman",
+        "popularity": 2.659,
+        "profile_path": "/2EIGgmdiPMJf64qvM24Vuj0aBGs.jpg",
+        "credit_id": "52fe424ac3a36847f8012d17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 22054,
+        "known_for_department": "Crew",
+        "name": "Ken Lesco",
+        "original_name": "Ken Lesco",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "59a48c1b925141396f0042eb",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46589,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary Claire Hannan",
+        "original_name": "Mary Claire Hannan",
+        "popularity": 4.196,
+        "profile_path": "/po5EDrudtAYk9azlv8Zkku7R3wU.jpg",
+        "credit_id": "59a48afa925141398b0045a8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58809,
+        "known_for_department": "Directing",
+        "name": "Martin Kitrosser",
+        "original_name": "Martin Kitrosser",
+        "popularity": 3.402,
+        "profile_path": null,
+        "credit_id": "59a48c8ac3a3680b04004988",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66137,
+        "known_for_department": "Production",
+        "name": "Ronna B. Wallace",
+        "original_name": "Ronna B. Wallace",
+        "popularity": 1.856,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d1d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74989,
+        "known_for_department": "Camera",
+        "name": "Mark Emery Moore",
+        "original_name": "Mark Emery Moore",
+        "popularity": 0.919,
+        "profile_path": null,
+        "credit_id": "59a48ae09251413955004273",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 143893,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michelle Bühler",
+        "original_name": "Michelle Bühler",
+        "popularity": 1.59,
+        "profile_path": null,
+        "credit_id": "59a48b289251413950004538",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148455,
+        "known_for_department": "Writing",
+        "name": "Ziad Doueiri",
+        "original_name": "Ziad Doueiri",
+        "popularity": 3.766,
+        "profile_path": null,
+        "credit_id": "59a48aa292514139b4004362",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554887,
+        "known_for_department": "Sound",
+        "name": "Stephen Hunter Flick",
+        "original_name": "Stephen Hunter Flick",
+        "popularity": 5.438,
+        "profile_path": null,
+        "credit_id": "59a48da9925141398b004847",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1280074,
+        "known_for_department": "Editing",
+        "name": "Kelley Dixon",
+        "original_name": "Kelley Dixon",
+        "popularity": 1.96,
+        "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg",
+        "credit_id": "59a48cabc3a3680ab50040f6",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1287670,
+        "known_for_department": "Crew",
+        "name": "Stephen DeLollis",
+        "original_name": "Stephen DeLollis",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d35",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287671,
+        "known_for_department": "Crew",
+        "name": "Rick Yale",
+        "original_name": "Rick Yale",
+        "popularity": 0.6,
+        "profile_path": "/ueu5fp4IZdqYMiwkSt8OcPeJ0Yw.jpg",
+        "credit_id": "52fe424ac3a36847f8012d3b",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1287672,
+        "known_for_department": "Crew",
+        "name": "Larry Fioritto",
+        "original_name": "Larry Fioritto",
+        "popularity": 1.614,
+        "profile_path": null,
+        "credit_id": "52fe424ac3a36847f8012d41",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1395361,
+        "known_for_department": "Sound",
+        "name": "Steve F.B. Smith",
+        "original_name": "Steve F.B. Smith",
+        "popularity": 1.415,
+        "profile_path": null,
+        "credit_id": "59a48de1c3a3680ad5004069",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397865,
+        "known_for_department": "Production",
+        "name": "Peggy Kennedy",
+        "original_name": "Peggy Kennedy",
+        "popularity": 1.123,
+        "profile_path": null,
+        "credit_id": "59a48ceb925141399800467f",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399640,
+        "known_for_department": "Crew",
+        "name": "James Lowder",
+        "original_name": "James Lowder",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "59a48c50c3a3680aec004943",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403434,
+        "known_for_department": "Art",
+        "name": "Brett C. Smith",
+        "original_name": "Brett C. Smith",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "59a48a5dc3a3680aec004779",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404717,
+        "known_for_department": "Sound",
+        "name": "Curt Schulkey",
+        "original_name": "Curt Schulkey",
+        "popularity": 3.204,
+        "profile_path": null,
+        "credit_id": "59a48d83c3a3680a5b003eb7",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407812,
+        "known_for_department": "Sound",
+        "name": "Geoffrey G. Rubay",
+        "original_name": "Geoffrey G. Rubay",
+        "popularity": 1.125,
+        "profile_path": null,
+        "credit_id": "5aa3d379925141278400aea0",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409269,
+        "known_for_department": "Art",
+        "name": "Jonathan Bobbitt",
+        "original_name": "Jonathan Bobbitt",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5ca08c919251412c0e06b543",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410102,
+        "known_for_department": "Art",
+        "name": "Jonathan R. Hodges",
+        "original_name": "Jonathan R. Hodges",
+        "popularity": 0.697,
+        "profile_path": null,
+        "credit_id": "59a48bc09251413998004553",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423863,
+        "known_for_department": "Sound",
+        "name": "David E. Stone",
+        "original_name": "David E. Stone",
+        "popularity": 2.581,
+        "profile_path": null,
+        "credit_id": "5aa3d3a50e0a26075d00c6a0",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456721,
+        "known_for_department": "Crew",
+        "name": "Marian Green",
+        "original_name": "Marian Green",
+        "popularity": 2.194,
+        "profile_path": null,
+        "credit_id": "59a48c2ec3a3680ac7004850",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1515865,
+        "known_for_department": "Production",
+        "name": "Jamie Beardsley",
+        "original_name": "Jamie Beardsley",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "59a48c76c3a3680ab50040b0",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546084,
+        "known_for_department": "Crew",
+        "name": "Jeannie H. Kelly",
+        "original_name": "Jeannie H. Kelly",
+        "popularity": 1.116,
+        "profile_path": null,
+        "credit_id": "59a48b52c3a3680b1200475b",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547239,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jacqueline Aronson",
+        "original_name": "Jacqueline Aronson",
+        "popularity": 1.765,
+        "profile_path": null,
+        "credit_id": "59a48b3d925141398b0045e1",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1548677,
+        "known_for_department": "Crew",
+        "name": "Bruce Comtois",
+        "original_name": "Bruce Comtois",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48be7c3a3680ac7004814",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1549654,
+        "known_for_department": "Sound",
+        "name": "Jennifer Pyken",
+        "original_name": "Jennifer Pyken",
+        "popularity": 1.388,
+        "profile_path": null,
+        "credit_id": "59a48baec3a3680b120047a8",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564584,
+        "known_for_department": "Sound",
+        "name": "Charles Ewing Smith",
+        "original_name": "Charles Ewing Smith",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5aa3d397c3a3687c0c00bc32",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1764075,
+        "known_for_department": "Sound",
+        "name": "Ken Segal",
+        "original_name": "Ken Segal",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "59a48d7192514139a7004892",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1802719,
+        "known_for_department": "Sound",
+        "name": "Mary Louise Rodgers",
+        "original_name": "Mary Louise Rodgers",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "5ca08cacc3a3687348837630",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1804961,
+        "known_for_department": "Production",
+        "name": "Kelly Kiernan",
+        "original_name": "Kelly Kiernan",
+        "popularity": 2.188,
+        "profile_path": null,
+        "credit_id": "5ca08c76925141557804785f",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1857117,
+        "known_for_department": "Production",
+        "name": "Enid L. Kantor",
+        "original_name": "Enid L. Kantor",
+        "popularity": 0.884,
+        "profile_path": null,
+        "credit_id": "59a48d12c3a3680b04004a30",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878553,
+        "known_for_department": "Art",
+        "name": "Marino Pascal",
+        "original_name": "Marino Pascal",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48a7092514139a7004587",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878555,
+        "known_for_department": "Camera",
+        "name": "Ric Urbauer",
+        "original_name": "Ric Urbauer",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "59a48ab7c3a3680a5b003c49",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878556,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Iain Jones",
+        "original_name": "Iain Jones",
+        "popularity": 0.828,
+        "profile_path": null,
+        "credit_id": "59a48b109251413998004488",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878557,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rachel Tanner",
+        "original_name": "Rachel Tanner",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48b1c92514139a7004629",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878558,
+        "known_for_department": "Crew",
+        "name": "Suzanne Celeste",
+        "original_name": "Suzanne Celeste",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "59a48b63925141398b004605",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878559,
+        "known_for_department": "Crew",
+        "name": "David Coffee",
+        "original_name": "David Coffee",
+        "popularity": 1.101,
+        "profile_path": null,
+        "credit_id": "59a48b73c3a3680a5b003ce5",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878560,
+        "known_for_department": "Crew",
+        "name": "Wayne Alexander",
+        "original_name": "Wayne Alexander",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "59a48b9dc3a3680b12004798",
+        "department": "Crew",
+        "job": "Legal Services"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878562,
+        "known_for_department": "Crew",
+        "name": "Warren Betts",
+        "original_name": "Warren Betts",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48bd692514139a70046d9",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878563,
+        "known_for_department": "Crew",
+        "name": "Melanie Molyneux",
+        "original_name": "Melanie Molyneux",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "59a48bfa92514139b40044b7",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878564,
+        "known_for_department": "Crew",
+        "name": "Ben C. Giller",
+        "original_name": "Ben C. Giller",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "59a48c4492514139980045d5",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878565,
+        "known_for_department": "Crew",
+        "name": "Marina Bailey",
+        "original_name": "Marina Bailey",
+        "popularity": 1.094,
+        "profile_path": null,
+        "credit_id": "59a48c62c3a3680a5b003da5",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878566,
+        "known_for_department": "Editing",
+        "name": "Chuck Winston",
+        "original_name": "Chuck Winston",
+        "popularity": 1.099,
+        "profile_path": null,
+        "credit_id": "59a48c9bc3a3680ad5003f5d",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878567,
+        "known_for_department": "Lighting",
+        "name": "Jay Dahlquist",
+        "original_name": "Jay Dahlquist",
+        "popularity": 0.828,
+        "profile_path": null,
+        "credit_id": "59a48cc6c3a3680b120048ab",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878568,
+        "known_for_department": "Lighting",
+        "name": "Joey D. Brown",
+        "original_name": "Joey D. Brown",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48cd1c3a3680ac70048e2",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878569,
+        "known_for_department": "Lighting",
+        "name": "Greg R. McCullough",
+        "original_name": "Greg R. McCullough",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48cddc3a3680b120048cc",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878570,
+        "known_for_department": "Production",
+        "name": "Billy A. Fox",
+        "original_name": "Billy A. Fox",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48cf79251413949004656",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878571,
+        "known_for_department": "Production",
+        "name": "R. Blaine Currier",
+        "original_name": "R. Blaine Currier",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "59a48d05925141398b00478f",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878572,
+        "known_for_department": "Sound",
+        "name": "Dwayne S. Henkel",
+        "original_name": "Dwayne S. Henkel",
+        "popularity": 0.624,
+        "profile_path": null,
+        "credit_id": "59a48d37925141396f0043f4",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878573,
+        "known_for_department": "Sound",
+        "name": "John Hulsman",
+        "original_name": "John Hulsman",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "59a48d4392514139b40045e5",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878574,
+        "known_for_department": "Sound",
+        "name": "Cecilia Perna",
+        "original_name": "Cecilia Perna",
+        "popularity": 1.382,
+        "profile_path": null,
+        "credit_id": "5ca08cbd0e0a265986fa873b",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878575,
+        "known_for_department": "Crew",
+        "name": "John Lieberman",
+        "original_name": "John Lieberman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59a48df9c3a3680aec004b12",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2113078,
+        "known_for_department": "Camera",
+        "name": "Dink Adams",
+        "original_name": "Dink Adams",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5ca08ccd9251412c0e06b5c1",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278035,
+        "known_for_department": "Directing",
+        "name": "Andy Spilkoman",
+        "original_name": "Andy Spilkoman",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "5ca08c87c3a368735b837031",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278036,
+        "known_for_department": "Sound",
+        "name": "Nancy Lynn Hurlbut",
+        "original_name": "Nancy Lynn Hurlbut",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5ca08ca29251416318048305",
+        "department": "Sound",
+        "job": "Assistant Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278037,
+        "known_for_department": "Camera",
+        "name": "Dennis K. Wilson",
+        "original_name": "Dennis K. Wilson",
+        "popularity": 1.214,
+        "profile_path": null,
+        "credit_id": "5ca08cd7c3a3687359836161",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278038,
+        "known_for_department": "Camera",
+        "name": "Randall Guth",
+        "original_name": "Randall Guth",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5ca08ce79251416318048351",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278039,
+        "known_for_department": "Editing",
+        "name": "Mark Lass",
+        "original_name": "Mark Lass",
+        "popularity": 0.828,
+        "profile_path": null,
+        "credit_id": "5ca08cf3c3a368734a83763c",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278040,
+        "known_for_department": "Production",
+        "name": "Judith E. Goldman",
+        "original_name": "Judith E. Goldman",
+        "popularity": 0.982,
+        "profile_path": null,
+        "credit_id": "5ca08d00c3a368734e83aa01",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2278041,
+        "known_for_department": "Production",
+        "name": "Mary Santiago",
+        "original_name": "Mary Santiago",
+        "popularity": 1.572,
+        "profile_path": null,
+        "credit_id": "5ca08d82c3a3687355835763",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278042,
+        "known_for_department": "Crew",
+        "name": "Robert John Speer",
+        "original_name": "Robert John Speer",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5ca08d8c0e0a265989fa8cd9",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278043,
+        "known_for_department": "Crew",
+        "name": "Pat Domenico",
+        "original_name": "Pat Domenico",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5ca08d990e0a265980fab1a4",
+        "department": "Crew",
+        "job": "Key Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278044,
+        "known_for_department": "Production",
+        "name": "Wendy Baker",
+        "original_name": "Wendy Baker",
+        "popularity": 0.828,
+        "profile_path": null,
+        "credit_id": "5ca08da49251411a2506e3a2",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0105236",
+    "facebook_id": "ReservoirDogsMovie",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}

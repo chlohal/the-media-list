@@ -1,0 +1,739 @@
+{
+  "adult": false,
+  "backdrop_path": "/fsyLxF8eIfZ2Z7DXmjD6n9vHmb8.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.theroommovie.com/",
+  "id": 17473,
+  "imdb_id": "tt0368226",
+  "original_language": "en",
+  "original_title": "The Room",
+  "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+  "popularity": 13.38,
+  "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+  "production_companies": [
+    {
+      "id": 3330,
+      "logo_path": null,
+      "name": "Chloe Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3331,
+      "logo_path": null,
+      "name": "TPW Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3332,
+      "logo_path": null,
+      "name": "Wiseau-Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-06-27",
+  "revenue": 1752988,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Can you ever really trust anyone?",
+  "title": "The Room",
+  "video": false,
+  "vote_average": 4.077,
+  "vote_count": 1173,
+  "watch_providers": {},
+  "keywords": [
+    {
+      "id": 579,
+      "name": "american football"
+    },
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 9914,
+      "name": "slice of life"
+    },
+    {
+      "id": 11505,
+      "name": "drug pusher"
+    },
+    {
+      "id": 14534,
+      "name": "relationship"
+    },
+    {
+      "id": 14720,
+      "name": "love affair"
+    },
+    {
+      "id": 34117,
+      "name": "cult film"
+    },
+    {
+      "id": 157286,
+      "name": "gold digger"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81916,
+        "known_for_department": "Acting",
+        "name": "Tommy Wiseau",
+        "original_name": "Tommy Wiseau",
+        "popularity": 2.538,
+        "profile_path": "/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "cast_id": 1,
+        "character": "Johnny",
+        "credit_id": "52fe47299251416c7508fb21",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81917,
+        "known_for_department": "Acting",
+        "name": "Juliette Danielle",
+        "original_name": "Juliette Danielle",
+        "popularity": 2.776,
+        "profile_path": "/4dU5buOHyl02zERuJfrVFherRTr.jpg",
+        "cast_id": 2,
+        "character": "Lisa",
+        "credit_id": "52fe47299251416c7508fb25",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81918,
+        "known_for_department": "Acting",
+        "name": "Greg Sestero",
+        "original_name": "Greg Sestero",
+        "popularity": 1.56,
+        "profile_path": "/ySLUoDUVQB1IjgsaX9ktPaz58Rh.jpg",
+        "cast_id": 3,
+        "character": "Mark",
+        "credit_id": "52fe47299251416c7508fb29",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81919,
+        "known_for_department": "Acting",
+        "name": "Philip Haldiman",
+        "original_name": "Philip Haldiman",
+        "popularity": 3.429,
+        "profile_path": "/sNJdUfzX8cryH1rnkez2MVacP10.jpg",
+        "cast_id": 4,
+        "character": "Denny",
+        "credit_id": "52fe47299251416c7508fb2d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81920,
+        "known_for_department": "Acting",
+        "name": "Carolyn Minnott",
+        "original_name": "Carolyn Minnott",
+        "popularity": 1.96,
+        "profile_path": "/dXUkYx7lgClH1sO5Sr6o7lYfo3z.jpg",
+        "cast_id": 5,
+        "character": "Claudette",
+        "credit_id": "52fe47299251416c7508fb31",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81921,
+        "known_for_department": "Acting",
+        "name": "Robyn Paris",
+        "original_name": "Robyn Paris",
+        "popularity": 0.98,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Michelle",
+        "credit_id": "52fe47299251416c7508fb35",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81925,
+        "known_for_department": "Acting",
+        "name": "Dan Janjigian",
+        "original_name": "Dan Janjigian",
+        "popularity": 1.96,
+        "profile_path": "/wSPOQIx1MF3Cabk6v8CgZAuB9XJ.jpg",
+        "cast_id": 10,
+        "character": "Chris R",
+        "credit_id": "52fe47299251416c7508fb45",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81923,
+        "known_for_department": "Acting",
+        "name": "Kyle Vogt",
+        "original_name": "Kyle Vogt",
+        "popularity": 0.655,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Peter",
+        "credit_id": "52fe47299251416c7508fb3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81924,
+        "known_for_department": "Acting",
+        "name": "Greg Ellery",
+        "original_name": "Greg Ellery",
+        "popularity": 0.702,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Steven",
+        "credit_id": "52fe47299251416c7508fb41",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81922,
+        "known_for_department": "Acting",
+        "name": "Mike Holmes",
+        "original_name": "Mike Holmes",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mike",
+        "credit_id": "5acd3f77c3a36834de08c956",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81916,
+        "known_for_department": "Acting",
+        "name": "Tommy Wiseau",
+        "original_name": "Tommy Wiseau",
+        "popularity": 2.538,
+        "profile_path": "/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "credit_id": "52fe47299251416c7508fb4b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81916,
+        "known_for_department": "Acting",
+        "name": "Tommy Wiseau",
+        "original_name": "Tommy Wiseau",
+        "popularity": 2.538,
+        "profile_path": "/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "credit_id": "539a507ac3a3684b5e0005f8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81916,
+        "known_for_department": "Acting",
+        "name": "Tommy Wiseau",
+        "original_name": "Tommy Wiseau",
+        "popularity": 2.538,
+        "profile_path": "/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "credit_id": "539a5081c3a3684b86000586",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81916,
+        "known_for_department": "Acting",
+        "name": "Tommy Wiseau",
+        "original_name": "Tommy Wiseau",
+        "popularity": 2.538,
+        "profile_path": "/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "credit_id": "539a506dc3a3684b86000582",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81918,
+        "known_for_department": "Acting",
+        "name": "Greg Sestero",
+        "original_name": "Greg Sestero",
+        "popularity": 1.56,
+        "profile_path": "/ySLUoDUVQB1IjgsaX9ktPaz58Rh.jpg",
+        "credit_id": "62aa79d222af3e5212f60733",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91087,
+        "known_for_department": "Sound",
+        "name": "Stanley Kastner",
+        "original_name": "Stanley Kastner",
+        "popularity": 1.467,
+        "profile_path": null,
+        "credit_id": "60db3e1217c443005e847057",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 164890,
+        "known_for_department": "Editing",
+        "name": "Eric Chase",
+        "original_name": "Eric Chase",
+        "popularity": 0.656,
+        "profile_path": null,
+        "credit_id": "539a51260e0a260fba0007ba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 164890,
+        "known_for_department": "Editing",
+        "name": "Eric Chase",
+        "original_name": "Eric Chase",
+        "popularity": 0.656,
+        "profile_path": null,
+        "credit_id": "60db3dcadbf14400468a652d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 979055,
+        "known_for_department": "Camera",
+        "name": "Rudy Harbon",
+        "original_name": "Rudy Harbon",
+        "popularity": 0.61,
+        "profile_path": null,
+        "credit_id": "62aa7ac335d1bc4f96013b09",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085780,
+        "known_for_department": "Camera",
+        "name": "Todd Barron",
+        "original_name": "Todd Barron",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "539a510b0e0a260fb0000810",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330242,
+        "known_for_department": "Production",
+        "name": "Drew Caffrey",
+        "original_name": "Drew Caffrey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "539a5094c3a3684b950005d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330243,
+        "known_for_department": "Production",
+        "name": "Chloe Lietzke",
+        "original_name": "Chloe Lietzke",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "539a50ed0e0a260fa80007ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330243,
+        "known_for_department": "Production",
+        "name": "Chloe Lietzke",
+        "original_name": "Chloe Lietzke",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "539a51330e0a260fb000081c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330244,
+        "known_for_department": "Sound",
+        "name": "Mladen Milicevic",
+        "original_name": "Mladen Milicevic",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "539a50fd0e0a260fab0007f5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392971,
+        "known_for_department": "Crew",
+        "name": "Matt von Brock",
+        "original_name": "Matt von Brock",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3e5325b955005d045da8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1401289,
+        "known_for_department": "Sound",
+        "name": "Donald Lyles",
+        "original_name": "Donald Lyles",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3e232716710021a6207c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416895,
+        "known_for_department": "Editing",
+        "name": "Troy Allen",
+        "original_name": "Troy Allen",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3dad880551002d1e1d4c",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1420158,
+        "known_for_department": "Camera",
+        "name": "Stefan Tarzan",
+        "original_name": "Stefan Tarzan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7b01b09bde0067baaa46",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423771,
+        "known_for_department": "Directing",
+        "name": "Sandy Schklair",
+        "original_name": "Sandy Schklair",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "62abd27177d23b00508768f5",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423771,
+        "known_for_department": "Directing",
+        "name": "Sandy Schklair",
+        "original_name": "Sandy Schklair",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "62aa7a0622af3e52142114b9",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1539765,
+        "known_for_department": "Camera",
+        "name": "Wade Whitley",
+        "original_name": "Wade Whitley",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "62aa7b1622af3e5212f60f04",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1587110,
+        "known_for_department": "Sound",
+        "name": "Zsolt Magyar",
+        "original_name": "Zsolt Magyar",
+        "popularity": 0.714,
+        "profile_path": null,
+        "credit_id": "60db3dd725b9550073b1233b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620723,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Safowa Bright-Asare",
+        "original_name": "Safowa Bright-Asare",
+        "popularity": 1.705,
+        "profile_path": null,
+        "credit_id": "60db3d6c3fe1600045a2e09a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665894,
+        "known_for_department": "Lighting",
+        "name": "Cicero De Moraes",
+        "original_name": "Cicero De Moraes",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7a5fb09bde009e9b20b1",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1894620,
+        "known_for_department": "Camera",
+        "name": "David Ortkiese",
+        "original_name": "David Ortkiese",
+        "popularity": 1.385,
+        "profile_path": null,
+        "credit_id": "62aa7a4635d1bc4f94ec7a20",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2003292,
+        "known_for_department": "Camera",
+        "name": "Joseph M. Setele",
+        "original_name": "Joseph M. Setele",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5ab13c4192514111c700ed08",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2360302,
+        "known_for_department": "Camera",
+        "name": "Gayle Hilary",
+        "original_name": "Gayle Hilary",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7ad6151c5c004f7fd992",
+        "department": "Camera",
+        "job": "Clapper Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2457196,
+        "known_for_department": "Camera",
+        "name": "Don Presley",
+        "original_name": "Don Presley",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7af2af3da6009a25510a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2593008,
+        "known_for_department": "Editing",
+        "name": "Andrew Harwood",
+        "original_name": "Andrew Harwood",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7aa25a5ed03269f73df9",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140737,
+        "known_for_department": "Art",
+        "name": "Mercedes Younger",
+        "original_name": "Mercedes Younger",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3d4c3fe160007d053881",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140738,
+        "known_for_department": "Art",
+        "name": "Kendra Hollaway",
+        "original_name": "Kendra Hollaway",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3d5c2716710076499004",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140739,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Persia Matine",
+        "original_name": "Persia Matine",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa79f3875d1a52774ecf17",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140739,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Persia Matine",
+        "original_name": "Persia Matine",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa79faaf3da6005045ea4d",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140740,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amy Von Brock",
+        "original_name": "Amy Von Brock",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "60db3d930b7316007d1edd77",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140741,
+        "known_for_department": "Sound",
+        "name": "Charles D. Ballard",
+        "original_name": "Charles D. Ballard",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3dbb3fe160007d05399a",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140742,
+        "known_for_department": "Sound",
+        "name": "Richard Zimmerman",
+        "original_name": "Richard Zimmerman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60db3e010e5aba00297079af",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3589987,
+        "known_for_department": "Lighting",
+        "name": "Sheri Ortkiese",
+        "original_name": "Sheri Ortkiese",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62aa7a4d7e12f00e260f253a",
+        "department": "Lighting",
+        "job": "Electrician"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0368226",
+    "facebook_id": "TheRoom",
+    "instagram_id": "theroom.movie",
+    "twitter_id": "TheRoom"
+  },
+  "media_type": "movie"
+}

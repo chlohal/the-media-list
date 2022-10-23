@@ -1,0 +1,5095 @@
+{
+  "adult": false,
+  "backdrop_path": "/j8M9FjI1seC6OmUluDGkOZIwZt.jpg",
+  "belongs_to_collection": {
+    "id": 167613,
+    "name": "Alvin and the Chipmunks Collection",
+    "poster_path": "/fLvRQcuk5ZFKnDvUC553XK3OnPC.jpg",
+    "backdrop_path": "/qI483yHct3PBtIiOH3K3SVNUDq5.jpg"
+  },
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 55301,
+  "imdb_id": "tt1615918",
+  "original_language": "en",
+  "original_title": "Alvin and the Chipmunks: Chipwrecked",
+  "overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+  "popularity": 57.84,
+  "poster_path": "/i2KJbbpodyxizppc8F9NbUb7Iiq.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "logo_path": "/7cxRWzi4LsVm4Utfpr1hfARNurT.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10930,
+      "logo_path": "/gTl5zq214ifd2qW7sp7to0aHS6C.png",
+      "name": "Bagdasarian Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-12-14",
+  "revenue": 342695435,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sun, Sea and Squeaks.",
+  "title": "Alvin and the Chipmunks: Chipwrecked",
+  "video": false,
+  "vote_average": 5.697,
+  "vote_count": 1865,
+  "watch_providers": {
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=AE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 13
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=AL",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=AR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 45
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=AU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "BB": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BB",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/jWKX6kO7JqQbqVnu9QtEO6FC85n.jpg",
+          "provider_id": 697,
+          "provider_name": "meJane",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/oBoWstXQFHAlPApyxIQ31CIbNQk.jpg",
+          "provider_id": 307,
+          "provider_name": "Globoplay",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5jdN9E9Ftxxbg711crjOyCagTy8.jpg",
+          "provider_id": 227,
+          "provider_name": "Telecine Play",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "BS": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=BS",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CA",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/pGk6V35szQnJVq2OoJLnRpjifb3.jpg",
+          "provider_id": 492,
+          "provider_name": "ILLICO",
+          "display_priority": 58
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CH",
+      "rent": [
+        {
+          "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+          "provider_id": 150,
+          "provider_name": "SwissCom",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+          "provider_id": 150,
+          "provider_name": "SwissCom",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 41
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CO",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CV": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CV",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 13
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/wTF37o4jOkQfjnWe41gmeuASYZA.jpg",
+          "provider_id": 308,
+          "provider_name": "O2 TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=DE",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=DK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "DZ": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=DZ",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=EC",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=EE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=EG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 27
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=ES",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=FI",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 35
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=FR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/ulTa4e9ysKwMwNpg7EfhYnvAj8q.jpg",
+          "provider_id": 59,
+          "provider_name": "Bbox VOD",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=GB",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 9,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/fBHHXKC34ffxAsQvDe0ZJbvmTEQ.jpg",
+          "provider_id": 29,
+          "provider_name": "Sky Go",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/j2OLGxyy0gKbPVI0DYFI2hJxP6y.jpg",
+          "provider_id": 175,
+          "provider_name": "Netflix Kids",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/nqGY5wuSv14vbY7NYOs8stJ6ZBF.jpg",
+          "provider_id": 591,
+          "provider_name": "Now TV Cinema",
+          "display_priority": 65
+        },
+        {
+          "logo_path": "/o6li3XZrBKXSqyNRS39UQEfPTCH.jpg",
+          "provider_id": 594,
+          "provider_name": "Virgin TV Go",
+          "display_priority": 66
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GF": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=GF",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GI": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=GI",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=GR",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=GT",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=HK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 7
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=HN",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=HR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/xrHrIraInfRXnrz1zHhY1tXJowg.jpg",
+          "provider_id": 572,
+          "provider_name": "RTL Play",
+          "display_priority": 31
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=HU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/fBHHXKC34ffxAsQvDe0ZJbvmTEQ.jpg",
+          "provider_id": 29,
+          "provider_name": "Sky Go",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/nqGY5wuSv14vbY7NYOs8stJ6ZBF.jpg",
+          "provider_id": 591,
+          "provider_name": "Now TV Cinema",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "IL": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IL",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 13
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IN",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "IQ": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IQ",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IS",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 31
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=IT",
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/ftxHS1anAWTYgtDtIDv8VLXoepH.jpg",
+          "provider_id": 109,
+          "provider_name": "Timvision",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/7khYVzFljIj9FpXIP7AEvxC8Nk6.jpg",
+          "provider_id": 110,
+          "provider_name": "Infinity",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/tdJqKoJVBtYSQUe4zIADZOgqsH7.jpg",
+          "provider_id": 1726,
+          "provider_name": "Infinity Selection Amazon Channel",
+          "display_priority": 49
+        }
+      ]
+    },
+    "JM": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=JM",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "JO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=JO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=JP",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+          "provider_id": 356,
+          "provider_name": "wavve",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "KW": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=KW",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LB": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=LB",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 13
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=LT",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=LV",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "LY": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=LY",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "MA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=MA",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=MK",
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=MT",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=MX",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=MY",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=NL",
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/jWKX6kO7JqQbqVnu9QtEO6FC85n.jpg",
+          "provider_id": 697,
+          "provider_name": "meJane",
+          "display_priority": 49
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 35
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=NO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 34
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=NZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/od4YNSSLgOP3p8EtQTnEYfrPa77.jpg",
+          "provider_id": 273,
+          "provider_name": "Neon TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 3
+        }
+      ]
+    },
+    "OM": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=OM",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PK": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PK",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PL",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ]
+    },
+    "PS": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PS",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 12
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PT",
+      "rent": [
+        {
+          "logo_path": "/dUeHhim2WUZz8S7EWjv0Ws6anRP.jpg",
+          "provider_id": 242,
+          "provider_name": "Meo",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 30
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=PY",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ]
+    },
+    "QA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=QA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/l5Wxbsgral716BOtZsGyPVNn8GC.jpg",
+          "provider_id": 250,
+          "provider_name": "Horizon",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=RS",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=RU",
+      "rent": [
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 25
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SA",
+      "flatrate": [
+        {
+          "logo_path": "/vMxtOESmrNWkM9Y9jAebETexPAc.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 29
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SG",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SI",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 26
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=TH",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TN": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=TN",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=TR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ]
+    },
+    "TT": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=TT",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 11
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=TW",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=US",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 164
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 31
+        },
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 34
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "YE": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=YE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/55301-alvin-and-the-chipmunks-chipwrecked/watch?locale=ZA",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/j2OLGxyy0gKbPVI0DYFI2hJxP6y.jpg",
+          "provider_id": 175,
+          "provider_name": "Netflix Kids",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10986,
+      "name": "chipmunk"
+    },
+    {
+      "id": 11095,
+      "name": "cruise ship"
+    },
+    {
+      "id": 209220,
+      "name": "live action and animation"
+    },
+    {
+      "id": 234363,
+      "name": "overboard"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11662,
+        "known_for_department": "Acting",
+        "name": "Jason Lee",
+        "original_name": "Jason Lee",
+        "popularity": 20.914,
+        "profile_path": "/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg",
+        "cast_id": 10,
+        "character": "David Seville",
+        "credit_id": "52fe48c5c3a36847f817884d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212,
+        "known_for_department": "Acting",
+        "name": "David Cross",
+        "original_name": "David Cross",
+        "popularity": 16.354,
+        "profile_path": "/psU22y9yP3uheVc4LWeHjLkeqEM.jpg",
+        "cast_id": 22,
+        "character": "Ian",
+        "credit_id": "55a789bac3a36830020015da",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 213001,
+        "known_for_department": "Acting",
+        "name": "Jenny Slate",
+        "original_name": "Jenny Slate",
+        "popularity": 22.771,
+        "profile_path": "/hqLygFKiylb1hchgu113NP5r7iM.jpg",
+        "cast_id": 7,
+        "character": "Zoe",
+        "credit_id": "52fe48c5c3a36847f8178841",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15033,
+        "known_for_department": "Acting",
+        "name": "Justin Long",
+        "original_name": "Justin Long",
+        "popularity": 26.593,
+        "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+        "cast_id": 13,
+        "character": "Alvin (voice)",
+        "credit_id": "52fe48c5c3a36847f8178859",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5661,
+        "known_for_department": "Acting",
+        "name": "Matthew Gray Gubler",
+        "original_name": "Matthew Gray Gubler",
+        "popularity": 19.655,
+        "profile_path": "/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg",
+        "cast_id": 23,
+        "character": "Simon (voice)",
+        "credit_id": "57961bda925141797e00d4e9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49915,
+        "known_for_department": "Acting",
+        "name": "Jesse McCartney",
+        "original_name": "Jesse McCartney",
+        "popularity": 9.076,
+        "profile_path": "/95f7jVXUwkHUUfj3AjvTJYx3pei.jpg",
+        "cast_id": 9,
+        "character": "Theodore (voice)",
+        "credit_id": "52fe48c5c3a36847f8178849",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56322,
+        "known_for_department": "Acting",
+        "name": "Amy Poehler",
+        "original_name": "Amy Poehler",
+        "popularity": 10.861,
+        "profile_path": "/k62oL10bNtPShjtHuLlKllwxva9.jpg",
+        "cast_id": 4,
+        "character": "Eleanor (voice)",
+        "credit_id": "52fe48c5c3a36847f817883d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1772,
+        "known_for_department": "Acting",
+        "name": "Anna Faris",
+        "original_name": "Anna Faris",
+        "popularity": 17.813,
+        "profile_path": "/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg",
+        "cast_id": 11,
+        "character": "Jeanette (voice)",
+        "credit_id": "52fe48c5c3a36847f8178851",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18979,
+        "known_for_department": "Acting",
+        "name": "Christina Applegate",
+        "original_name": "Christina Applegate",
+        "popularity": 20.451,
+        "profile_path": "/dNLVRcmXAqFje98Wc2X8CNFGvKh.jpg",
+        "cast_id": 12,
+        "character": "Brittany (voice)",
+        "credit_id": "52fe48c5c3a36847f8178855",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21088,
+        "known_for_department": "Acting",
+        "name": "Alan Tudyk",
+        "original_name": "Alan Tudyk",
+        "popularity": 26.177,
+        "profile_path": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg",
+        "cast_id": 24,
+        "character": "Simone (voice)",
+        "credit_id": "57961c7bc3a3682923009236",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368537,
+        "known_for_department": "Acting",
+        "name": "Michael P. Northey",
+        "original_name": "Michael P. Northey",
+        "popularity": 2.951,
+        "profile_path": "/insiJJFm8OsinNh8aa8D0grbntr.jpg",
+        "cast_id": 45,
+        "character": "Hawaiian Shirt Guy",
+        "credit_id": "5f9375aa9661fc0c17840413",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1498618,
+        "known_for_department": "Acting",
+        "name": "Sophia Aguiar",
+        "original_name": "Sophia Aguiar",
+        "popularity": 1.96,
+        "profile_path": "/8x6ouvyOaWB4Js2p3LwZI61W1wF.jpg",
+        "cast_id": 46,
+        "character": "Club Woman #1",
+        "credit_id": "5f9375b27e9d5f006d4fb105",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211790,
+        "known_for_department": "Acting",
+        "name": "Lauren Gottlieb",
+        "original_name": "Lauren Gottlieb",
+        "popularity": 5.121,
+        "profile_path": "/fwDz1h19vbyQH0g8SlsKyGKefyi.jpg",
+        "cast_id": 47,
+        "character": "Club Woman #2",
+        "credit_id": "5f9375bad768fe006ea10e9f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827696,
+        "known_for_department": "Acting",
+        "name": "Tera Perez",
+        "original_name": "Tera Perez",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Club Woman #3",
+        "credit_id": "5f9375c18805510aefc17875",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 170635,
+        "known_for_department": "Acting",
+        "name": "Andy Buckley",
+        "original_name": "Andy Buckley",
+        "popularity": 10.863,
+        "profile_path": "/rsH9Nv5NkCtWdycp3zk6dhPBGwi.jpg",
+        "cast_id": 8,
+        "character": "Captain Correlli",
+        "credit_id": "52fe48c5c3a36847f8178845",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91403,
+        "known_for_department": "Acting",
+        "name": "Chad Krowchuk",
+        "original_name": "Chad Krowchuk",
+        "popularity": 4.059,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Waiter",
+        "credit_id": "5d0900a6c3a368647c1f2114",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113861,
+        "known_for_department": "Acting",
+        "name": "Luisa d'Oliveira",
+        "original_name": "Luisa d'Oliveira",
+        "popularity": 14.634,
+        "profile_path": "/AqqrE7zKHBxtxeEvYHcwSzIgWlc.jpg",
+        "cast_id": 49,
+        "character": "Tessa",
+        "credit_id": "5f9375c98805510aefc1787c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558925,
+        "known_for_department": "Acting",
+        "name": "Tucker Albrizzi",
+        "original_name": "Tucker Albrizzi",
+        "popularity": 4.835,
+        "profile_path": "/oDZ5u49acsidJB7WRKjIsBkKQf3.jpg",
+        "cast_id": 50,
+        "character": "Tucker / Kite Kid",
+        "credit_id": "5f9375d07eb5f2004e01309c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 997197,
+        "known_for_department": "Acting",
+        "name": "Nelson Wong",
+        "original_name": "Nelson Wong",
+        "popularity": 4.797,
+        "profile_path": "/kepIOIAtrCZBvw7TuFufyGqQoo5.jpg",
+        "cast_id": 51,
+        "character": "Casino Guy",
+        "credit_id": "5f9375d784448e007e9a64b2",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827697,
+        "known_for_department": "Acting",
+        "name": "Michael Bagdasarian",
+        "original_name": "Michael Bagdasarian",
+        "popularity": 1.094,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Excursion Clerk",
+        "credit_id": "5f9376059661fc005084a6e3",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827698,
+        "known_for_department": "Acting",
+        "name": "Amber-Rochelle DeMarco",
+        "original_name": "Amber-Rochelle DeMarco",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Damsel #1",
+        "credit_id": "5f93760c9661fc005e849b3b",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827699,
+        "known_for_department": "Acting",
+        "name": "Marcela Caceres",
+        "original_name": "Marcela Caceres",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Damsel #2",
+        "credit_id": "5f9376132b9320007b756c80",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645416,
+        "known_for_department": "Production",
+        "name": "Natalie Sutcliffe",
+        "original_name": "Natalie Sutcliffe",
+        "popularity": 0.728,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Damsel #3",
+        "credit_id": "5f93761cd768fe07cda06a1a",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368837,
+        "known_for_department": "Acting",
+        "name": "Ian Harmon",
+        "original_name": "Ian Harmon",
+        "popularity": 0.6,
+        "profile_path": "/9DsNhtj9KhLdbyoMN5Sr95VEQE8.jpg",
+        "cast_id": 56,
+        "character": "Monster",
+        "credit_id": "5f9376228805510a30c178bf",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 169200,
+        "known_for_department": "Acting",
+        "name": "Phyllis Smith",
+        "original_name": "Phyllis Smith",
+        "popularity": 11.493,
+        "profile_path": "/h9w9pQbiderRWAC2mi7spjzuIGz.jpg",
+        "cast_id": 30,
+        "character": "Flight Attendant",
+        "credit_id": "5e827a98ce4ddc00137620f3",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30694,
+        "known_for_department": "Acting",
+        "name": "Ross Bagdasarian, Jr.",
+        "original_name": "Ross Bagdasarian, Jr.",
+        "popularity": 9.118,
+        "profile_path": "/nNEp23ALJFK8AI02kz0M5VZxqJa.jpg",
+        "cast_id": 57,
+        "character": "Alvin (singing voice) (uncredited)",
+        "credit_id": "5f93764b9661fc005e849b68",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30696,
+        "known_for_department": "Acting",
+        "name": "Janice Karman",
+        "original_name": "Janice Karman",
+        "popularity": 5.061,
+        "profile_path": "/zArQaSmENdlesH8NCBX1YyRD2zb.jpg",
+        "cast_id": 58,
+        "character": "Theodore / The Chipettes (singing voice) (uncredited)",
+        "credit_id": "5f9376527c6de30042f2b9b5",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827683,
+        "known_for_department": "Production",
+        "name": "Steve Vining",
+        "original_name": "Steve Vining",
+        "popularity": 1.66,
+        "profile_path": "/whoh72uya9vtIeJskpUZ9rcj3C3.jpg",
+        "cast_id": 59,
+        "character": "Simon (singing voice) (uncredited)",
+        "credit_id": "5f9376597e9d5f5cfa4f10ac",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824338,
+        "known_for_department": "Acting",
+        "name": "Eoin Bates",
+        "original_name": "Eoin Bates",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Music Executive (uncredited)",
+        "credit_id": "5f9376698805510a30c17931",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1108010,
+        "known_for_department": "Acting",
+        "name": "Seth Robert Dusky",
+        "original_name": "Seth Robert Dusky",
+        "popularity": 0.766,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Additional Voices (voice) (uncredited)",
+        "credit_id": "5f93767084448e00439a6a6a",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1766631,
+        "known_for_department": "Acting",
+        "name": "Wendell Kinney",
+        "original_name": "Wendell Kinney",
+        "popularity": 2.351,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Cruise Guest (uncredited)",
+        "credit_id": "5f9376777eb5f2004e0131de",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1784661,
+        "known_for_department": "Acting",
+        "name": "Jeremy Palko",
+        "original_name": "Jeremy Palko",
+        "popularity": 1.802,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Cruise Guy (uncredited)",
+        "credit_id": "5f9376857c6de3006cf2bfd7",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2800358,
+        "known_for_department": "Acting",
+        "name": "Rachael Wegener",
+        "original_name": "Rachael Wegener",
+        "popularity": 1.22,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Model (uncredited)",
+        "credit_id": "5f937694d768fe0033a10e2c",
+        "order": 32
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 373,
+        "known_for_department": "Sound",
+        "name": "Doug Jackson",
+        "original_name": "Doug Jackson",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "60557263fd4f8000296cb24a",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 376,
+        "known_for_department": "Production",
+        "name": "Arnon Milchan",
+        "original_name": "Arnon Milchan",
+        "popularity": 5.449,
+        "profile_path": "/b2hBExX4NnczNAnLuTBF4kmNhZm.jpg",
+        "credit_id": "5e827adece4ddc001575d7fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10569,
+        "known_for_department": "Production",
+        "name": "Karen Rosenfelt",
+        "original_name": "Karen Rosenfelt",
+        "popularity": 1.984,
+        "profile_path": null,
+        "credit_id": "5e827aeb8c22c0001534808c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5666,
+        "known_for_department": "Sound",
+        "name": "Mark Mothersbaugh",
+        "original_name": "Mark Mothersbaugh",
+        "popularity": 3.91,
+        "profile_path": "/AlC27GcWoXfAbP7IbncQyVPXITK.jpg",
+        "credit_id": "5b94fa060e0a26198201cc60",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8880,
+        "known_for_department": "Production",
+        "name": "Neil A. Machlis",
+        "original_name": "Neil A. Machlis",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5e827ad46d97e60016c9a1e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8880,
+        "known_for_department": "Production",
+        "name": "Neil A. Machlis",
+        "original_name": "Neil A. Machlis",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "605571254557a0006816325b",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11822,
+        "known_for_department": "Art",
+        "name": "Rose Marie McSherry",
+        "original_name": "Rose Marie McSherry",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "5e827b2c6d97e60014c97874",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10833,
+        "known_for_department": "Editing",
+        "name": "Peter Amundson",
+        "original_name": "Peter Amundson",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5e827b076d97e60018c99754",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18926,
+        "known_for_department": "Production",
+        "name": "Casey Grant",
+        "original_name": "Casey Grant",
+        "popularity": 1.788,
+        "profile_path": null,
+        "credit_id": "60557132ab1bc7006b7b3435",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25021,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lisa Love",
+        "original_name": "Lisa Love",
+        "popularity": 0.964,
+        "profile_path": null,
+        "credit_id": "605573a79ae6130028d244f8",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30694,
+        "known_for_department": "Acting",
+        "name": "Ross Bagdasarian, Jr.",
+        "original_name": "Ross Bagdasarian, Jr.",
+        "popularity": 9.118,
+        "profile_path": "/nNEp23ALJFK8AI02kz0M5VZxqJa.jpg",
+        "credit_id": "5e827abe0bc5290016f236a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30696,
+        "known_for_department": "Acting",
+        "name": "Janice Karman",
+        "original_name": "Janice Karman",
+        "popularity": 5.061,
+        "profile_path": "/zArQaSmENdlesH8NCBX1YyRD2zb.jpg",
+        "credit_id": "5e827acc9a6435001a4ed886",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11371,
+        "known_for_department": "Camera",
+        "name": "Thomas E. Ackerman",
+        "original_name": "Thomas E. Ackerman",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5910cafdc3a36864fc036632",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41080,
+        "known_for_department": "Production",
+        "name": "Allison Jones",
+        "original_name": "Allison Jones",
+        "popularity": 2.846,
+        "profile_path": "/d0Kk5DHy2dtoxwX7IelactzN0Hw.jpg",
+        "credit_id": "5e827b122a210c00132d1648",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49908,
+        "known_for_department": "Production",
+        "name": "Steve Waterman",
+        "original_name": "Steve Waterman",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5e827af89a6435001a4ed8c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49909,
+        "known_for_department": "Art",
+        "name": "Richard Holland",
+        "original_name": "Richard Holland",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5e827b1a9a6435001c4ef3c9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49913,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alexandra Welker",
+        "original_name": "Alexandra Welker",
+        "popularity": 2.103,
+        "profile_path": null,
+        "credit_id": "5e827b35a93d250018e26d1e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 113028,
+        "known_for_department": "Art",
+        "name": "David Hadaway",
+        "original_name": "David Hadaway",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "605571a39ae613006adf5895",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113041,
+        "known_for_department": "Sound",
+        "name": "David Betancourt",
+        "original_name": "David Betancourt",
+        "popularity": 1.428,
+        "profile_path": null,
+        "credit_id": "6055747f6e3deb003ddfb93d",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 113049,
+        "known_for_department": "Sound",
+        "name": "Galen Goodpaster",
+        "original_name": "Galen Goodpaster",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "60557278223a8b006c83ecd2",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 113067,
+        "known_for_department": "Sound",
+        "name": "David Lucarelli",
+        "original_name": "David Lucarelli",
+        "popularity": 1.592,
+        "profile_path": null,
+        "credit_id": "605574b1f5cb21003ed09a3a",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113086,
+        "known_for_department": "Sound",
+        "name": "John Murray",
+        "original_name": "John Murray",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "605572be99c9640028466761",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113088,
+        "known_for_department": "Sound",
+        "name": "Charleen Richards",
+        "original_name": "Charleen Richards",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "605574902ac499003ff3c473",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57743,
+        "known_for_department": "Writing",
+        "name": "Glenn Berger",
+        "original_name": "Glenn Berger",
+        "popularity": 13.815,
+        "profile_path": "/y73tugvcByortnEoKuCMm4g3wcy.jpg",
+        "credit_id": "52fe48c5c3a36847f8178839",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57744,
+        "known_for_department": "Writing",
+        "name": "Jonathan Aibel",
+        "original_name": "Jonathan Aibel",
+        "popularity": 14.487,
+        "profile_path": "/nKKXpwXrkZawLhrbyKBSCpEJzT7.jpg",
+        "credit_id": "52fe48c5c3a36847f8178833",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64151,
+        "known_for_department": "Directing",
+        "name": "Mike Mitchell",
+        "original_name": "Mike Mitchell",
+        "popularity": 6.913,
+        "profile_path": "/9ErS7QpRTxPNPreL6hInXYUdF1X.jpg",
+        "credit_id": "5ea54ca75a4690001d119819",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83655,
+        "known_for_department": "Sound",
+        "name": "Julia Michels",
+        "original_name": "Julia Michels",
+        "popularity": 6.183,
+        "profile_path": null,
+        "credit_id": "605570f19f1be7006b704881",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 961544,
+        "known_for_department": "Art",
+        "name": "Don MacAulay",
+        "original_name": "Don MacAulay",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5e827b220bc5290016f236f7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1146858,
+        "known_for_department": "Sound",
+        "name": "Armen Ksajikian",
+        "original_name": "Armen Ksajikian",
+        "popularity": 3.056,
+        "profile_path": "/5QBiIGEn4sMx9fbY5X4kBofvU7E.jpg",
+        "credit_id": "63500a2c35818f007e7b00c4",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329480,
+        "known_for_department": "Art",
+        "name": "Peter Bodnarus",
+        "original_name": "Peter Bodnarus",
+        "popularity": 1.225,
+        "profile_path": "/u17Qf0oUz3gaBNoKWuJTAPMwEOk.jpg",
+        "credit_id": "605571919f1be7003dc89bdb",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338372,
+        "known_for_department": "Sound",
+        "name": "Dan O'Connell",
+        "original_name": "Dan O'Connell",
+        "popularity": 3.396,
+        "profile_path": null,
+        "credit_id": "60557433fd4f80003e03f0b8",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341813,
+        "known_for_department": "Sound",
+        "name": "Dan DiPrima",
+        "original_name": "Dan DiPrima",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60557382e16e5a005410fe84",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367493,
+        "known_for_department": "Sound",
+        "name": "John T. Cucci",
+        "original_name": "John T. Cucci",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "605574429ae613003f0709d8",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399057,
+        "known_for_department": "Sound",
+        "name": "Jim Brookshire",
+        "original_name": "Jim Brookshire",
+        "popularity": 0.728,
+        "profile_path": null,
+        "credit_id": "605572a599c964006ae2ab21",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1401687,
+        "known_for_department": "Sound",
+        "name": "Anna Behlmer",
+        "original_name": "Anna Behlmer",
+        "popularity": 3.807,
+        "profile_path": "/kUsjqvtj653USV4FXxJmPiqJCW4.jpg",
+        "credit_id": "60557215eec4f30029f91b1d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416155,
+        "known_for_department": "Sound",
+        "name": "James Bolt",
+        "original_name": "James Bolt",
+        "popularity": 1.562,
+        "profile_path": null,
+        "credit_id": "6055720999c9640028466639",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1418345,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stacey Herbert",
+        "original_name": "Stacey Herbert",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "605573b46e3deb0028d54a79",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431018,
+        "known_for_department": "Art",
+        "name": "Mira Caveno",
+        "original_name": "Mira Caveno",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "60557185fd4f800074b8c2f0",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1449994,
+        "known_for_department": "Sound",
+        "name": "Nico Salvato",
+        "original_name": "Nico Salvato",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "605573056e3deb0054e5e280",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453019,
+        "known_for_department": "Visual Effects",
+        "name": "Sachin Bangera",
+        "original_name": "Sachin Bangera",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "554681efc3a368573b004370",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455463,
+        "known_for_department": "Visual Effects",
+        "name": "Aravind Jayaraman",
+        "original_name": "Aravind Jayaraman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5537f0e9c3a3684c5b00091b",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455610,
+        "known_for_department": "Visual Effects",
+        "name": "Tony Mecca",
+        "original_name": "Tony Mecca",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "553470aec3a3683443000843",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459645,
+        "known_for_department": "Sound",
+        "name": "Christine Sirois",
+        "original_name": "Christine Sirois",
+        "popularity": 0.994,
+        "profile_path": null,
+        "credit_id": "605574a599c964003d96e1e7",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459734,
+        "known_for_department": "Visual Effects",
+        "name": "Dixie Pizani",
+        "original_name": "Dixie Pizani",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5548df539251412ac50000fc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459752,
+        "known_for_department": "Visual Effects",
+        "name": "Andrew Malesky",
+        "original_name": "Andrew Malesky",
+        "popularity": 1.106,
+        "profile_path": null,
+        "credit_id": "554953f1c3a36841b90008b7",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460611,
+        "known_for_department": "Visual Effects",
+        "name": "Rohit Kolhe",
+        "original_name": "Rohit Kolhe",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "55467d4ec3a36856e500453f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460612,
+        "known_for_department": "Visual Effects",
+        "name": "Samidha Nagwekar",
+        "original_name": "Samidha Nagwekar",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "55467c6ec3a368573b0042fc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1463874,
+        "known_for_department": "Art",
+        "name": "Phil Langone",
+        "original_name": "Phil Langone",
+        "popularity": 1.646,
+        "profile_path": null,
+        "credit_id": "61d4aea651a64e008ecac72a",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530322,
+        "known_for_department": "Sound",
+        "name": "Matthew Harrison",
+        "original_name": "Matthew Harrison",
+        "popularity": 3.258,
+        "profile_path": null,
+        "credit_id": "605572db8c44b9003f94b972",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544669,
+        "known_for_department": "Sound",
+        "name": "John Morris",
+        "original_name": "John Morris",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60557237e16e5a005410fb49",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551841,
+        "known_for_department": "Sound",
+        "name": "Matt Fausak",
+        "original_name": "Matt Fausak",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6055738f6e3deb006ba392c8",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561882,
+        "known_for_department": "Sound",
+        "name": "David Husby",
+        "original_name": "David Husby",
+        "popularity": 1.019,
+        "profile_path": null,
+        "credit_id": "605571d4223a8b0029758b86",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564250,
+        "known_for_department": "Sound",
+        "name": "James Ashwill",
+        "original_name": "James Ashwill",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "6055747199c964006ae2af0d",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1642697,
+        "known_for_department": "Visual Effects",
+        "name": "Ian Blum",
+        "original_name": "Ian Blum",
+        "popularity": 1.092,
+        "profile_path": null,
+        "credit_id": "58a1cc8e92514137fe005231",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684502,
+        "known_for_department": "Production",
+        "name": "Johnny Gidcomb",
+        "original_name": "Johnny Gidcomb",
+        "popularity": 1.327,
+        "profile_path": "/ojyjYRyRop9IKk4eXR3wwAJsgpd.jpg",
+        "credit_id": "605573e24083b3003ebda89b",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1702506,
+        "known_for_department": "Art",
+        "name": "Melanie Cassidy",
+        "original_name": "Melanie Cassidy",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5f74c6af3ff2df0038509ab0",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015883,
+        "known_for_department": "Sound",
+        "name": "Jesse Johnstone",
+        "original_name": "Jesse Johnstone",
+        "popularity": 0.677,
+        "profile_path": null,
+        "credit_id": "605574c099c96400534a7fdd",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1615918",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}

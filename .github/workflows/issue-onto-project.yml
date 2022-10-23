@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 19
       - run: |
-          node ./add-data-to-project.js '${{ github.event.issue.number }}'
+          node --no-warnings ./add-data-to-project.js '${{ github.event.issue.number }}'
           git add .
           git commit -m 'added ${{ github.event.issue.title }}'
           git push https://${{ github.actor }}:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git

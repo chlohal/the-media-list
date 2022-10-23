@@ -35,8 +35,6 @@ async function tmdbApiRequest(path, options) {
         url.searchParams.set(param, options[param]);
     }
 
-    console.log("" + url);
-
     const responseText = await (await fetch(url)).text();
     const responseObjects = scanJSONObjects(responseText);
 

@@ -1,0 +1,4816 @@
+{
+  "adult": false,
+  "backdrop_path": "/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+  "belongs_to_collection": null,
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://movies.disney.com/the-nightmare-before-christmas",
+  "id": 9479,
+  "imdb_id": "tt0107688",
+  "original_language": "en",
+  "original_title": "The Nightmare Before Christmas",
+  "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+  "popularity": 473.193,
+  "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8601,
+      "logo_path": null,
+      "name": "Tim Burton Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 8835,
+      "logo_path": null,
+      "name": "Skellington Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 9195,
+      "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-10-09",
+  "revenue": 75634409,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This is Halloween, everybody make a scene!",
+  "title": "The Nightmare Before Christmas",
+  "video": false,
+  "vote_average": 7.841,
+  "vote_count": 7772,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=AU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=BA",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=BE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=BG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 19
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=BO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=BR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CA",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/pGk6V35szQnJVq2OoJLnRpjifb3.jpg",
+          "provider_id": 492,
+          "provider_name": "ILLICO",
+          "display_priority": 58
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CL",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CO",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=DE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 34
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=DK",
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 22
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=EC",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=EE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=EG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=ES",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/gZTgebCNny3MHvUxFde7gueVgT1.jpg",
+          "provider_id": 149,
+          "provider_name": "Movistar Plus",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=FI",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 35
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=FR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=GB",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/o6li3XZrBKXSqyNRS39UQEfPTCH.jpg",
+          "provider_id": 594,
+          "provider_name": "Virgin TV Go",
+          "display_priority": 66
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=GR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 21
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=GT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=HK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 38
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=HN",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=HR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 39
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=HU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=IE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=IS",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 31
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=IT",
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/j9iLCZMMgXP3jaYPkxCicx5Zmx3.jpg",
+          "provider_id": 359,
+          "provider_name": "Mediaset Play",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/ftxHS1anAWTYgtDtIDv8VLXoepH.jpg",
+          "provider_id": 109,
+          "provider_name": "Timvision",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=JP",
+      "rent": [
+        {
+          "logo_path": "/9pS9Y3xkCLJnti9pi1AyrD5KbZe.jpg",
+          "provider_id": 84,
+          "provider_name": "U-NEXT",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/v8vA6WnPVTOE1o39waNFVmAqEJj.jpg",
+          "provider_id": 390,
+          "provider_name": "Disney Plus",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "LI": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=LI",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=LT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 26
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=LV",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=MK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=MT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=MX",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=MY",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=NL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=NO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=NZ",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 3
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=PE",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=PH",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=PL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=PT",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=PY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=RS",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=RU",
+      "flatrate": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SA",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SE",
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SI",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 41
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=TH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=TR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 23
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=TW",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=US",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 164
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 34
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas/watch?locale=ZA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 657,
+      "name": "fire"
+    },
+    {
+      "id": 1991,
+      "name": "santa claus"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 4062,
+      "name": "skeleton"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 5570,
+      "name": "christmas tree"
+    },
+    {
+      "id": 9720,
+      "name": "woods"
+    },
+    {
+      "id": 10121,
+      "name": "stop motion"
+    },
+    {
+      "id": 12198,
+      "name": "pumpkin"
+    },
+    {
+      "id": 12200,
+      "name": "saving christmas"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14541,
+        "known_for_department": "Acting",
+        "name": "Chris Sarandon",
+        "original_name": "Chris Sarandon",
+        "popularity": 29.181,
+        "profile_path": "/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg",
+        "cast_id": 2,
+        "character": "Jack Skellington (voice)",
+        "credit_id": "52fe44fdc3a36847f80b6077",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 531,
+        "known_for_department": "Sound",
+        "name": "Danny Elfman",
+        "original_name": "Danny Elfman",
+        "popularity": 8.18,
+        "profile_path": "/8KJ84nY4Kw6MsgZTfdkJ35E8Juy.jpg",
+        "cast_id": 1,
+        "character": "Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice)",
+        "credit_id": "52fe44fdc3a36847f80b6073",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11514,
+        "known_for_department": "Acting",
+        "name": "Catherine O'Hara",
+        "original_name": "Catherine O'Hara",
+        "popularity": 15.424,
+        "profile_path": "/47h3qJi47TgWNDNmhYRHhfgLMiO.jpg",
+        "cast_id": 3,
+        "character": "Sally / Shock (voice)",
+        "credit_id": "52fe44fdc3a36847f80b607b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95758,
+        "known_for_department": "Acting",
+        "name": "Ken Page",
+        "original_name": "Ken Page",
+        "popularity": 3.003,
+        "profile_path": "/pF2kpxQ9ycQyw3LvhmE5oJ4XQf1.jpg",
+        "cast_id": 45,
+        "character": "Oogie Boogie (voice)",
+        "credit_id": "578118bd92514173fe00105a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21282,
+        "known_for_department": "Acting",
+        "name": "William Hickey",
+        "original_name": "William Hickey",
+        "popularity": 12.963,
+        "profile_path": "/giWiDBa8ZQqUucVSpPv8IZ3KqhZ.jpg",
+        "cast_id": 4,
+        "character": "Dr. Finkelstein (voice)",
+        "credit_id": "52fe44fdc3a36847f80b607f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13243,
+        "known_for_department": "Acting",
+        "name": "Glenn Shadix",
+        "original_name": "Glenn Shadix",
+        "popularity": 5.865,
+        "profile_path": "/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg",
+        "cast_id": 16,
+        "character": "Mayor (voice)",
+        "credit_id": "52fe44fdc3a36847f80b60bf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1495928,
+        "known_for_department": "Acting",
+        "name": "Edward Ivory",
+        "original_name": "Edward Ivory",
+        "popularity": 2.14,
+        "profile_path": "/kb3OVD5kkxrfKuuSOrBjMMVyh3P.jpg",
+        "cast_id": 44,
+        "character": "Santa Claus (voice)",
+        "credit_id": "578118769251411a34000253",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5129,
+        "known_for_department": "Acting",
+        "name": "Paul Reubens",
+        "original_name": "Paul Reubens",
+        "popularity": 9.559,
+        "profile_path": "/7T0ExonMf6PAvphKVaTm73BXdLW.jpg",
+        "cast_id": 17,
+        "character": "Lock (voice)",
+        "credit_id": "52fe44fdc3a36847f80b60c3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720665,
+        "known_for_department": "Acting",
+        "name": "Kerry Katz",
+        "original_name": "Kerry Katz",
+        "popularity": 1.4,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Man Under Stairs / Vampire / Corpse Dad (voice)",
+        "credit_id": "584bb033c3a368398b0083b3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222823,
+        "known_for_department": "Acting",
+        "name": "Carmen Twillie",
+        "original_name": "Carmen Twillie",
+        "popularity": 1.396,
+        "profile_path": "/6RsAMRvE82FHIGPOSJcbanJPewM.jpg",
+        "cast_id": 49,
+        "character": "Undersea Gal / Man Under the Stairs (voice)",
+        "credit_id": "584bb03e92514133b10081e0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1720666,
+        "known_for_department": "Acting",
+        "name": "Randy Crenshaw",
+        "original_name": "Randy Crenshaw",
+        "popularity": 1.29,
+        "profile_path": "/7k0I27lamR9EZqZm37cOHBIqJcP.jpg",
+        "cast_id": 50,
+        "character": "Mr. Hyde / Behemoth / Vampire Corpse Dad (voice)",
+        "credit_id": "584bb047c3a3683987007d61",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1383860,
+        "known_for_department": "Acting",
+        "name": "Debi Durst",
+        "original_name": "Debi Durst",
+        "popularity": 2.26,
+        "profile_path": "/eyciVzqLaB7qDxBJ20c0OaNBUSc.jpg",
+        "cast_id": 51,
+        "character": "Corpse Kid / Corpse Mom / Small Witch (voice)",
+        "credit_id": "584bb05392514133b600818a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720667,
+        "known_for_department": "Acting",
+        "name": "Glenn Walters",
+        "original_name": "Glenn Walters",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Wolfman (voice)",
+        "credit_id": "584bb07092514133ab007d51",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720668,
+        "known_for_department": "Sound",
+        "name": "Sherwood Ball",
+        "original_name": "Sherwood Ball",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Mummy / Vampire (voice)",
+        "credit_id": "584bb09b92514133b30083cc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61965,
+        "known_for_department": "Acting",
+        "name": "Greg Proops",
+        "original_name": "Greg Proops",
+        "popularity": 2.612,
+        "profile_path": "/t3ImKdWc9eJz29Y9aStQa8aFiRB.jpg",
+        "cast_id": 54,
+        "character": "Harlequin Demon / Devil / Sax Player (voice)",
+        "credit_id": "584bb0a6c3a3683982007bad",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 510,
+        "known_for_department": "Directing",
+        "name": "Tim Burton",
+        "original_name": "Tim Burton",
+        "popularity": 20.054,
+        "profile_path": "/gRM4lGpiBINAyiXaxEeJFDKzmge.jpg",
+        "cast_id": 47,
+        "character": "Zero (voice)",
+        "credit_id": "578119b092514105c2000bbc",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011698,
+        "known_for_department": "Acting",
+        "name": "Susan McBride",
+        "original_name": "Susan McBride",
+        "popularity": 0.694,
+        "profile_path": null,
+        "cast_id": 126,
+        "character": "Big Witch / WWD. (voice)",
+        "credit_id": "5abe960ec3a368444e018480",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011699,
+        "known_for_department": "Acting",
+        "name": "Mia Brown",
+        "original_name": "Mia Brown",
+        "popularity": 1.38,
+        "profile_path": null,
+        "cast_id": 127,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe961cc3a3684444017c12",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011701,
+        "known_for_department": "Acting",
+        "name": "L. Peter Callender",
+        "original_name": "L. Peter Callender",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 128,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96250e0a264a60018d2d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011702,
+        "known_for_department": "Acting",
+        "name": "Ann Fraser",
+        "original_name": "Ann Fraser",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 129,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe9633c3a368444e0184ab",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011703,
+        "known_for_department": "Acting",
+        "name": "Jennifer Levey",
+        "original_name": "Jennifer Levey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 130,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe963c0e0a264a5d018efc",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616341,
+        "known_for_department": "Acting",
+        "name": "Jesse McClurg",
+        "original_name": "Jesse McClurg",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 131,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96569251416024017070",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116442,
+        "known_for_department": "Acting",
+        "name": "John Morris",
+        "original_name": "John Morris",
+        "popularity": 2.125,
+        "profile_path": "/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg",
+        "cast_id": 132,
+        "character": "Santa Boy (voice)",
+        "credit_id": "5abe9691c3a368443f015f1f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011707,
+        "known_for_department": "Acting",
+        "name": "Robert Olague",
+        "original_name": "Robert Olague",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 133,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe969992514160240170d6",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1074140,
+        "known_for_department": "Acting",
+        "name": "Bobbi Page",
+        "original_name": "Bobbi Page",
+        "popularity": 3.063,
+        "profile_path": "/h1QvzUxXVTyhA8RmJqJQMJ8e0PE.jpg",
+        "cast_id": 134,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96a1c3a368444e018518",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866645,
+        "known_for_department": "Acting",
+        "name": "Elena Praskin",
+        "original_name": "Elena Praskin",
+        "popularity": 2.112,
+        "profile_path": null,
+        "cast_id": 135,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96bd0e0a264a5d018f97",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011708,
+        "known_for_department": "Acting",
+        "name": "Trampas Warman",
+        "original_name": "Trampas Warman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 136,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96cbc3a368443c01850a",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 949895,
+        "known_for_department": "Acting",
+        "name": "Judi M. Durand",
+        "original_name": "Judi M. Durand",
+        "popularity": 1.62,
+        "profile_path": "/c6BBWqnfZoFhT1KpwOuMnBF0kNh.jpg",
+        "cast_id": 137,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe96d3925141602a016db3",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1596338,
+        "known_for_department": "Acting",
+        "name": "Doris Hess",
+        "original_name": "Doris Hess",
+        "popularity": 1.079,
+        "profile_path": null,
+        "cast_id": 138,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe987e92514160270161bb",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96310,
+        "known_for_department": "Acting",
+        "name": "Daamen J. Krall",
+        "original_name": "Daamen J. Krall",
+        "popularity": 3.372,
+        "profile_path": null,
+        "cast_id": 139,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe9887c3a368443c01882d",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1995388,
+        "known_for_department": "Sound",
+        "name": "Christina MacGregor",
+        "original_name": "Christina MacGregor",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 140,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe988fc3a36844480195eb",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 952996,
+        "known_for_department": "Acting",
+        "name": "David McCharen",
+        "original_name": "David McCharen",
+        "popularity": 3.872,
+        "profile_path": "/5FthGLGF65pWkdoH1Oux0lzXGwv.jpg",
+        "cast_id": 141,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe98970e0a264a63018743",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011711,
+        "known_for_department": "Acting",
+        "name": "Gary Raff",
+        "original_name": "Gary Raff",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 142,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe989fc3a368443f0161e2",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 954335,
+        "known_for_department": "Acting",
+        "name": "David J. Randolph",
+        "original_name": "David J. Randolph",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 143,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe98af92514160270161ed",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184330,
+        "known_for_department": "Acting",
+        "name": "Gary Schwartz",
+        "original_name": "Gary Schwartz",
+        "popularity": 1.62,
+        "profile_path": "/gNB9tZ7UDLWJFHWHLSqx8hPS9h3.jpg",
+        "cast_id": 144,
+        "character": "Additional Voices (voice)",
+        "credit_id": "5abe98b9925141601b017745",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7911,
+        "known_for_department": "Writing",
+        "name": "Joe Ranft",
+        "original_name": "Joe Ranft",
+        "popularity": 9.671,
+        "profile_path": "/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg",
+        "cast_id": 145,
+        "character": "Igor (voice) (uncredited)",
+        "credit_id": "61873501d48cee0062d4d4a6",
+        "order": 35
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 510,
+        "known_for_department": "Directing",
+        "name": "Tim Burton",
+        "original_name": "Tim Burton",
+        "popularity": 20.054,
+        "profile_path": "/gRM4lGpiBINAyiXaxEeJFDKzmge.jpg",
+        "credit_id": "52fe44fdc3a36847f80b6097",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 510,
+        "known_for_department": "Directing",
+        "name": "Tim Burton",
+        "original_name": "Tim Burton",
+        "popularity": 20.054,
+        "profile_path": "/gRM4lGpiBINAyiXaxEeJFDKzmge.jpg",
+        "credit_id": "54510ac1c3a3680245004492",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 531,
+        "known_for_department": "Sound",
+        "name": "Danny Elfman",
+        "original_name": "Danny Elfman",
+        "popularity": 8.18,
+        "profile_path": "/8KJ84nY4Kw6MsgZTfdkJ35E8Juy.jpg",
+        "credit_id": "52fe44fdc3a36847f80b60a9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 531,
+        "known_for_department": "Sound",
+        "name": "Danny Elfman",
+        "original_name": "Danny Elfman",
+        "popularity": 8.18,
+        "profile_path": "/8KJ84nY4Kw6MsgZTfdkJ35E8Juy.jpg",
+        "credit_id": "61c421f37eb5f2001b9cfb53",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 671,
+        "known_for_department": "Sound",
+        "name": "Richard L. Anderson",
+        "original_name": "Richard L. Anderson",
+        "popularity": 1.711,
+        "profile_path": null,
+        "credit_id": "5abe94b1c3a368444e01829a",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899,
+        "known_for_department": "Production",
+        "name": "Denise Di Novi",
+        "original_name": "Denise Di Novi",
+        "popularity": 2.855,
+        "profile_path": null,
+        "credit_id": "52fe44fdc3a36847f80b609d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1901,
+        "known_for_department": "Writing",
+        "name": "Caroline Thompson",
+        "original_name": "Caroline Thompson",
+        "popularity": 3.651,
+        "profile_path": null,
+        "credit_id": "52fe44fdc3a36847f80b6091",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5132,
+        "known_for_department": "Sound",
+        "name": "Bob Badami",
+        "original_name": "Bob Badami",
+        "popularity": 3.573,
+        "profile_path": null,
+        "credit_id": "5abe94669251416024016e32",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 7961,
+        "known_for_department": "Art",
+        "name": "Norm DeCarlo",
+        "original_name": "Norm DeCarlo",
+        "popularity": 1.007,
+        "profile_path": null,
+        "credit_id": "5abe8f9f9251416018015de7",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8037,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Mason",
+        "original_name": "Daniel Mason",
+        "popularity": 1.932,
+        "profile_path": null,
+        "credit_id": "552c7b6dc3a368618e001d93",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12062,
+        "known_for_department": "Production",
+        "name": "Jeffrey Katzenberg",
+        "original_name": "Jeffrey Katzenberg",
+        "popularity": 2.197,
+        "profile_path": "/vxcHjmckyO7HQwaFyrjoMWWQ9eP.jpg",
+        "credit_id": "5abe939a0e0a264a5a0170be",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12079,
+        "known_for_department": "Directing",
+        "name": "Kelly Asbury",
+        "original_name": "Kelly Asbury",
+        "popularity": 5.402,
+        "profile_path": "/fzHQFYLc1zVVn3dUjr6pMuKdE0U.jpg",
+        "credit_id": "5abe8f729251416018015da8",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13165,
+        "known_for_department": "Sound",
+        "name": "Ezra Dweck",
+        "original_name": "Ezra Dweck",
+        "popularity": 1.396,
+        "profile_path": null,
+        "credit_id": "5abe944ac3a368444e0181ea",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12824,
+        "known_for_department": "Production",
+        "name": "Don Hahn",
+        "original_name": "Don Hahn",
+        "popularity": 2.97,
+        "profile_path": "/rOUyA2JG3yN2Sh4ICZoGYShU5ox.jpg",
+        "credit_id": "52fe44fdc3a36847f80b60a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12913,
+        "known_for_department": "Editing",
+        "name": "Edie Ichioka",
+        "original_name": "Edie Ichioka",
+        "popularity": 1.932,
+        "profile_path": null,
+        "credit_id": "5abe92390e0a264a5101821c",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42034,
+        "known_for_department": "Sound",
+        "name": "Greg P. Russell",
+        "original_name": "Greg P. Russell",
+        "popularity": 3.668,
+        "profile_path": null,
+        "credit_id": "5abe94a7c3a36844440179b2",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19679,
+        "known_for_department": "Production",
+        "name": "Mary Gail Artz",
+        "original_name": "Mary Gail Artz",
+        "popularity": 3.317,
+        "profile_path": null,
+        "credit_id": "5abe88d20e0a264a570149ce",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19680,
+        "known_for_department": "Production",
+        "name": "Barbara Cohen",
+        "original_name": "Barbara Cohen",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5abe88e9c3a3684448017aa1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21514,
+        "known_for_department": "Sound",
+        "name": "Chris Boardman",
+        "original_name": "Chris Boardman",
+        "popularity": 0.994,
+        "profile_path": null,
+        "credit_id": "5abe942c925141601b017068",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 27486,
+        "known_for_department": "Camera",
+        "name": "Pete Kozachik",
+        "original_name": "Pete Kozachik",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "52fe44fdc3a36847f80b60af",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 34891,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Johnson",
+        "original_name": "Mike Johnson",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "552c7af1c3a36859dd000cdb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34534,
+        "known_for_department": "Writing",
+        "name": "Michael McDowell",
+        "original_name": "Michael McDowell",
+        "popularity": 2.961,
+        "profile_path": "/cHlWOkjfHeAftM6i9etfdOvUQ3d.jpg",
+        "credit_id": "52fe44fdc3a36847f80b608b",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43099,
+        "known_for_department": "Editing",
+        "name": "Deane Taylor",
+        "original_name": "Deane Taylor",
+        "popularity": 1.034,
+        "profile_path": null,
+        "credit_id": "5abe890bc3a368443501288f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56270,
+        "known_for_department": "Editing",
+        "name": "Stan Webb",
+        "original_name": "Stan Webb",
+        "popularity": 1.706,
+        "profile_path": null,
+        "credit_id": "52fe44fdc3a36847f80b60b5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57646,
+        "known_for_department": "Directing",
+        "name": "Henry Selick",
+        "original_name": "Henry Selick",
+        "popularity": 9.892,
+        "profile_path": "/ccoSGDwedPaf5Blp6g0QbqDw5m.jpg",
+        "credit_id": "52fe44fdc3a36847f80b60bb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57673,
+        "known_for_department": "Production",
+        "name": "Kevin Reher",
+        "original_name": "Kevin Reher",
+        "popularity": 2.67,
+        "profile_path": "/2qoV7wBF5BXBJ6kTrVRI1xEXJ7Z.jpg",
+        "credit_id": "5abe93a3c3a368443c01803a",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60250,
+        "known_for_department": "Art",
+        "name": "Barry E. Jackson",
+        "original_name": "Barry E. Jackson",
+        "popularity": 2.391,
+        "profile_path": null,
+        "credit_id": "552c7ad3c3a3685a67000bc6",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60450,
+        "known_for_department": "Sound",
+        "name": "Mark McKenzie",
+        "original_name": "Mark McKenzie",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5abe946f9251416021015996",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65566,
+        "known_for_department": "Camera",
+        "name": "Eric Swenson",
+        "original_name": "Eric Swenson",
+        "popularity": 1.114,
+        "profile_path": null,
+        "credit_id": "5abe916a925141602401698e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65856,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Leighton",
+        "original_name": "Eric Leighton",
+        "popularity": 1.47,
+        "profile_path": null,
+        "credit_id": "552c7b5a9251413871002061",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71795,
+        "known_for_department": "Production",
+        "name": "Kathleen Gavin",
+        "original_name": "Kathleen Gavin",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "5abe8827c3a368444e016a03",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74978,
+        "known_for_department": "Sound",
+        "name": "Terry Porter",
+        "original_name": "Terry Porter",
+        "popularity": 1.473,
+        "profile_path": null,
+        "credit_id": "5abe949fc3a3684435013b49",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91094,
+        "known_for_department": "Sound",
+        "name": "Joan Rowe",
+        "original_name": "Joan Rowe",
+        "popularity": 2.983,
+        "profile_path": null,
+        "credit_id": "5abe945c925141602a016a03",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 91144,
+        "known_for_department": "Sound",
+        "name": "Shawn Murphy",
+        "original_name": "Shawn Murphy",
+        "popularity": 3.708,
+        "profile_path": null,
+        "credit_id": "5abe9496c3a368444e018276",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 91144,
+        "known_for_department": "Sound",
+        "name": "Shawn Murphy",
+        "original_name": "Shawn Murphy",
+        "popularity": 3.708,
+        "profile_path": null,
+        "credit_id": "5abe9478c3a368443c01816d",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 109189,
+        "known_for_department": "Visual Effects",
+        "name": "Loyd Price",
+        "original_name": "Loyd Price",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "552c7b94c3a36859dd000d17",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118945,
+        "known_for_department": "Sound",
+        "name": "Mary Andrews",
+        "original_name": "Mary Andrews",
+        "popularity": 2.698,
+        "profile_path": null,
+        "credit_id": "5abe94389251416027015cd4",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230436,
+        "known_for_department": "Production",
+        "name": "Barbara Harris",
+        "original_name": "Barbara Harris",
+        "popularity": 2.675,
+        "profile_path": "/d1BGeZT2b81Wa9gCOPdrXGWUtmR.jpg",
+        "credit_id": "5abe93209251416024016c6a",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 384204,
+        "known_for_department": "Visual Effects",
+        "name": "Anthony Scott",
+        "original_name": "Anthony Scott",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7ba79251413873001fa1",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 952412,
+        "known_for_department": "Production",
+        "name": "Diane Minter Lewis",
+        "original_name": "Diane Minter Lewis",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8890c3a368443c016908",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 958088,
+        "known_for_department": "Writing",
+        "name": "Jorgen Klubien",
+        "original_name": "Jorgen Klubien",
+        "popularity": 2.834,
+        "profile_path": "/uA9IK99EAHIo30iQF71bgOTqgoc.jpg",
+        "credit_id": "552c7b29c3a368619e00210b",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1022664,
+        "known_for_department": "Writing",
+        "name": "Davia Nelson",
+        "original_name": "Davia Nelson",
+        "popularity": 1.38,
+        "profile_path": "/dQm6tDE0LFAoiGxJddciizfUeXq.jpg",
+        "credit_id": "5abe9390c3a3684435013a6f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106549,
+        "known_for_department": "Crew",
+        "name": "Sarah Duran",
+        "original_name": "Sarah Duran",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe91b0c3a368444401756d",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128347,
+        "known_for_department": "Art",
+        "name": "Bill Boes",
+        "original_name": "Bill Boes",
+        "popularity": 2.572,
+        "profile_path": null,
+        "credit_id": "5abe8f7fc3a36844440171a7",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128347,
+        "known_for_department": "Art",
+        "name": "Bill Boes",
+        "original_name": "Bill Boes",
+        "popularity": 2.572,
+        "profile_path": null,
+        "credit_id": "5abe94fc925141601b01717b",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1205975,
+        "known_for_department": "Visual Effects",
+        "name": "Timothy Hittle",
+        "original_name": "Timothy Hittle",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "552c7ac69251413873001f38",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1211218,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Belzer",
+        "original_name": "Mike Belzer",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "544dea71c3a36872e00040cc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1211220,
+        "known_for_department": "Art",
+        "name": "Greg Dykstra",
+        "original_name": "Greg Dykstra",
+        "popularity": 2.568,
+        "profile_path": "/xnGnvlzaDFHYQSGpaN93R3eCLpp.jpg",
+        "credit_id": "5abe8fd00e0a264a57015870",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1211221,
+        "known_for_department": "Directing",
+        "name": "David Hanks",
+        "original_name": "David Hanks",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5abe8fe8c3a3684455017682",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335078,
+        "known_for_department": "Sound",
+        "name": "Mike Chock",
+        "original_name": "Mike Chock",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5abe94810e0a264a5d018ca8",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341856,
+        "known_for_department": "Sound",
+        "name": "Hilda Hodges",
+        "original_name": "Hilda Hodges",
+        "popularity": 2.407,
+        "profile_path": null,
+        "credit_id": "5abe94530e0a264a510184b3",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1353145,
+        "known_for_department": "Camera",
+        "name": "Ray Gilberti",
+        "original_name": "Ray Gilberti",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5abe90f3c3a368444e017d56",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1353148,
+        "known_for_department": "Visual Effects",
+        "name": "Justin Kohn",
+        "original_name": "Justin Kohn",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "552c7b40c3a368618e001d82",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399635,
+        "known_for_department": "Visual Effects",
+        "name": "Ariel Velasco-Shaw",
+        "original_name": "Ariel Velasco-Shaw",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5abe9197c3a3684438017772",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425987,
+        "known_for_department": "Visual Effects",
+        "name": "Rebecca Ramsey",
+        "original_name": "Rebecca Ramsey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe919fc3a368443c017dbb",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1429549,
+        "known_for_department": "Editing",
+        "name": "Dale E. Grahn",
+        "original_name": "Dale E. Grahn",
+        "popularity": 2.873,
+        "profile_path": null,
+        "credit_id": "5abe92419251416018016269",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440822,
+        "known_for_department": "Sound",
+        "name": "John Pospisil",
+        "original_name": "John Pospisil",
+        "popularity": 3.201,
+        "profile_path": null,
+        "credit_id": "5abe91e40e0a264a5a016d87",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442567,
+        "known_for_department": "Editing",
+        "name": "Michael Kelly",
+        "original_name": "Michael Kelly",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe922f925141601e0158bd",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1443065,
+        "known_for_department": "Sound",
+        "name": "Joe Dorn",
+        "original_name": "Joe Dorn",
+        "popularity": 1.619,
+        "profile_path": null,
+        "credit_id": "5abe9441c3a368444e0181e2",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447310,
+        "known_for_department": "Crew",
+        "name": "Jeannine Berger",
+        "original_name": "Jeannine Berger",
+        "popularity": 1.7,
+        "profile_path": null,
+        "credit_id": "553d55f4925141125600c409",
+        "department": "Crew",
+        "job": "Post Production Consulting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448071,
+        "known_for_department": "Visual Effects",
+        "name": "Trey Thomas",
+        "original_name": "Trey Thomas",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "552c7bc3925141093a000ab7",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450347,
+        "known_for_department": "Writing",
+        "name": "Mike Cachuela",
+        "original_name": "Mike Cachuela",
+        "popularity": 3.65,
+        "profile_path": "/cpFzLDMttRswVY3XLefXDYwKN9L.jpg",
+        "credit_id": "552582a49251415c7c00c428",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452932,
+        "known_for_department": "Visual Effects",
+        "name": "Joel Fletcher",
+        "original_name": "Joel Fletcher",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "552984fb9251413236000577",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452934,
+        "known_for_department": "Visual Effects",
+        "name": "Rich Zim",
+        "original_name": "Rich Zim",
+        "popularity": 0.929,
+        "profile_path": null,
+        "credit_id": "5529824592514108760019cc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453514,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Blanchette",
+        "original_name": "Kim Blanchette",
+        "popularity": 3.564,
+        "profile_path": null,
+        "credit_id": "552c7a45925141387100200f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454027,
+        "known_for_department": "Visual Effects",
+        "name": "Lana Bernberg",
+        "original_name": "Lana Bernberg",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7a179251410225000c62",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1454028,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Berry",
+        "original_name": "Paul Berry",
+        "popularity": 1.761,
+        "profile_path": "/m9flrzcGc3eoFJTq4LW2z64XIna.jpg",
+        "credit_id": "552c7a2fc3a3685bc1000d73",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454029,
+        "known_for_department": "Visual Effects",
+        "name": "Stephen A. Buckley",
+        "original_name": "Stephen A. Buckley",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7a87c3a3685b2b000c23",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454030,
+        "known_for_department": "Visual Effects",
+        "name": "Angie Glocka",
+        "original_name": "Angie Glocka",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7aa892514174db000d9b",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454031,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Jessel",
+        "original_name": "Paul Jessel",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7adfc3a36859dd000cd0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454032,
+        "known_for_department": "Visual Effects",
+        "name": "Owen Klatte",
+        "original_name": "Owen Klatte",
+        "popularity": 2.075,
+        "profile_path": null,
+        "credit_id": "552c7b1dc3a368619e002103",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454033,
+        "known_for_department": "Visual Effects",
+        "name": "Harry Walton",
+        "original_name": "Harry Walton",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "552c7bf59251413876001e8d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454034,
+        "known_for_department": "Visual Effects",
+        "name": "Ken Willard",
+        "original_name": "Ken Willard",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "552c7c0492514103ce000bfb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454035,
+        "known_for_department": "Visual Effects",
+        "name": "Tamara Khalaf",
+        "original_name": "Tamara Khalaf",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "552c7c11c3a3685bc1000e2c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1463513,
+        "known_for_department": "Visual Effects",
+        "name": "Peggy Hrastar",
+        "original_name": "Peggy Hrastar",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe91d30e0a264a5d018988",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1559184,
+        "known_for_department": "Visual Effects",
+        "name": "Janeen Elliott",
+        "original_name": "Janeen Elliott",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5abe94d20e0a264a4e017a7c",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615777,
+        "known_for_department": "Lighting",
+        "name": "Richard E. Lehmann",
+        "original_name": "Richard E. Lehmann",
+        "popularity": 0.702,
+        "profile_path": null,
+        "credit_id": "5abe8ff0c3a3684435013647",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1621772,
+        "known_for_department": "Visual Effects",
+        "name": "Jason Smith",
+        "original_name": "Jason Smith",
+        "popularity": 0.85,
+        "profile_path": null,
+        "credit_id": "5abe94f10e0a264a54018ade",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629867,
+        "known_for_department": "Production",
+        "name": "Phil Lofaro",
+        "original_name": "Phil Lofaro",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe94179251416018016486",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629867,
+        "known_for_department": "Production",
+        "name": "Phil Lofaro",
+        "original_name": "Phil Lofaro",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe889ec3a368443801622a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1647589,
+        "known_for_department": "Sound",
+        "name": "James Christopher",
+        "original_name": "James Christopher",
+        "popularity": 1.473,
+        "profile_path": null,
+        "credit_id": "5abe948dc3a368443c01819a",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1708476,
+        "known_for_department": "Writing",
+        "name": "Jim Aupperle",
+        "original_name": "Jim Aupperle",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "62b4a119226c56005211565d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1748705,
+        "known_for_department": "Art",
+        "name": "Shelley Daniels Lekven",
+        "original_name": "Shelley Daniels Lekven",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8f97c3a368445501760b",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1765820,
+        "known_for_department": "Crew",
+        "name": "Paula Lucchesi",
+        "original_name": "Paula Lucchesi",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe9548c3a36844480191a1",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780681,
+        "known_for_department": "Art",
+        "name": "Kendal Cronkhite",
+        "original_name": "Kendal Cronkhite",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8f86925141602a01626a",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847643,
+        "known_for_department": "Production",
+        "name": "Miguel Ángel Poveda",
+        "original_name": "Miguel Ángel Poveda",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "5abe91b992514160180161a5",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899435,
+        "known_for_department": "Editing",
+        "name": "Theresa Repola Mohammed",
+        "original_name": "Theresa Repola Mohammed",
+        "popularity": 3.132,
+        "profile_path": null,
+        "credit_id": "5abe924b0e0a264a5d018a13",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2006777,
+        "known_for_department": "Crew",
+        "name": "Joel Friesch",
+        "original_name": "Joel Friesch",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe953e925141601b0171fc",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2006777,
+        "known_for_department": "Crew",
+        "name": "Joel Friesch",
+        "original_name": "Joel Friesch",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8fd70e0a264a4e017204",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007335,
+        "known_for_department": "Sound",
+        "name": "Ralph Stuart",
+        "original_name": "Ralph Stuart",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5abe9423c3a3684455017ced",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2011292,
+        "known_for_department": "Crew",
+        "name": "Loren Hillman-Morgan",
+        "original_name": "Loren Hillman-Morgan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe91c292514160150158c8",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011309,
+        "known_for_department": "Art",
+        "name": "Linda Overbey",
+        "original_name": "Linda Overbey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe91db0e0a264a5401866f",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011668,
+        "known_for_department": "Production",
+        "name": "Jill Jacobs",
+        "original_name": "Jill Jacobs",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe884e0e0a264a570148f8",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011670,
+        "known_for_department": "Art",
+        "name": "B.J. Fredrickson",
+        "original_name": "B.J. Fredrickson",
+        "popularity": 0.996,
+        "profile_path": null,
+        "credit_id": "5abe8f8d925141602101530a",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011671,
+        "known_for_department": "Art",
+        "name": "Randal M. Dutra",
+        "original_name": "Randal M. Dutra",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "5abe8fc7c3a3684435013610",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011672,
+        "known_for_department": "Art",
+        "name": "Gretchen Scharfenberg",
+        "original_name": "Gretchen Scharfenberg",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8fe0c3a3684455017672",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2011673,
+        "known_for_department": "Camera",
+        "name": "Selwyn Eddy",
+        "original_name": "Selwyn Eddy",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe8ff70e0a264a54018385",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011674,
+        "known_for_department": "Camera",
+        "name": "Jo Carson",
+        "original_name": "Jo Carson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe90a70e0a264a5d018781",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011680,
+        "known_for_department": "Crew",
+        "name": "Tracy Barber",
+        "original_name": "Tracy Barber",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe91a7925141601b016d4e",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011681,
+        "known_for_department": "Crew",
+        "name": "Jennifer Clinard",
+        "original_name": "Jennifer Clinard",
+        "popularity": 0.983,
+        "profile_path": null,
+        "credit_id": "5abe91cac3a368443f0158c8",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011683,
+        "known_for_department": "Production",
+        "name": "Kat Alioshin",
+        "original_name": "Kat Alioshin",
+        "popularity": 1.052,
+        "profile_path": null,
+        "credit_id": "5abe9340c3a368443c017fb3",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011685,
+        "known_for_department": "Production",
+        "name": "Jill Ruzicka",
+        "original_name": "Jill Ruzicka",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe93abc3a3684444017840",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2011687,
+        "known_for_department": "Production",
+        "name": "George Young",
+        "original_name": "George Young",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe93e692514160210158cc",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011694,
+        "known_for_department": "Visual Effects",
+        "name": "Nick Bogle",
+        "original_name": "Nick Bogle",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe9505c3a3684435013bcb",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011695,
+        "known_for_department": "Visual Effects",
+        "name": "Jeff Brewer",
+        "original_name": "Jeff Brewer",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5abe95300e0a264a51018621",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2011696,
+        "known_for_department": "Visual Effects",
+        "name": "Marc Ribaud",
+        "original_name": "Marc Ribaud",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5abe958dc3a368443c01833b",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0107688",
+    "facebook_id": "TheNightmareBeforeChristmas",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}

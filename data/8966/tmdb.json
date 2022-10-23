@@ -1,0 +1,5975 @@
+{
+  "adult": false,
+  "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+  "belongs_to_collection": {
+    "id": 33514,
+    "name": "The Twilight Collection",
+    "poster_path": "/aKAX2HO5V94JYeSIkOMFNlRI71E.jpg",
+    "backdrop_path": "/yDq6O2JCbM6sCVn66FzOx1Eqqzx.jpg"
+  },
+  "budget": 37000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 8966,
+  "imdb_id": "tt1099212",
+  "original_language": "en",
+  "original_title": "Twilight",
+  "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+  "popularity": 165.17,
+  "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+  "production_companies": [
+    {
+      "id": 491,
+      "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 500,
+      "logo_path": null,
+      "name": "Goldcrest",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4000,
+      "logo_path": null,
+      "name": "Maverick Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5218,
+      "logo_path": "/dhb42ugM9DzSpDctTWCtABPVOW4.png",
+      "name": "Imprint Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12292,
+      "logo_path": "/4GQTeqos2luopEtp3OgMQYusQ5c.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 57750,
+      "logo_path": null,
+      "name": "Twilight Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-11-20",
+  "revenue": 393616788,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When you can live forever, what do you live for?",
+  "title": "Twilight",
+  "video": false,
+  "vote_average": 6.286,
+  "vote_count": 11879,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "AG": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AG",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AL",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 33
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 39
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 45
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=AU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/d3ixI1no0EpTj2i7u0Sd2DBXVlG.jpg",
+          "provider_id": 385,
+          "provider_name": "BINGE",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/ePS0WiNyruurdRsXgN8T3xvUeFs.jpg",
+          "provider_id": 134,
+          "provider_name": "Foxtel Now",
+          "display_priority": 7
+        }
+      ]
+    },
+    "BB": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BB",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BG",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "BM": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BO",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 15
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/hR9vWd8hWEVQKD6eOnBneKRFEW3.jpg",
+          "provider_id": 619,
+          "provider_name": "Star Plus",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oBoWstXQFHAlPApyxIQ31CIbNQk.jpg",
+          "provider_id": 307,
+          "provider_name": "Globoplay",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/cQQYtdaCg7vDo28JPru4v8Ypi8x.jpg",
+          "provider_id": 484,
+          "provider_name": "NOW",
+          "display_priority": 28
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 45
+        },
+        {
+          "logo_path": "/3E0RkIEQrrGYazs63NMsn3XONT6.jpg",
+          "provider_id": 582,
+          "provider_name": "Paramount+ Amazon Channel",
+          "display_priority": 49
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 57
+        },
+        {
+          "logo_path": "/5jdN9E9Ftxxbg711crjOyCagTy8.jpg",
+          "provider_id": 227,
+          "provider_name": "Telecine Play",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 50
+        }
+      ]
+    },
+    "BS": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=BS",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 60
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/sB5vHrmYmliwUvBwZe8HpXo9r8m.jpg",
+          "provider_id": 305,
+          "provider_name": "Crave Starz",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/6FWwq6rayak6g6rvzVVP1NnX9gf.jpg",
+          "provider_id": 469,
+          "provider_name": "Club Illico",
+          "display_priority": 54
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 69
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 41
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CL",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ]
+    },
+    "CU": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CU",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=DE",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/goKrzBxDNYxKgeeT2yoHtLXuIol.jpg",
+          "provider_id": 133,
+          "provider_name": "Videobuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/u0x5jHjdhvlNtFrfb63XDJvFwFu.jpg",
+          "provider_id": 679,
+          "provider_name": "Cinema of Hearts Amazon Channel",
+          "display_priority": 80
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=DK",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/pCIkSBek0aZfPQzOn9gfazuYaLV.jpg",
+          "provider_id": 77,
+          "provider_name": "C More",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/fWqVPYArdFwBc6vYqoyQB6XUl85.jpg",
+          "provider_id": 118,
+          "provider_name": "HBO",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 21
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=EC",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=EE",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=EG",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=ES",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 37
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 66
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=FI",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/ihE8Z4jZcGsmQsGRj6q06oxD2Wd.jpg",
+          "provider_id": 540,
+          "provider_name": "Elisa Viihde",
+          "display_priority": 26
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/ihE8Z4jZcGsmQsGRj6q06oxD2Wd.jpg",
+          "provider_id": 540,
+          "provider_name": "Elisa Viihde",
+          "display_priority": 26
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 35
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/pCIkSBek0aZfPQzOn9gfazuYaLV.jpg",
+          "provider_id": 77,
+          "provider_name": "C More",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/fWqVPYArdFwBc6vYqoyQB6XUl85.jpg",
+          "provider_id": 118,
+          "provider_name": "HBO",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=FR",
+      "flatrate": [
+        {
+          "logo_path": "/riPZYc1ILIbubFaxYSdVfc7K6bm.jpg",
+          "provider_id": 56,
+          "provider_name": "OCS Go",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/42Cj5KNEteBRpfWnGWQbTJpJDGV.jpg",
+          "provider_id": 685,
+          "provider_name": "OCS Amazon Channel ",
+          "display_priority": 51
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/b6hJjWPa7h8VCpaCVJCSu8EPlqT.jpg",
+          "provider_id": 138,
+          "provider_name": "Filmo TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/b6hJjWPa7h8VCpaCVJCSu8EPlqT.jpg",
+          "provider_id": 138,
+          "provider_name": "Filmo TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/ulTa4e9ysKwMwNpg7EfhYnvAj8q.jpg",
+          "provider_id": 59,
+          "provider_name": "Bbox VOD",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=GB",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 9,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/o6li3XZrBKXSqyNRS39UQEfPTCH.jpg",
+          "provider_id": 594,
+          "provider_name": "Virgin TV Go",
+          "display_priority": 66
+        }
+      ]
+    },
+    "GI": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=GI",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=GR",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=GT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=HK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=HN",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=HR",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=HU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/6IdiH2yMRYCtB7XoIQ36wZig9gZ.jpg",
+          "provider_id": 489,
+          "provider_name": "Vidio",
+          "display_priority": 18
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=IE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "IL": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=IL",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=IN",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=IT",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/rsXaDmBzlHgYrtv1o2NsRFctM5t.jpg",
+          "provider_id": 39,
+          "provider_name": "Now TV",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "JM": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=JM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=JP",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/9pS9Y3xkCLJnti9pi1AyrD5KbZe.jpg",
+          "provider_id": 84,
+          "provider_name": "U-NEXT",
+          "display_priority": 3
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/vXXZx0aWQtDv2klvObNugm4dQMN.jpg",
+          "provider_id": 97,
+          "provider_name": "Watcha",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ]
+    },
+    "LC": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=LC",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "LI": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=LI",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=LT",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 16
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=LV",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 2
+        }
+      ]
+    },
+    "MD": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=MD",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=MK",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=MT",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=MX",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/3E0RkIEQrrGYazs63NMsn3XONT6.jpg",
+          "provider_id": 582,
+          "provider_name": "Paramount+ Amazon Channel",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 53
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 27
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 33
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=MY",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 1
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=NL",
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 194,
+          "provider_name": "Starz Play Amazon Channel",
+          "display_priority": 29
+        },
+        {
+          "logo_path": "/eWp5LdR4p4uKL0wACBBXapDV2lB.jpg",
+          "provider_id": 43,
+          "provider_name": "Starz",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 52
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=NO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 34
+        },
+        {
+          "logo_path": "/fWqVPYArdFwBc6vYqoyQB6XUl85.jpg",
+          "provider_id": 118,
+          "provider_name": "HBO",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 22
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=NZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/od4YNSSLgOP3p8EtQTnEYfrPa77.jpg",
+          "provider_id": 273,
+          "provider_name": "Neon TV",
+          "display_priority": 2
+        }
+      ]
+    },
+    "PA": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PA",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PE",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/ytSbyHt45x7igOgC8GVzR7RLJVo.jpg",
+          "provider_id": 1790,
+          "provider_name": "Lionsgate Plus",
+          "display_priority": 36
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PT",
+      "rent": [
+        {
+          "logo_path": "/dUeHhim2WUZz8S7EWjv0Ws6anRP.jpg",
+          "provider_id": 242,
+          "provider_name": "Meo",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 30
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=PY",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/l5Wxbsgral716BOtZsGyPVNn8GC.jpg",
+          "provider_id": 250,
+          "provider_name": "Horizon",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=RS",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=RU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SE",
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 20
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/fWqVPYArdFwBc6vYqoyQB6XUl85.jpg",
+          "provider_id": 118,
+          "provider_name": "HBO",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SG",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SI",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TC": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=TC",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=TH",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 1
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=TR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ]
+    },
+    "TT": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=TT",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=TW",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=US",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/1UP7ysjKolfD0rmp2fLmvyRHkdn.jpg",
+          "provider_id": 547,
+          "provider_name": "Alamo on Demand",
+          "display_priority": 175
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 35
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 46
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 164
+        },
+        {
+          "logo_path": "/1UP7ysjKolfD0rmp2fLmvyRHkdn.jpg",
+          "provider_id": 547,
+          "provider_name": "Alamo on Demand",
+          "display_priority": 175
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 3
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/xbhHHa1YgtpwhC8lb1NQ3ACVcLd.jpg",
+          "provider_id": 531,
+          "provider_name": "Paramount Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/8966-twilight/watch?locale=ZA",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 815,
+      "name": "soulmates"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 3691,
+      "name": "forbidden love"
+    },
+    {
+      "id": 4978,
+      "name": "immortality"
+    },
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 11870,
+      "name": "teen movie"
+    },
+    {
+      "id": 14782,
+      "name": "trust"
+    },
+    {
+      "id": 33513,
+      "name": "desire"
+    },
+    {
+      "id": 164724,
+      "name": "washington state"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 212760,
+      "name": "interspecies romance"
+    },
+    {
+      "id": 246466,
+      "name": "based on young adult novel"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 269719,
+      "name": "high school romance"
+    },
+    {
+      "id": 269720,
+      "name": "vampire human love"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37917,
+        "known_for_department": "Acting",
+        "name": "Kristen Stewart",
+        "original_name": "Kristen Stewart",
+        "popularity": 34.241,
+        "profile_path": "/rCU7XhHavFAKatkrC2yFWO4FCXX.jpg",
+        "cast_id": 4,
+        "character": "Bella Swan",
+        "credit_id": "52fe44ccc3a36847f80aa8f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11288,
+        "known_for_department": "Acting",
+        "name": "Robert Pattinson",
+        "original_name": "Robert Pattinson",
+        "popularity": 34.887,
+        "profile_path": "/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg",
+        "cast_id": 5,
+        "character": "Edward Cullen",
+        "credit_id": "52fe44ccc3a36847f80aa8f7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21029,
+        "known_for_department": "Acting",
+        "name": "Billy Burke",
+        "original_name": "Billy Burke",
+        "popularity": 33.048,
+        "profile_path": "/t5koEPtASHMhxgDmqBk8op6bCi5.jpg",
+        "cast_id": 7,
+        "character": "Charlie Swan",
+        "credit_id": "52fe44ccc3a36847f80aa8ff",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56857,
+        "known_for_department": "Acting",
+        "name": "Peter Facinelli",
+        "original_name": "Peter Facinelli",
+        "popularity": 16.076,
+        "profile_path": "/dedS4MpictN0kjQsPjjZSQwZoee.jpg",
+        "cast_id": 8,
+        "character": "Dr. Carlisle Cullen",
+        "credit_id": "52fe44ccc3a36847f80aa903",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53755,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Reaser",
+        "original_name": "Elizabeth Reaser",
+        "popularity": 19.91,
+        "profile_path": "/tx2shpuofbAmmIoUXpXxqQ9exZM.jpg",
+        "cast_id": 51,
+        "character": "Esme Cullen",
+        "credit_id": "5f34ad3133ad8f0038a1a58c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55086,
+        "known_for_department": "Acting",
+        "name": "Cam Gigandet",
+        "original_name": "Cam Gigandet",
+        "popularity": 17.387,
+        "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg",
+        "cast_id": 18,
+        "character": "James",
+        "credit_id": "52fe44ccc3a36847f80aa92b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45827,
+        "known_for_department": "Acting",
+        "name": "Ashley Greene",
+        "original_name": "Ashley Greene",
+        "popularity": 33.709,
+        "profile_path": "/qcuqjfZvusdjV9B2sLrxU3iajWj.jpg",
+        "cast_id": 9,
+        "character": "Alice Cullen",
+        "credit_id": "52fe44ccc3a36847f80aa907",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84223,
+        "known_for_department": "Acting",
+        "name": "Anna Kendrick",
+        "original_name": "Anna Kendrick",
+        "popularity": 25.123,
+        "profile_path": "/zxYcN7MG1rifJNFIDCJUPKLSAnw.jpg",
+        "cast_id": 14,
+        "character": "Jessica",
+        "credit_id": "52fe44ccc3a36847f80aa91b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59252,
+        "known_for_department": "Acting",
+        "name": "Nikki Reed",
+        "original_name": "Nikki Reed",
+        "popularity": 14.737,
+        "profile_path": "/xNIXLZ9giqTdvjkBUGq1bJqPe5D.jpg",
+        "cast_id": 13,
+        "character": "Rosalie",
+        "credit_id": "52fe44ccc3a36847f80aa917",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84214,
+        "known_for_department": "Acting",
+        "name": "Taylor Lautner",
+        "original_name": "Taylor Lautner",
+        "popularity": 24.521,
+        "profile_path": "/2lDbFd1Zv7H1123zDm2YkmBVMA8.jpg",
+        "cast_id": 6,
+        "character": "Jacob Black",
+        "credit_id": "52fe44ccc3a36847f80aa8fb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34502,
+        "known_for_department": "Acting",
+        "name": "Kellan Lutz",
+        "original_name": "Kellan Lutz",
+        "popularity": 22.096,
+        "profile_path": "/pLzdFABlU6oS2BvlHlAN990woY1.jpg",
+        "cast_id": 12,
+        "character": "Emmet Cullen",
+        "credit_id": "52fe44ccc3a36847f80aa913",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84215,
+        "known_for_department": "Acting",
+        "name": "Jackson Rathbone",
+        "original_name": "Jackson Rathbone",
+        "popularity": 13.139,
+        "profile_path": "/rEWDNg7pjhtnEwTNu3MHMQWEYio.jpg",
+        "cast_id": 10,
+        "character": "Jasper",
+        "credit_id": "52fe44ccc3a36847f80aa90b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56676,
+        "known_for_department": "Acting",
+        "name": "Michael Welch",
+        "original_name": "Michael Welch",
+        "popularity": 21.232,
+        "profile_path": "/zx5GKHpBxYHY09ik818HTcJhu.jpg",
+        "cast_id": 20,
+        "character": "Mike Newton",
+        "credit_id": "52fe44ccc3a36847f80aa933",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84225,
+        "known_for_department": "Acting",
+        "name": "Gil Birmingham",
+        "original_name": "Gil Birmingham",
+        "popularity": 22.045,
+        "profile_path": "/bWYOwtq0zUgpbEhTyiJHo2TmVju.jpg",
+        "cast_id": 16,
+        "character": "Billy Black",
+        "credit_id": "52fe44ccc3a36847f80aa923",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65225,
+        "known_for_department": "Acting",
+        "name": "Justin Chon",
+        "original_name": "Justin Chon",
+        "popularity": 6.987,
+        "profile_path": "/ymFUjGfD62YonoRANZx6qvBkb9t.jpg",
+        "cast_id": 22,
+        "character": "Eric",
+        "credit_id": "52fe44ccc3a36847f80aa93b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84224,
+        "known_for_department": "Acting",
+        "name": "Christian Serratos",
+        "original_name": "Christian Serratos",
+        "popularity": 22.291,
+        "profile_path": "/3odIVQPRdJ0aNuecrtciodBi0rL.jpg",
+        "cast_id": 21,
+        "character": "Angela",
+        "credit_id": "52fe44ccc3a36847f80aa937",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10963,
+        "known_for_department": "Acting",
+        "name": "José Zúñiga",
+        "original_name": "José Zúñiga",
+        "popularity": 9.901,
+        "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg",
+        "cast_id": 27,
+        "character": "Mr. Molina",
+        "credit_id": "58391689c3a3681cea003cb1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58168,
+        "known_for_department": "Acting",
+        "name": "Rachelle Lefevre",
+        "original_name": "Rachelle Lefevre",
+        "popularity": 18.987,
+        "profile_path": "/5ETzDBwbCZ9xYLMmD5c39snVsoQ.jpg",
+        "cast_id": 17,
+        "character": "Victoria",
+        "credit_id": "52fe44ccc3a36847f80aa927",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39391,
+        "known_for_department": "Acting",
+        "name": "Edi Gathegi",
+        "original_name": "Edi Gathegi",
+        "popularity": 12.973,
+        "profile_path": "/wSNNEACJ5KN7hjgzFhOMYdZSUEi.jpg",
+        "cast_id": 19,
+        "character": "Laurent",
+        "credit_id": "52fe44ccc3a36847f80aa92f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25836,
+        "known_for_department": "Acting",
+        "name": "Sarah Clarke",
+        "original_name": "Sarah Clarke",
+        "popularity": 14.616,
+        "profile_path": "/bClQYkwMBVnXrVRs52TFbqX3oVE.jpg",
+        "cast_id": 15,
+        "character": "Renée",
+        "credit_id": "52fe44ccc3a36847f80aa91f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57995,
+        "known_for_department": "Acting",
+        "name": "Matt Bushell",
+        "original_name": "Matt Bushell",
+        "popularity": 5.411,
+        "profile_path": "/fQhKKA04dFoTeYnHUcrh8cXRLYZ.jpg",
+        "cast_id": 24,
+        "character": "Phil",
+        "credit_id": "5839160dc3a3681cdf003c29",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1714267,
+        "known_for_department": "Acting",
+        "name": "Gregory Tyree Boyce",
+        "original_name": "Gregory Tyree Boyce",
+        "popularity": 0.6,
+        "profile_path": "/yN9VELDWa7r30AnB56bZEM9yJ77.jpg",
+        "cast_id": 25,
+        "character": "Tyler",
+        "credit_id": "58391638c3a3681cdc003a59",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1277800,
+        "known_for_department": "Acting",
+        "name": "Trish Egan",
+        "original_name": "Trish Egan",
+        "popularity": 1.4,
+        "profile_path": "/1bTp0uZxPsT8ylVo2x9BCfrnUzD.jpg",
+        "cast_id": 43,
+        "character": "High School Administrator",
+        "credit_id": "5f34ac5b33ad8f0037a1fe38",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23897,
+        "known_for_department": "Acting",
+        "name": "Ayanna Berkshire",
+        "original_name": "Ayanna Berkshire",
+        "popularity": 3.983,
+        "profile_path": "/igRDVEcfojqWdyiYZOTbfQPiGax.jpg",
+        "cast_id": 28,
+        "character": "Cora",
+        "credit_id": "5839169ac3a3681cdc003a9e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2141,
+        "known_for_department": "Acting",
+        "name": "Ned Bellamy",
+        "original_name": "Ned Bellamy",
+        "popularity": 6.404,
+        "profile_path": "/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg",
+        "cast_id": 26,
+        "character": "Waylon Forge",
+        "credit_id": "5839165e9251416b1c0039cd",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2740397,
+        "known_for_department": "Acting",
+        "name": "Bryce Flint-Sommerville",
+        "original_name": "Bryce Flint-Sommerville",
+        "popularity": 1.4,
+        "profile_path": "/nT15Cd6CzZsaXhX6pIC9HiOpLEc.jpg",
+        "cast_id": 44,
+        "character": "Mine Security Guard",
+        "credit_id": "5f34ac8cc4f552003305fb71",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2006286,
+        "known_for_department": "Acting",
+        "name": "Solomon Trimble",
+        "original_name": "Solomon Trimble",
+        "popularity": 1.351,
+        "profile_path": "/v5Qad7cBmdKI6O8OwcMWZLPwLfv.jpg",
+        "cast_id": 45,
+        "character": "Jacob's Friend",
+        "credit_id": "5f34ac9f33ad8f0037a200a7",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167914,
+        "known_for_department": "Acting",
+        "name": "Alexander Mendeluk",
+        "original_name": "Alexander Mendeluk",
+        "popularity": 1.62,
+        "profile_path": "/gJSVKlKloPgKE0jRtyvWZc4bk9R.jpg",
+        "cast_id": 46,
+        "character": "Frat Boy",
+        "credit_id": "5f34acd2f6fd18003629438b",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1039591,
+        "known_for_department": "Acting",
+        "name": "Hunter Jackson",
+        "original_name": "Hunter Jackson",
+        "popularity": 1.96,
+        "profile_path": "/uoc9ciWKHxpNte1Ttf8EDUX4Gk6.jpg",
+        "cast_id": 47,
+        "character": "Frat Boy",
+        "credit_id": "5f34aceb33ad8f0035a1a64c",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2083415,
+        "known_for_department": "Acting",
+        "name": "Gavin Bristol",
+        "original_name": "Gavin Bristol",
+        "popularity": 1.96,
+        "profile_path": "/p3Fq6W0RnX4941s4alPV7vAbqZ5.jpg",
+        "cast_id": 48,
+        "character": "Frat Boy",
+        "credit_id": "5f34acfe33ad8f0038a1a532",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195091,
+        "known_for_department": "Acting",
+        "name": "Sean McGrath",
+        "original_name": "Sean McGrath",
+        "popularity": 2.063,
+        "profile_path": "/6JQODYfYZo4wB7JlqnhtBV0sF7F.jpg",
+        "cast_id": 49,
+        "character": "Frat Boy",
+        "credit_id": "5f34ad11f6fd18003428c970",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2689015,
+        "known_for_department": "Acting",
+        "name": "Katie Powers",
+        "original_name": "Katie Powers",
+        "popularity": 1.62,
+        "profile_path": "/rGjfdTmRX0vnJ8xVfcT7a7vC0cM.jpg",
+        "cast_id": 50,
+        "character": "Waitress",
+        "credit_id": "5f34ad22c4f55200320655e2",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172723,
+        "known_for_department": "Acting",
+        "name": "Catherine Grimme",
+        "original_name": "Catherine Grimme",
+        "popularity": 8.751,
+        "profile_path": "/zKcBX6hCOAw4x2ebV9mzeBOJDFs.jpg",
+        "cast_id": 52,
+        "character": "Young Bella",
+        "credit_id": "5f34ad4593828e00323c1275",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92121,
+        "known_for_department": "Acting",
+        "name": "William Joseph Elk III",
+        "original_name": "William Joseph Elk III",
+        "popularity": 1.4,
+        "profile_path": "/gMjcauabvFyZZ8RgnPeTnqUvhvA.jpg",
+        "cast_id": 53,
+        "character": "Native Wolf Pack Member #2 (uncredited)",
+        "credit_id": "5f34ad7693828e00353c2280",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1049510,
+        "known_for_department": "Acting",
+        "name": "Victoria Geil",
+        "original_name": "Victoria Geil",
+        "popularity": 2.519,
+        "profile_path": "/vdgg5N45iZapTntJWMmRMXsopX5.jpg",
+        "cast_id": 54,
+        "character": "1920's Vampire Victim (uncredited)",
+        "credit_id": "5f34ad9bc4f5520035062be1",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56856,
+        "known_for_department": "Writing",
+        "name": "Stephenie Meyer",
+        "original_name": "Stephenie Meyer",
+        "popularity": 6.702,
+        "profile_path": "/tOcgB1W13MwlEVNF6rFQosqb3fD.jpg",
+        "cast_id": 55,
+        "character": "Diner Customer (uncredited)",
+        "credit_id": "5f34adadc4f55200340645dd",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554683,
+        "known_for_department": "Acting",
+        "name": "Rick Mora",
+        "original_name": "Rick Mora",
+        "popularity": 1.96,
+        "profile_path": "/n2perFcaWEYJ5wen0wy9w9K4jNE.jpg",
+        "cast_id": 56,
+        "character": "Native Werewolf Tribe #1 - Flashback Sequence (uncredited)",
+        "credit_id": "5f34adbbc4f55200320658e1",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1209257,
+        "known_for_department": "Acting",
+        "name": "Rana Morrison",
+        "original_name": "Rana Morrison",
+        "popularity": 11.242,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Patron in Restaurant (uncredited)",
+        "credit_id": "5f34ade093828e00353c2339",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2062426,
+        "known_for_department": "Acting",
+        "name": "Edward Stiner",
+        "original_name": "Edward Stiner",
+        "popularity": 2.588,
+        "profile_path": "/xA89kjvSS6Eb8neD91BjLlX5j8g.jpg",
+        "cast_id": 59,
+        "character": "Man in Cafe (uncredited)",
+        "credit_id": "5f34ae34111da10037646282",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141726,
+        "known_for_department": "Acting",
+        "name": "Robert Zorn",
+        "original_name": "Robert Zorn",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Logger (uncredited)",
+        "credit_id": "5f34ae88f6fd180035293603",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2749578,
+        "known_for_department": "Acting",
+        "name": "Humberto Amor",
+        "original_name": "Humberto Amor",
+        "popularity": 0.98,
+        "profile_path": "/OOq00itiOhpGfFxlvSkHGjlTNn.jpg",
+        "cast_id": 62,
+        "character": "Jacob in Spanish (uncredited)",
+        "credit_id": "5f3f3b9e904f6d0035a413b3",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2749583,
+        "known_for_department": "Acting",
+        "name": "Kristopher Hyatt",
+        "original_name": "Kristopher Hyatt",
+        "popularity": 1.96,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Embry Call (uncredited)",
+        "credit_id": "5f3f3bbd904f6d0034a63b49",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2749585,
+        "known_for_department": "Acting",
+        "name": "Sherry Nelson",
+        "original_name": "Sherry Nelson",
+        "popularity": 0.6,
+        "profile_path": "/zl2zdRMwRYXIGoeBafAWh4wXsg5.jpg",
+        "cast_id": 65,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "5f3f3be3904f6d0036a33ec4",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2749586,
+        "known_for_department": "Acting",
+        "name": "Tyler Nordby",
+        "original_name": "Tyler Nordby",
+        "popularity": 0.6,
+        "profile_path": "/7oH6wjHtsNsps5hmAVZ3dSvCBKt.jpg",
+        "cast_id": 66,
+        "character": "Biology Class Student (uncredited)",
+        "credit_id": "5f3f3bf2c175b200365fa32c",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2749588,
+        "known_for_department": "Acting",
+        "name": "Trip Ross",
+        "original_name": "Trip Ross",
+        "popularity": 1.012,
+        "profile_path": null,
+        "cast_id": 67,
+        "character": "Coffee Shop Guy (uncredited)",
+        "credit_id": "5f3f3bfd19ab5900371bdfd5",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2749590,
+        "known_for_department": "Acting",
+        "name": "Josh Turner",
+        "original_name": "Josh Turner",
+        "popularity": 0.6,
+        "profile_path": "/FgTJVc1cswQGgkO0IHy0nCtEFq.jpg",
+        "cast_id": 68,
+        "character": "Townsperson (uncredited)",
+        "credit_id": "5f3f3c363bd26e00347cc5fa",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2749592,
+        "known_for_department": "Acting",
+        "name": "Maggie-Jo Turner",
+        "original_name": "Maggie-Jo Turner",
+        "popularity": 0.6,
+        "profile_path": "/rfPx2E72yMH2IQ04fYWMDE9XgsA.jpg",
+        "cast_id": 69,
+        "character": "Volleyball player (uncredited)",
+        "credit_id": "5f3f3c473c3ab00033596ab4",
+        "order": 46
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225,
+        "known_for_department": "Sound",
+        "name": "Carter Burwell",
+        "original_name": "Carter Burwell",
+        "popularity": 4.512,
+        "profile_path": "/v1SgCqg3SXnBs1ZXoxPQQiGpAMX.jpg",
+        "credit_id": "5ae5e97dc3a368092d0037b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3965,
+        "known_for_department": "Production",
+        "name": "Deborah Aquila",
+        "original_name": "Deborah Aquila",
+        "popularity": 4.019,
+        "profile_path": "/21tKfmoNpulz84RuWXPUXHuAwU2.jpg",
+        "credit_id": "6102fc9e8d1b8e005d416c37",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10569,
+        "known_for_department": "Production",
+        "name": "Karen Rosenfelt",
+        "original_name": "Karen Rosenfelt",
+        "popularity": 1.984,
+        "profile_path": null,
+        "credit_id": "5b3c798e92514102ad006b0b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5506,
+        "known_for_department": "Camera",
+        "name": "Elliot Davis",
+        "original_name": "Elliot Davis",
+        "popularity": 1.694,
+        "profile_path": null,
+        "credit_id": "5ae5e96b0e0a260377005f84",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6040,
+        "known_for_department": "Production",
+        "name": "Wyck Godfrey",
+        "original_name": "Wyck Godfrey",
+        "popularity": 2.534,
+        "profile_path": "/tKoS0O3m1UROqeM9ZLLfbvgY6Vf.jpg",
+        "credit_id": "5b3c7836c3a3685953008973",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5957,
+        "known_for_department": "Art",
+        "name": "Gene Serdena",
+        "original_name": "Gene Serdena",
+        "popularity": 2.177,
+        "profile_path": null,
+        "credit_id": "6103051bf706de005efc410a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9408,
+        "known_for_department": "Sound",
+        "name": "Frank Gaeta",
+        "original_name": "Frank Gaeta",
+        "popularity": 1.703,
+        "profile_path": "/73Y6F6VOjS1HofdwRdFXeu0dkzb.jpg",
+        "credit_id": "61030db2cee4810075e6df8d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9408,
+        "known_for_department": "Sound",
+        "name": "Frank Gaeta",
+        "original_name": "Frank Gaeta",
+        "popularity": 1.703,
+        "profile_path": "/73Y6F6VOjS1HofdwRdFXeu0dkzb.jpg",
+        "credit_id": "61030d98cee481002ddac70e",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9408,
+        "known_for_department": "Sound",
+        "name": "Frank Gaeta",
+        "original_name": "Frank Gaeta",
+        "popularity": 1.703,
+        "profile_path": "/73Y6F6VOjS1HofdwRdFXeu0dkzb.jpg",
+        "credit_id": "61030f874284ea0074d1ebc2",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9439,
+        "known_for_department": "Sound",
+        "name": "Catherine Harper",
+        "original_name": "Catherine Harper",
+        "popularity": 4.48,
+        "profile_path": null,
+        "credit_id": "61030eff6517d6007ea4240e",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9440,
+        "known_for_department": "Sound",
+        "name": "Christopher Moriana",
+        "original_name": "Christopher Moriana",
+        "popularity": 2.023,
+        "profile_path": null,
+        "credit_id": "61030f10db72c0005d8f1492",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12575,
+        "known_for_department": "Camera",
+        "name": "Patrick Loungway",
+        "original_name": "Patrick Loungway",
+        "popularity": 2.572,
+        "profile_path": null,
+        "credit_id": "61030c82a217c0005d624256",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 16994,
+        "known_for_department": "Sound",
+        "name": "Roland N. Thai",
+        "original_name": "Roland N. Thai",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "61030dfb2a210c004729c89a",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19850,
+        "known_for_department": "Directing",
+        "name": "Catherine Hardwicke",
+        "original_name": "Catherine Hardwicke",
+        "popularity": 7.986,
+        "profile_path": "/o1kLqFvtohRK8MD4avnB02a3NKM.jpg",
+        "credit_id": "52fe44ccc3a36847f80aa8e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56765,
+        "known_for_department": "Sound",
+        "name": "Leslie Shatz",
+        "original_name": "Leslie Shatz",
+        "popularity": 6.017,
+        "profile_path": "/AqIGhoQ8OzFm9mkAQLhaOBkYZYU.jpg",
+        "credit_id": "61030f6322931a005c4c86a9",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 22067,
+        "known_for_department": "Art",
+        "name": "Ian Phillips",
+        "original_name": "Ian Phillips",
+        "popularity": 0.695,
+        "profile_path": null,
+        "credit_id": "6102fc71db72c03bfb2879dc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25046,
+        "known_for_department": "Production",
+        "name": "Marty Bowen",
+        "original_name": "Marty Bowen",
+        "popularity": 2.187,
+        "profile_path": "/4G0hk2Pvc9Au6WEdYBv7g2nN7mt.jpg",
+        "credit_id": "5b3c786792514102e200603d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35514,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Wendy Chuck",
+        "original_name": "Wendy Chuck",
+        "popularity": 1.834,
+        "profile_path": "/oe2F9wVKMqnFGQyEedJ9GjAO1cm.jpg",
+        "credit_id": "5ae5e9af9251417bd300597b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49907,
+        "known_for_department": "Production",
+        "name": "Michele Imperato",
+        "original_name": "Michele Imperato",
+        "popularity": 2.093,
+        "profile_path": null,
+        "credit_id": "5b3c789892514102a4007bb7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49907,
+        "known_for_department": "Production",
+        "name": "Michele Imperato",
+        "original_name": "Michele Imperato",
+        "popularity": 2.093,
+        "profile_path": null,
+        "credit_id": "6102fd2c22931a005c4c5c94",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56855,
+        "known_for_department": "Writing",
+        "name": "Melissa Rosenberg",
+        "original_name": "Melissa Rosenberg",
+        "popularity": 1.96,
+        "profile_path": "/yxNMR5vKQoqDwnu3SXykTTZQTJJ.jpg",
+        "credit_id": "52fe44ccc3a36847f80aa8e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56856,
+        "known_for_department": "Writing",
+        "name": "Stephenie Meyer",
+        "original_name": "Stephenie Meyer",
+        "popularity": 6.702,
+        "profile_path": "/tOcgB1W13MwlEVNF6rFQosqb3fD.jpg",
+        "credit_id": "52fe44ccc3a36847f80aa8ef",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58797,
+        "known_for_department": "Crew",
+        "name": "Andy Cheng",
+        "original_name": "Andy Cheng",
+        "popularity": 4.69,
+        "profile_path": "/aO32rP2VY87vFBEComXmxWapmsK.jpg",
+        "credit_id": "6102fe5e22931a0045161b8c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58797,
+        "known_for_department": "Crew",
+        "name": "Andy Cheng",
+        "original_name": "Andy Cheng",
+        "popularity": 4.69,
+        "profile_path": "/aO32rP2VY87vFBEComXmxWapmsK.jpg",
+        "credit_id": "61030bf28ee49c007f59b779",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67846,
+        "known_for_department": "Editing",
+        "name": "Nancy Richardson",
+        "original_name": "Nancy Richardson",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "5ae5e9740e0a2631eb0079ca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61647,
+        "known_for_department": "Production",
+        "name": "Guy Oseary",
+        "original_name": "Guy Oseary",
+        "popularity": 1.833,
+        "profile_path": "/plEi8Ef7jm7Q1aKa3mZ0fpFLAi9.jpg",
+        "credit_id": "5b3c7971c3a3685957006cbd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63720,
+        "known_for_department": "Production",
+        "name": "Mark Morgan",
+        "original_name": "Mark Morgan",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "5b3c7938c3a368593c00673f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84127,
+        "known_for_department": "Production",
+        "name": "Greg Mooradian",
+        "original_name": "Greg Mooradian",
+        "popularity": 1.312,
+        "profile_path": null,
+        "credit_id": "5b3c7914c3a368595d006c3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83069,
+        "known_for_department": "Production",
+        "name": "Jamie Marshall",
+        "original_name": "Jamie Marshall",
+        "popularity": 1.62,
+        "profile_path": "/1YDJEWrvSEVwhayiKP1ZQL9NtYa.jpg",
+        "credit_id": "5b3c78ea0e0a26240200725d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83069,
+        "known_for_department": "Production",
+        "name": "Jamie Marshall",
+        "original_name": "Jamie Marshall",
+        "popularity": 1.62,
+        "profile_path": "/1YDJEWrvSEVwhayiKP1ZQL9NtYa.jpg",
+        "credit_id": "6102fd6b22931a005c4c5d6e",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 83656,
+        "known_for_department": "Directing",
+        "name": "Michael Viglietta",
+        "original_name": "Michael Viglietta",
+        "popularity": 1.106,
+        "profile_path": null,
+        "credit_id": "61030c54db72c0005d8f0a4a",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92606,
+        "known_for_department": "Sound",
+        "name": "Patrick Giraudi",
+        "original_name": "Patrick Giraudi",
+        "popularity": 1.094,
+        "profile_path": null,
+        "credit_id": "61030e0dcee4810075e6e069",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 132619,
+        "known_for_department": "Visual Effects",
+        "name": "Geoffrey Hancock",
+        "original_name": "Geoffrey Hancock",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610402006517d6004684b0e4",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548446,
+        "known_for_department": "Sound",
+        "name": "Greg Zimmerman",
+        "original_name": "Greg Zimmerman",
+        "popularity": 1.473,
+        "profile_path": null,
+        "credit_id": "61030ead8d1b8e0047c41202",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034748,
+        "known_for_department": "Production",
+        "name": "Tricia Wood",
+        "original_name": "Tricia Wood",
+        "popularity": 3.216,
+        "profile_path": "/hSYw8hshMtY06XzuX2ZAuYluO03.jpg",
+        "credit_id": "6102fc8f4284ea005d182d76",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1096366,
+        "known_for_department": "Crew",
+        "name": "Richard Kidd",
+        "original_name": "Richard Kidd",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "610401034f33ad007ecf1371",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155551,
+        "known_for_department": "Editing",
+        "name": "Kindra Marra",
+        "original_name": "Kindra Marra",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "61030cfc4f33ad00453c7409",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1318445,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jeanne Van Phue",
+        "original_name": "Jeanne Van Phue",
+        "popularity": 1.96,
+        "profile_path": null,
+        "credit_id": "610306c78d1b8e002a6975c3",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1333902,
+        "known_for_department": "Production",
+        "name": "Georgia Simon",
+        "original_name": "Georgia Simon",
+        "popularity": 0.979,
+        "profile_path": null,
+        "credit_id": "61030ebf7d5f4b00743337ce",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1333982,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dana Kay Hart",
+        "original_name": "Dana Kay Hart",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610306834f33ad002d8cbdaa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335219,
+        "known_for_department": "Sound",
+        "name": "Paul Timothy Carden",
+        "original_name": "Paul Timothy Carden",
+        "popularity": 3.785,
+        "profile_path": null,
+        "credit_id": "61030e6622931a0045163c65",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1347993,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rolf John Keppler",
+        "original_name": "Rolf John Keppler",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "610306e46517d60029155ba9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352979,
+        "known_for_department": "Sound",
+        "name": "Adam Milo Smalley",
+        "original_name": "Adam Milo Smalley",
+        "popularity": 1.013,
+        "profile_path": null,
+        "credit_id": "610311a92a210c004729d048",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357057,
+        "known_for_department": "Art",
+        "name": "Grant Samson",
+        "original_name": "Grant Samson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6103053b8ee49c004654f8fa",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1358021,
+        "known_for_department": "Visual Effects",
+        "name": "Jamison Scott Goei",
+        "original_name": "Jamison Scott Goei",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610404dc42d837005c44a285",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1360093,
+        "known_for_department": "Art",
+        "name": "Tim Croshaw",
+        "original_name": "Tim Croshaw",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6103049bd207f3002f76233c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1377228,
+        "known_for_department": "Camera",
+        "name": "George Billinger III",
+        "original_name": "George Billinger III",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "6102fee48d1b8e0074420aca",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384368,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Brimer",
+        "original_name": "Daniel Brimer",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "610404f57d5f4b007434f1af",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384381,
+        "known_for_department": "Visual Effects",
+        "name": "Jinnie Pak",
+        "original_name": "Jinnie Pak",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "610402177d5f4b007434ebf4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392101,
+        "known_for_department": "Visual Effects",
+        "name": "Petra Holtorf",
+        "original_name": "Petra Holtorf",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "61030fd06517d6005e388c73",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393582,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary Ann Valdes",
+        "original_name": "Mary Ann Valdes",
+        "popularity": 1.214,
+        "profile_path": null,
+        "credit_id": "6103071bcee481002ddabb49",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397849,
+        "known_for_department": "Camera",
+        "name": "Deana Newcomb",
+        "original_name": "Deana Newcomb",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "61030100f706de08de0097ff",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397850,
+        "known_for_department": "Lighting",
+        "name": "James J. Gilson",
+        "original_name": "James J. Gilson",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "610301b5ee43e800478f3405",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400093,
+        "known_for_department": "Sound",
+        "name": "Rickley W. Dumm",
+        "original_name": "Rickley W. Dumm",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "61030dec8d1b8e002a698271",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1401273,
+        "known_for_department": "Crew",
+        "name": "Peter J. Silbermann",
+        "original_name": "Peter J. Silbermann",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610309fba217c00046c34610",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1402111,
+        "known_for_department": "Sound",
+        "name": "Marshall Garlington",
+        "original_name": "Marshall Garlington",
+        "popularity": 0.766,
+        "profile_path": null,
+        "credit_id": "61030f7b4e52ed005fe7ea0c",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403423,
+        "known_for_department": "Editing",
+        "name": "Harry Muller",
+        "original_name": "Harry Muller",
+        "popularity": 2.759,
+        "profile_path": null,
+        "credit_id": "61031278cee481005e3a520a",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404901,
+        "known_for_department": "Sound",
+        "name": "Greg Steele",
+        "original_name": "Greg Steele",
+        "popularity": 1.69,
+        "profile_path": null,
+        "credit_id": "61030e8ef706de007e90e017",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1409284,
+        "known_for_department": "Directing",
+        "name": "Judi Townsend",
+        "original_name": "Judi Townsend",
+        "popularity": 1.62,
+        "profile_path": null,
+        "credit_id": "6103010fa217c0007d68c650",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1412242,
+        "known_for_department": "Sound",
+        "name": "Thom 'Coach' Ehle",
+        "original_name": "Thom 'Coach' Ehle",
+        "popularity": 2.58,
+        "profile_path": null,
+        "credit_id": "6103125e2a210c005e26352c",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1412704,
+        "known_for_department": "Sound",
+        "name": "Sarah Payan",
+        "original_name": "Sarah Payan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "61030e242a210c004729c911",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431557,
+        "known_for_department": "Art",
+        "name": "Cynthia Nibler",
+        "original_name": "Cynthia Nibler",
+        "popularity": 0.714,
+        "profile_path": null,
+        "credit_id": "610303258e8d30005e090f05",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432605,
+        "known_for_department": "Crew",
+        "name": "Earl Paraszczynec",
+        "original_name": "Earl Paraszczynec",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610403722a210c00472b6ec7",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432615,
+        "known_for_department": "Crew",
+        "name": "Lara Ramirez",
+        "original_name": "Lara Ramirez",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "61030d362a210c005e262b44",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437196,
+        "known_for_department": "Visual Effects",
+        "name": "Mark Maccora",
+        "original_name": "Mark Maccora",
+        "popularity": 0.994,
+        "profile_path": null,
+        "credit_id": "610405424284ea210e460f43",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453892,
+        "known_for_department": "Sound",
+        "name": "David Grant",
+        "original_name": "David Grant",
+        "popularity": 1.932,
+        "profile_path": null,
+        "credit_id": "610310c28e8d3000742c3848",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1460739,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Catherine Childers",
+        "original_name": "Catherine Childers",
+        "popularity": 1.473,
+        "profile_path": null,
+        "credit_id": "61030756f706de08de00a4c1",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1463323,
+        "known_for_department": "Art",
+        "name": "Philip Keller",
+        "original_name": "Philip Keller",
+        "popularity": 0.996,
+        "profile_path": null,
+        "credit_id": "610304c222931a005c4c6e12",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1493973,
+        "known_for_department": "Production",
+        "name": "Lisa Zagoria",
+        "original_name": "Lisa Zagoria",
+        "popularity": 1.286,
+        "profile_path": null,
+        "credit_id": "61030996f706de005efc4b7a",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1533545,
+        "known_for_department": "Sound",
+        "name": "Joe Iemola",
+        "original_name": "Joe Iemola",
+        "popularity": 0.972,
+        "profile_path": null,
+        "credit_id": "61030dd92a210c007e1234a3",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1538148,
+        "known_for_department": "Sound",
+        "name": "Alexandra Patsavas",
+        "original_name": "Alexandra Patsavas",
+        "popularity": 0.84,
+        "profile_path": "/R9rHK6zVup8IXTO6gNgQ1JZ3nR.jpg",
+        "credit_id": "6102fcc9d207f3002f76136e",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1542802,
+        "known_for_department": "Crew",
+        "name": "Angel Pine",
+        "original_name": "Angel Pine",
+        "popularity": 1.166,
+        "profile_path": null,
+        "credit_id": "61030cd82a210c004729c5f3",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548388,
+        "known_for_department": "Sound",
+        "name": "Travis MacKay",
+        "original_name": "Travis MacKay",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "61030e9da217c0005d6246bb",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548459,
+        "known_for_department": "Camera",
+        "name": "Robert 'Caz' Duffy",
+        "original_name": "Robert 'Caz' Duffy",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6102ff66d207f30046551898",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1555298,
+        "known_for_department": "Art",
+        "name": "Christopher Brown",
+        "original_name": "Christopher Brown",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5a09e1bdc3a36820c1002e86",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557611,
+        "known_for_department": "Sound",
+        "name": "Michael Farrow",
+        "original_name": "Michael Farrow",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "610311c822931a0045164389",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565006,
+        "known_for_department": "Sound",
+        "name": "Richard Bullock Jr.",
+        "original_name": "Richard Bullock Jr.",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6103013e8ee49c007f59a228",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1573759,
+        "known_for_department": "Crew",
+        "name": "Jim Hartz",
+        "original_name": "Jim Hartz",
+        "popularity": 1.396,
+        "profile_path": null,
+        "credit_id": "61030a2da217c00046c3467d",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578907,
+        "known_for_department": "Editing",
+        "name": "Joshua Raymond Lee",
+        "original_name": "Joshua Raymond Lee",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "61030d6b6517d6005e3886e3",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580877,
+        "known_for_department": "Visual Effects",
+        "name": "Nicholas Elwell",
+        "original_name": "Nicholas Elwell",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "61031055a217c0007d68df54",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584968,
+        "known_for_department": "Art",
+        "name": "Camille M. Bratkowski",
+        "original_name": "Camille M. Bratkowski",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "6103045ff706de005efc3fc1",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1609037,
+        "known_for_department": "Sound",
+        "name": "Kasey Truman",
+        "original_name": "Kasey Truman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610311f8db72c03bfb28cba5",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1691203,
+        "known_for_department": "Crew",
+        "name": "Robert K. Johnson",
+        "original_name": "Robert K. Johnson",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "6104002e8ee49c004656b34d",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1739793,
+        "known_for_department": "Visual Effects",
+        "name": "Harrison Marks",
+        "original_name": "Harrison Marks",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610310344e52ed005fe7ebc5",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1760507,
+        "known_for_department": "Directing",
+        "name": "Greg Hale",
+        "original_name": "Greg Hale",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6102fe228ee49c002d1c53f4",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1760573,
+        "known_for_department": "Sound",
+        "name": "Darrin Mann",
+        "original_name": "Darrin Mann",
+        "popularity": 0.917,
+        "profile_path": null,
+        "credit_id": "61030ef38e8d30004674c26a",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1828308,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Cairnie",
+        "original_name": "Daniel Cairnie",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610403ec42d8370073212c39",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1868243,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Connolly",
+        "original_name": "Laura Connolly",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "610307764284ea0074d1da41",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1963231,
+        "known_for_department": "Visual Effects",
+        "name": "Louis Leung",
+        "original_name": "Louis Leung",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610402e942d8370045ec9c92",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1964989,
+        "known_for_department": "Editing",
+        "name": "Alan Z. McCurdy",
+        "original_name": "Alan Z. McCurdy",
+        "popularity": 1.094,
+        "profile_path": null,
+        "credit_id": "61030d138d1b8e0047c40ea1",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1981344,
+        "known_for_department": "Visual Effects",
+        "name": "Steve Won",
+        "original_name": "Steve Won",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6104022d7d5f4b002da140da",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2023512,
+        "known_for_department": "Crew",
+        "name": "Andy Weder",
+        "original_name": "Andy Weder",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6103ff7b8ee49c005e0fe6f6",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2057543,
+        "known_for_department": "Sound",
+        "name": "Eric Thompson",
+        "original_name": "Eric Thompson",
+        "popularity": 1.094,
+        "profile_path": null,
+        "credit_id": "61030e7da217c0005d624671",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2060847,
+        "known_for_department": "Art",
+        "name": "Marc Vena",
+        "original_name": "Marc Vena",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610304fbf706de005efc40e7",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2125096,
+        "known_for_department": "Visual Effects",
+        "name": "Tom McHattie",
+        "original_name": "Tom McHattie",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "610403cd42d8370045ec9da2",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2141810,
+        "known_for_department": "Visual Effects",
+        "name": "Thomas Rosseter",
+        "original_name": "Thomas Rosseter",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "6104049617c443005d4cf63e",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2147147,
+        "known_for_department": "Visual Effects",
+        "name": "Mark Casey",
+        "original_name": "Mark Casey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6103111e4284ea005d1856f3",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2155800,
+        "known_for_department": "Art",
+        "name": "Philip Blackburn",
+        "original_name": "Philip Blackburn",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "61030597ee43e8007f308a60",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2157533,
+        "known_for_department": "Visual Effects",
+        "name": "Ricardo Quintero",
+        "original_name": "Ricardo Quintero",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610404144284ea0074d3a631",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2192465,
+        "known_for_department": "Crew",
+        "name": "Noel Wright",
+        "original_name": "Noel Wright",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610404384f33ad00453e1a3c",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2193890,
+        "known_for_department": "Camera",
+        "name": "Nate Goodman",
+        "original_name": "Nate Goodman",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "610300cb4e52ed002ea5c529",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212667,
+        "known_for_department": "Sound",
+        "name": "Glenn Micallef",
+        "original_name": "Glenn Micallef",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610301284f33ad002d8cb322",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2242602,
+        "known_for_department": "Visual Effects",
+        "name": "Ahren Thomas",
+        "original_name": "Ahren Thomas",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610405617d5f4b007434f2b9",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2244107,
+        "known_for_department": "Production",
+        "name": "Catherine Kagan",
+        "original_name": "Catherine Kagan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610303afdb72c03bfb289625",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2249578,
+        "known_for_department": "Directing",
+        "name": "Lynne Martin",
+        "original_name": "Lynne Martin",
+        "popularity": 1.614,
+        "profile_path": null,
+        "credit_id": "6103083b8ee49c005e0e4d5b",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2256230,
+        "known_for_department": "Camera",
+        "name": "Bruce Robinson",
+        "original_name": "Bruce Robinson",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "6103002a4284ea005d18351b",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2315358,
+        "known_for_department": "Visual Effects",
+        "name": "Jerome Bakum",
+        "original_name": "Jerome Bakum",
+        "popularity": 1.114,
+        "profile_path": null,
+        "credit_id": "610401cdf706de007e9230a8",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2344943,
+        "known_for_department": "Directing",
+        "name": "Thomas Coe",
+        "original_name": "Thomas Coe",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "6102fdc08e8d30002dc84953",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2421308,
+        "known_for_department": "Visual Effects",
+        "name": "Bill George",
+        "original_name": "Bill George",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6104017b42d837005c449baf",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2458180,
+        "known_for_department": "Art",
+        "name": "Lars Petersen",
+        "original_name": "Lars Petersen",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "61030ad22a210c005e26272f",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2578697,
+        "known_for_department": "Visual Effects",
+        "name": "Jeanie King",
+        "original_name": "Jeanie King",
+        "popularity": 0.634,
+        "profile_path": null,
+        "credit_id": "6104018f2a210c002b3c19a9",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2774891,
+        "known_for_department": "Visual Effects",
+        "name": "Moritz Eiche",
+        "original_name": "Moritz Eiche",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "610403a58ee49c004656b871",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2839456,
+        "known_for_department": "Production",
+        "name": "Cathy Marshall",
+        "original_name": "Cathy Marshall",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "610309544e52ed002ea5d4de",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2983978,
+        "known_for_department": "Visual Effects",
+        "name": "Chad L. Fox",
+        "original_name": "Chad L. Fox",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "610403234284ea0074d3a416",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3162259,
+        "known_for_department": "Camera",
+        "name": "David Galbraith",
+        "original_name": "David Galbraith",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6102ff378ee49c005e0e3b54",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3547739,
+        "known_for_department": "Sound",
+        "name": "Lizzy Pattinson",
+        "original_name": "Lizzy Pattinson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "627e5a3420e6a53487632520",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1099212",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
