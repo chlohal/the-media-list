@@ -21,6 +21,6 @@ jobs:
           git add .
           git config --global user.email the-media-list@clh.sh
           git config --global user.name uploading bot
-          git commit -m "added ${{ github.event.issue.title }}"
+          git commit -m "added ${{ github.event.issue.title }} (issue #${{ github.event.issue.number }})"
           git push https://${{ github.actor }}:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
       
