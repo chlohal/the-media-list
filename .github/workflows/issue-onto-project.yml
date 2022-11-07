@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 19
       - run: |
-          node --no-warnings ./add-data-to-project.js '${{ github.event.issue.number }}'
+          node --no-warnings ./download/index.js '${{ github.event.issue.number }}'
           git add .
           git config --global user.email the-media-list@clh.sh
           git config --global user.name uploading bot
