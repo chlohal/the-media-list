@@ -77,13 +77,23 @@ ${triggers
 `
     );
 
+    const dataFolder = `${__dirname}/data/${metadata.id}-${slugify(metadata.name || metadata.title)}`;
 
-    createDirectory(`${__dirname}/data/${metadata.id}`);
+    createDirectory(dataFolder);
 
-    fs.writeFileSync(`${__dirname}/data/${metadata.id}/tmdb.json`, JSON.stringify(metadata, null, 2));
-    fs.writeFileSync(`${__dirname}/data/${metadata.id}/d4.json`, JSON.stringify(triggers, null, 2));
+    fs.writeFileSync(`${dataFolder}/tmdb.json`, JSON.stringify(metadata, null, 2));
+    fs.writeFileSync(`${dataFolder}/d4.json`, JSON.stringify(triggers, null, 2));
     
 })();
+
+function slugify(str) {
+    return ("" + str)
+        .replace(/\W+/g, "-")
+        .substring(0, 40)
+        .replace(/^-/, "")
+        .replace(/-$/, "")
+        .toLowerCase();
+}
 
 function createDirectory(dir) {
     if(!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
