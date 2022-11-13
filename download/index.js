@@ -77,7 +77,7 @@ ${triggers
 `
     );
 
-    const dataFolder = `${__dirname}/data/${metadata.id}-${slugify(metadata.name || metadata.title)}`;
+    const dataFolder = `${__dirname}/../data/${metadata.id}-${slugify(metadata.name || metadata.title)}`;
 
     createDirectory(dataFolder);
 
