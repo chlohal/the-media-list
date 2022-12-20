@@ -42,7 +42,7 @@ async function getSearchResults(title) {
 
 function getToken() {
     try {
-        return fs.readFileSync(__dirname + "/token_d4").toString();
+        return fs.readFileSync(__dirname + "/../token_d4").toString();
     } catch(e) {}
 
     return process.env.D4_TOKEN;

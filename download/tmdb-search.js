@@ -22,7 +22,7 @@ module.exports = async function(search) {
 
 function getToken() {
     try {
-        return fs.readFileSync(__dirname + "/token_tmdb").toString();
+        return fs.readFileSync(__dirname + "/../token_tmdb").toString();
     } catch(e) {}
 
     return process.env.TMDB_TOKEN;

@@ -286,12 +286,19 @@ async function sendGraphQl(queryContent) {
         body: JSON.stringify({ query: queryContent })
     });
 
-    return await req.json();
+    const json = await req.json();
+    
+    if(json.data) {
+        return json;
+    } else {
+        console.error(json);
+        throw new Error("Bad GQL Reply");
+    } 
 }
 
 function loadToken() {
     try {
-        return fs.readFileSync(__dirname + "/token_gh").toString();
+        return fs.readFileSync(__dirname + "/../token_gh").toString();
     } catch(e) {}
     return process.env.GITHUB_TOKEN;
 }
