@@ -77,7 +77,7 @@ ${triggers
 `
     );
 
-    const dataFolder = `${__dirname}/../data/${metadata.id}-${slugify(metadata.name || metadata.title)}`;
+    const dataFolder = `${__dirname}/../data/${getId(metadata)}`;
 
     createDirectory(dataFolder);
 
@@ -86,13 +86,21 @@ ${triggers
     
 })();
 
-function slugify(str) {
-    return ("" + str)
-        .replace(/\W+/g, "-")
-        .substring(0, 40)
-        .replace(/^-/, "")
-        .replace(/-$/, "")
-        .toLowerCase();
+function getId(metadata) {
+    const year = metadata.media_type == "movie" ? "_" + metadata.release_date.split("-")[0] : "";
+
+    const mediaName = slugify(metadata.title || metadata.name) + year;
+    
+    return mediaName;
+}
+
+function slugify(n) {
+    return n
+        .replace(/'/g, "")
+        .replace(/\W+/g, "_")
+        .split("_")
+        .filter(x => x)
+        .join("_")
 }
 
 function createDirectory(dir) {
