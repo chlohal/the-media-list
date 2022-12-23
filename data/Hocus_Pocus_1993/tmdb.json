@@ -1,0 +1,4112 @@
+{
+  "adult": false,
+  "backdrop_path": "/c4Fl1cWiXcq4uJdOQudQClFjhho.jpg",
+  "belongs_to_collection": {
+    "id": 751156,
+    "name": "Hocus Pocus Collection",
+    "poster_path": "/1w8K4Dt3WOyCPpe94HY0rA9UXUj.jpg",
+    "backdrop_path": "/ep3u73OsN6PSxed9TFJnWqjwrdO.jpg"
+  },
+  "budget": 28000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://movies.disney.com/hocus-pocus",
+  "id": 10439,
+  "imdb_id": "tt0107120",
+  "original_language": "en",
+  "original_title": "Hocus Pocus",
+  "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+  "popularity": 52.288,
+  "poster_path": "/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8830,
+      "logo_path": null,
+      "name": "Touchwood Pacific Partners 1",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-07-16",
+  "revenue": 39514713,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's just a bunch of Hocus Pocus.",
+  "title": "Hocus Pocus",
+  "video": false,
+  "vote_average": 7.065,
+  "vote_count": 2538,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 44
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 24
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 24
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=AU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=BA",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=BE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=BG",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 18
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=BO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=BR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CA",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 59
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/pGk6V35szQnJVq2OoJLnRpjifb3.jpg",
+          "provider_id": 492,
+          "provider_name": "ILLICO",
+          "display_priority": 57
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 59
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 40
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=CZ",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=DE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 23
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 23
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=DK",
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=EC",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=EE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=EG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=ES",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 35
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 35
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=FI",
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=FR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 46
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 46
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=GB",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 29
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=GR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 20
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=GT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=HK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=HN",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=HR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 38
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=HU",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 3
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=IE",
+      "rent": [
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=IS",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=IT",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=JP",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/v8vA6WnPVTOE1o39waNFVmAqEJj.jpg",
+          "provider_id": 390,
+          "provider_name": "Disney Plus",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=KR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "LI": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=LI",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=LT",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=LV",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=MK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=MT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=MX",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=MY",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=NL",
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 34
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=NO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=NZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 3
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=PE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=PH",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=PL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=PT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=PY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 19
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=RS",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=RU",
+      "buy": [
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SG",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SI",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 31
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 40
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=TH",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=TR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 22
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=TW",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=US",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 36
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 47
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 36
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 47
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/10439-hocus-pocus/watch?locale=ZA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 28
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 2389,
+      "name": "virgin"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 6506,
+      "name": "resurrection"
+    },
+    {
+      "id": 10327,
+      "name": "undead"
+    },
+    {
+      "id": 14752,
+      "name": "potion"
+    },
+    {
+      "id": 33795,
+      "name": "salem, massachusetts"
+    },
+    {
+      "id": 180193,
+      "name": "trick or treating"
+    },
+    {
+      "id": 180194,
+      "name": "spellcasting"
+    },
+    {
+      "id": 188748,
+      "name": "talking cat"
+    },
+    {
+      "id": 244663,
+      "name": "time skip"
+    },
+    {
+      "id": 244896,
+      "name": "grimoire"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73931,
+        "known_for_department": "Acting",
+        "name": "Bette Midler",
+        "original_name": "Bette Midler",
+        "popularity": 10.972,
+        "profile_path": "/AboHBmgeoFkCwp7mQHyfORnbOPY.jpg",
+        "cast_id": 1,
+        "character": "Winifred 'Winnie' Sanderson",
+        "credit_id": "52fe43719251416c75010891",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 520,
+        "known_for_department": "Acting",
+        "name": "Sarah Jessica Parker",
+        "original_name": "Sarah Jessica Parker",
+        "popularity": 14.513,
+        "profile_path": "/f4HGGM8LR2fSoBQXM2mlfa4xzxt.jpg",
+        "cast_id": 2,
+        "character": "Sarah Sanderson",
+        "credit_id": "52fe43719251416c75010895",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11074,
+        "known_for_department": "Acting",
+        "name": "Kathy Najimy",
+        "original_name": "Kathy Najimy",
+        "popularity": 20.399,
+        "profile_path": "/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg",
+        "cast_id": 3,
+        "character": "Mary Sanderson",
+        "credit_id": "52fe43719251416c75010899",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65309,
+        "known_for_department": "Acting",
+        "name": "Omri Katz",
+        "original_name": "Omri Katz",
+        "popularity": 9.948,
+        "profile_path": "/wY3NxTyXhzJ8BkmBZcQuSE7WtoC.jpg",
+        "cast_id": 4,
+        "character": "Max Dennison",
+        "credit_id": "52fe43719251416c7501089d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2155,
+        "known_for_department": "Acting",
+        "name": "Thora Birch",
+        "original_name": "Thora Birch",
+        "popularity": 20.962,
+        "profile_path": "/7rRirYcL5JJS5P2W67yhsmAfO3x.jpg",
+        "cast_id": 5,
+        "character": "Dani",
+        "credit_id": "52fe43719251416c750108a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5025,
+        "known_for_department": "Acting",
+        "name": "Vinessa Shaw",
+        "original_name": "Vinessa Shaw",
+        "popularity": 9.664,
+        "profile_path": "/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg",
+        "cast_id": 16,
+        "character": "Allison",
+        "credit_id": "52fe43719251416c750108e1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951643,
+        "known_for_department": "Acting",
+        "name": "Tobias Jelinek",
+        "original_name": "Tobias Jelinek",
+        "popularity": 4.923,
+        "profile_path": "/rGHghEJ13ez2uvTQ3SNPB7LoW75.jpg",
+        "cast_id": 19,
+        "character": "Jay",
+        "credit_id": "52fe43719251416c750108ed",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 426,
+        "known_for_department": "Acting",
+        "name": "Larry Bagby",
+        "original_name": "Larry Bagby",
+        "popularity": 2.975,
+        "profile_path": "/vfGpMQnsGpluCK92kwe46lfPW3S.jpg",
+        "cast_id": 18,
+        "character": "Ernie / 'Ice'",
+        "credit_id": "52fe43719251416c750108e9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17005,
+        "known_for_department": "Acting",
+        "name": "Doug Jones",
+        "original_name": "Doug Jones",
+        "popularity": 22.411,
+        "profile_path": "/4C2rJbkgpD3wsdIzJHxk5rcEqTZ.jpg",
+        "cast_id": 22,
+        "character": "Billy Butcherson",
+        "credit_id": "52fe43719251416c750108f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2175565,
+        "known_for_department": "Acting",
+        "name": "Amanda Shepherd",
+        "original_name": "Amanda Shepherd",
+        "popularity": 5.391,
+        "profile_path": "/aJmRnDlGqO76hwDzPeg9QnyVmEk.jpg",
+        "cast_id": 51,
+        "character": "Emily",
+        "credit_id": "5bec3686925141025c00b106",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14105,
+        "known_for_department": "Acting",
+        "name": "Stephanie Faracy",
+        "original_name": "Stephanie Faracy",
+        "popularity": 4.898,
+        "profile_path": "/uWXUQx5AXLxQdtVontdnqIVQAfq.jpg",
+        "cast_id": 20,
+        "character": "Jenny Dennison",
+        "credit_id": "52fe43719251416c750108f1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7867,
+        "known_for_department": "Acting",
+        "name": "Charles Rocket",
+        "original_name": "Charles Rocket",
+        "popularity": 6.118,
+        "profile_path": "/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg",
+        "cast_id": 21,
+        "character": "Dave Dennison",
+        "credit_id": "52fe43719251416c750108f5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210516,
+        "known_for_department": "Acting",
+        "name": "Karyn Malchus",
+        "original_name": "Karyn Malchus",
+        "popularity": 1.205,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Headless Billy Butcherson",
+        "credit_id": "52fe43719251416c75010949",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230381,
+        "known_for_department": "Acting",
+        "name": "Sean Murray",
+        "original_name": "Sean Murray",
+        "popularity": 6.653,
+        "profile_path": "/r1kuDqWZbPR35Y2Ab7wQi72fgVk.jpg",
+        "cast_id": 45,
+        "character": "Thackery",
+        "credit_id": "52fe43719251416c75010955",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210517,
+        "known_for_department": "Acting",
+        "name": "Steve Voboril",
+        "original_name": "Steve Voboril",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Elijah",
+        "credit_id": "52fe43719251416c7501094d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6701,
+        "known_for_department": "Acting",
+        "name": "Norbert Weisser",
+        "original_name": "Norbert Weisser",
+        "popularity": 4.295,
+        "profile_path": "/m5vgCCT8vlp1yTS9BEbLQTFfrmx.jpg",
+        "cast_id": 23,
+        "character": "Thackery's Father",
+        "credit_id": "52fe43719251416c750108fd",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7210,
+        "known_for_department": "Acting",
+        "name": "Kathleen Freeman",
+        "original_name": "Kathleen Freeman",
+        "popularity": 7.543,
+        "profile_path": "/7UTN2SEcdQ4Ez9br7a8yy1bJV7e.jpg",
+        "cast_id": 26,
+        "character": "Miss Olin",
+        "credit_id": "52fe43719251416c7501090d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4211,
+        "known_for_department": "Acting",
+        "name": "D.A. Pauley",
+        "original_name": "D.A. Pauley",
+        "popularity": 1.4,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Fireman #1",
+        "credit_id": "52fe43719251416c75010911",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210503,
+        "known_for_department": "Acting",
+        "name": "Ezra Sutton",
+        "original_name": "Ezra Sutton",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Fireman #2",
+        "credit_id": "52fe43719251416c75010915",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172734,
+        "known_for_department": "Acting",
+        "name": "Don Yesso",
+        "original_name": "Don Yesso",
+        "popularity": 3.526,
+        "profile_path": "/m93AeciV1iGX5siORbhB94njyRn.jpg",
+        "cast_id": 29,
+        "character": "Bus Driver",
+        "credit_id": "52fe43719251416c75010919",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157015,
+        "known_for_department": "Acting",
+        "name": "Michael McGrady",
+        "original_name": "Michael McGrady",
+        "popularity": 5.736,
+        "profile_path": "/nLYC2BMns7lhF3zr5WDlI8a02Yd.jpg",
+        "cast_id": 44,
+        "character": "Cop",
+        "credit_id": "52fe43719251416c75010951",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 167379,
+        "known_for_department": "Acting",
+        "name": "Leigh Hamilton",
+        "original_name": "Leigh Hamilton",
+        "popularity": 0.661,
+        "profile_path": "/5KJ4VuVWIYdeMvbWz5uKw2cyzY3.jpg",
+        "cast_id": 30,
+        "character": "Cop's Girlfriend",
+        "credit_id": "52fe43719251416c7501091d",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 156960,
+        "known_for_department": "Acting",
+        "name": "Devon Reeves",
+        "original_name": "Devon Reeves",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Little Girl 'Neat Broom'",
+        "credit_id": "52fe43719251416c75010921",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 170211,
+        "known_for_department": "Acting",
+        "name": "Joseph Malone",
+        "original_name": "Joseph Malone",
+        "popularity": 1.013,
+        "profile_path": "/KZFM8xFnKgtQ2BHsDZEDOEaDao.jpg",
+        "cast_id": 32,
+        "character": "Singer",
+        "credit_id": "52fe43719251416c75010925",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210513,
+        "known_for_department": "Acting",
+        "name": "Jordan Redmond",
+        "original_name": "Jordan Redmond",
+        "popularity": 0.648,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Little Angel",
+        "credit_id": "52fe43719251416c75010929",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210514,
+        "known_for_department": "Acting",
+        "name": "Frank Del Boccio",
+        "original_name": "Frank Del Boccio",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Lobster Man",
+        "credit_id": "52fe43719251416c7501092d",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1210515,
+        "known_for_department": "Acting",
+        "name": "Jeff Neubauer",
+        "original_name": "Jeff Neubauer",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Boy in Class",
+        "credit_id": "52fe43719251416c75010931",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89569,
+        "known_for_department": "Acting",
+        "name": "Teda Bracci",
+        "original_name": "Teda Bracci",
+        "popularity": 3.281,
+        "profile_path": "/2AOpcEPK4z1MjiqBoUh4iDsTWF3.jpg",
+        "cast_id": 36,
+        "character": "Calamity Jane",
+        "credit_id": "52fe43719251416c75010935",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80672,
+        "known_for_department": "Directing",
+        "name": "Peggy Holmes",
+        "original_name": "Peggy Holmes",
+        "popularity": 1.189,
+        "profile_path": "/HK8r5NFRXTd5PAUM0qY92dBvj0.jpg",
+        "cast_id": 37,
+        "character": "Dancer",
+        "credit_id": "52fe43719251416c75010939",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61983,
+        "known_for_department": "Acting",
+        "name": "Jason Marsden",
+        "original_name": "Jason Marsden",
+        "popularity": 8.043,
+        "profile_path": "/53aVh2ka0b4ZyR8dO8hBTQxQ9hc.jpg",
+        "cast_id": 46,
+        "character": "Thackery Binx (voice)",
+        "credit_id": "5452fae2c3a368147300020d",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201,
+        "known_for_department": "Acting",
+        "name": "Garry Marshall",
+        "original_name": "Garry Marshall",
+        "popularity": 9.004,
+        "profile_path": "/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg",
+        "cast_id": 39,
+        "character": "Devil (Husband) (uncredited)",
+        "credit_id": "52fe43719251416c75010941",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14911,
+        "known_for_department": "Acting",
+        "name": "Penny Marshall",
+        "original_name": "Penny Marshall",
+        "popularity": 11.416,
+        "profile_path": "/tENryuxNtctDMS26Tv5d8B7TclQ.jpg",
+        "cast_id": 40,
+        "character": "The Master's Wife (uncredited)",
+        "credit_id": "52fe43719251416c75010945",
+        "order": 31
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4209,
+        "known_for_department": "Crew",
+        "name": "Karen Getz",
+        "original_name": "Karen Getz",
+        "popularity": 4.833,
+        "profile_path": "/sIjk2Rrn3TQaecJXxDwLlcQ2ikd.jpg",
+        "credit_id": "5c770ec20e0a265e75571946",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2033,
+        "known_for_department": "Editing",
+        "name": "Peter E. Berger",
+        "original_name": "Peter E. Berger",
+        "popularity": 3.224,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108d7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095,
+        "known_for_department": "Production",
+        "name": "Ralph Winter",
+        "original_name": "Ralph Winter",
+        "popularity": 2.602,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2116,
+        "known_for_department": "Camera",
+        "name": "Hiro Narita",
+        "original_name": "Hiro Narita",
+        "popularity": 0.6,
+        "profile_path": "/7dXVsUkGnZ0etvDJ1BCymtbLTm6.jpg",
+        "credit_id": "52fe43719251416c750108d1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4500,
+        "known_for_department": "Sound",
+        "name": "John Debney",
+        "original_name": "John Debney",
+        "popularity": 4.342,
+        "profile_path": "/iUwBpunUEdknzkRpgAyodwIEh4n.jpg",
+        "credit_id": "52fe43719251416c750108cb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2706,
+        "known_for_department": "Production",
+        "name": "Steven Haft",
+        "original_name": "Steven Haft",
+        "popularity": 3.227,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108b9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3457,
+        "known_for_department": "Crew",
+        "name": "Logan Frazee",
+        "original_name": "Logan Frazee",
+        "popularity": 0.706,
+        "profile_path": null,
+        "credit_id": "60f44cd7f288380045756c97",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6877,
+        "known_for_department": "Art",
+        "name": "William Sandell",
+        "original_name": "William Sandell",
+        "popularity": 3.605,
+        "profile_path": null,
+        "credit_id": "5dbb72d7d2c0c1001b1db190",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7903,
+        "known_for_department": "Production",
+        "name": "Mary Hidalgo",
+        "original_name": "Mary Hidalgo",
+        "popularity": 2.595,
+        "profile_path": null,
+        "credit_id": "60f451d8ad87f7002d040584",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8157,
+        "known_for_department": "Sound",
+        "name": "Doc Kane",
+        "original_name": "Doc Kane",
+        "popularity": 1.414,
+        "profile_path": null,
+        "credit_id": "60f4509cda9ef2002dd528e6",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8705,
+        "known_for_department": "Art",
+        "name": "Brad Ricker",
+        "original_name": "Brad Ricker",
+        "popularity": 1.934,
+        "profile_path": null,
+        "credit_id": "60f4528c62fcd30027ef3f5e",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9616,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary E. Vogt",
+        "original_name": "Mary E. Vogt",
+        "popularity": 2.884,
+        "profile_path": null,
+        "credit_id": "5dbb72ea0f2fbd001478b4ee",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13587,
+        "known_for_department": "Art",
+        "name": "Nancy Patton",
+        "original_name": "Nancy Patton",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108dd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13588,
+        "known_for_department": "Art",
+        "name": "Rosemary Brandenburg",
+        "original_name": "Rosemary Brandenburg",
+        "popularity": 4.684,
+        "profile_path": "/rrlIjwGSprN47jjXCVIhoIBjKXr.jpg",
+        "credit_id": "60f4489933a533005f743ad0",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13596,
+        "known_for_department": "Production",
+        "name": "David Kirschner",
+        "original_name": "David Kirschner",
+        "popularity": 6.88,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13596,
+        "known_for_department": "Production",
+        "name": "David Kirschner",
+        "original_name": "David Kirschner",
+        "popularity": 6.88,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c75010903",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15847,
+        "known_for_department": "Crew",
+        "name": "Terry D. Frazee",
+        "original_name": "Terry D. Frazee",
+        "popularity": 2.626,
+        "profile_path": null,
+        "credit_id": "60f44ca562fcd3007e3f4b58",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16573,
+        "known_for_department": "Sound",
+        "name": "Denise Horta",
+        "original_name": "Denise Horta",
+        "popularity": 1.052,
+        "profile_path": null,
+        "credit_id": "60f44eadb84cdd0045b0295c",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19679,
+        "known_for_department": "Production",
+        "name": "Mary Gail Artz",
+        "original_name": "Mary Gail Artz",
+        "popularity": 0.932,
+        "profile_path": null,
+        "credit_id": "5dbb72b5d2c0c100161e2328",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19680,
+        "known_for_department": "Production",
+        "name": "Barbara Cohen",
+        "original_name": "Barbara Cohen",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5dbb72be0792e100154abdaa",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23352,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Steve LaPorte",
+        "original_name": "Steve LaPorte",
+        "popularity": 0.828,
+        "profile_path": null,
+        "credit_id": "5dbb7329dbf144001352d6ea",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23620,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cheri Minns",
+        "original_name": "Cheri Minns",
+        "popularity": 2.455,
+        "profile_path": null,
+        "credit_id": "5dbb733dd2c0c1001b1db1f0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26985,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lee Harman",
+        "original_name": "Lee Harman",
+        "popularity": 1.67,
+        "profile_path": null,
+        "credit_id": "5dbb731d0f2fbd0011792355",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58358,
+        "known_for_department": "Directing",
+        "name": "Bettiann Fishman",
+        "original_name": "Bettiann Fishman",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4474b62fcd3007e3f4146",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38416,
+        "known_for_department": "Production",
+        "name": "Ellen H. Schwartz",
+        "original_name": "Ellen H. Schwartz",
+        "popularity": 3.681,
+        "profile_path": null,
+        "credit_id": "60f4472ef28838005edeb7c8",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41082,
+        "known_for_department": "Art",
+        "name": "Chris L. Spellman",
+        "original_name": "Chris L. Spellman",
+        "popularity": 3.639,
+        "profile_path": "/jLh3uuQ7ANPpzLdhoDvkYI3V5dt.jpg",
+        "credit_id": "60f448dbb84cdd002f5efb88",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58070,
+        "known_for_department": "Production",
+        "name": "Bonnie Bruckheimer",
+        "original_name": "Bonnie Bruckheimer",
+        "popularity": 0.783,
+        "profile_path": null,
+        "credit_id": "5dbb727edbf144001152ef22",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59648,
+        "known_for_department": "Writing",
+        "name": "Neil Cuthbert",
+        "original_name": "Neil Cuthbert",
+        "popularity": 1.108,
+        "profile_path": null,
+        "credit_id": "52fe43719251416c750108b3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61824,
+        "known_for_department": "Acting",
+        "name": "Mick Garris",
+        "original_name": "Mick Garris",
+        "popularity": 5.702,
+        "profile_path": "/mZUsXhL7H5DgaQL98qslFrgp1yl.jpg",
+        "credit_id": "52fe43719251416c750108ad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61824,
+        "known_for_department": "Acting",
+        "name": "Mick Garris",
+        "original_name": "Mick Garris",
+        "popularity": 5.702,
+        "profile_path": "/mZUsXhL7H5DgaQL98qslFrgp1yl.jpg",
+        "credit_id": "52fe43719251416c75010909",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61824,
+        "known_for_department": "Acting",
+        "name": "Mick Garris",
+        "original_name": "Mick Garris",
+        "popularity": 5.702,
+        "profile_path": "/mZUsXhL7H5DgaQL98qslFrgp1yl.jpg",
+        "credit_id": "5dbb728954f6eb00154d9801",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61838,
+        "known_for_department": "Crew",
+        "name": "Glenn R. Wilder",
+        "original_name": "Glenn R. Wilder",
+        "popularity": 3.452,
+        "profile_path": "/8YSkfLv8gvqxZxH87cG9NXoIMjr.jpg",
+        "credit_id": "5c770b749251416f381909c8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 63659,
+        "known_for_department": "Editing",
+        "name": "John Coniglio",
+        "original_name": "John Coniglio",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f456b5af58cb002f38e6ca",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65310,
+        "known_for_department": "Directing",
+        "name": "Kenny Ortega",
+        "original_name": "Kenny Ortega",
+        "popularity": 7.685,
+        "profile_path": "/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg",
+        "credit_id": "52fe43719251416c750108a7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68171,
+        "known_for_department": "Editing",
+        "name": "Jonathan Cates",
+        "original_name": "Jonathan Cates",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4572e4c2592002d250a26",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92301,
+        "known_for_department": "Production",
+        "name": "Kathleen M. Courtney",
+        "original_name": "Kathleen M. Courtney",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4514c635e7800468261a1",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92334,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alicia M. Tripi",
+        "original_name": "Alicia M. Tripi",
+        "popularity": 0.833,
+        "profile_path": "/s7Se89ZvQVhbRMBr93Q0SP8UCwY.jpg",
+        "credit_id": "5dbb7360dbf144001352d74c",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74975,
+        "known_for_department": "Sound",
+        "name": "David J. Hudson",
+        "original_name": "David J. Hudson",
+        "popularity": 3.965,
+        "profile_path": null,
+        "credit_id": "60f4508033a533002d187f6f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74976,
+        "known_for_department": "Sound",
+        "name": "Mel Metcalfe",
+        "original_name": "Mel Metcalfe",
+        "popularity": 9.26,
+        "profile_path": null,
+        "credit_id": "60f45071635e78002970ae68",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74978,
+        "known_for_department": "Sound",
+        "name": "Terry Porter",
+        "original_name": "Terry Porter",
+        "popularity": 2.397,
+        "profile_path": null,
+        "credit_id": "60f4506033a533002d187f28",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75242,
+        "known_for_department": "Sound",
+        "name": "C. Darin Knight",
+        "original_name": "C. Darin Knight",
+        "popularity": 0.772,
+        "profile_path": null,
+        "credit_id": "60f44a3d5545ca0044ba3c66",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106853,
+        "known_for_department": "Art",
+        "name": "David Oliver Pfeil",
+        "original_name": "David Oliver Pfeil",
+        "popularity": 3.181,
+        "profile_path": "/cNddsBXpxBN9ji9lxs84TGU57qT.jpg",
+        "credit_id": "60f45533ad87f70073a722b9",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 934066,
+        "known_for_department": "Lighting",
+        "name": "Raman Rao",
+        "original_name": "Raman Rao",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44bb3da9ef20046924957",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 999705,
+        "known_for_department": "Crew",
+        "name": "Laura Dash",
+        "original_name": "Laura Dash",
+        "popularity": 0.628,
+        "profile_path": "/mY50F1LX9ywREHaPHLmwF9WEGTD.jpg",
+        "credit_id": "5c770d78c3a36842ba9000cf",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1004624,
+        "known_for_department": "Art",
+        "name": "Russell Bobbitt",
+        "original_name": "Russell Bobbitt",
+        "popularity": 4.407,
+        "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg",
+        "credit_id": "60f44c7ff90b19004561ab0d",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1319490,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kevin Haney",
+        "original_name": "Kevin Haney",
+        "popularity": 1.643,
+        "profile_path": null,
+        "credit_id": "5dbb731454f6eb00184d649c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1322087,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John M. Elliott Jr.",
+        "original_name": "John M. Elliott Jr.",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5dbb73070f2fbd001478b52e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1323768,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pamela Wise",
+        "original_name": "Pamela Wise",
+        "popularity": 0.652,
+        "profile_path": null,
+        "credit_id": "60f4495eb865eb002e6c0cf7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338671,
+        "known_for_department": "Art",
+        "name": "Cal DiValerio",
+        "original_name": "Cal DiValerio",
+        "popularity": 0.652,
+        "profile_path": null,
+        "credit_id": "60f452f7b84cdd007ebcf095",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1344278,
+        "known_for_department": "Directing",
+        "name": "Pamela Alch",
+        "original_name": "Pamela Alch",
+        "popularity": 1.156,
+        "profile_path": null,
+        "credit_id": "60f44a10635e78007cc1c51e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1358074,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hazel Catmull",
+        "original_name": "Hazel Catmull",
+        "popularity": 1.073,
+        "profile_path": null,
+        "credit_id": "5dbb72fe0792e1001849dc75",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370957,
+        "known_for_department": "Crew",
+        "name": "Bob Hendrix",
+        "original_name": "Bob Hendrix",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f453dfda9ef20046925a3d",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378168,
+        "known_for_department": "Sound",
+        "name": "George Watters II",
+        "original_name": "George Watters II",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "60f44db062fcd30027ef34ea",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386920,
+        "known_for_department": "Camera",
+        "name": "Andrew Cooper",
+        "original_name": "Andrew Cooper",
+        "popularity": 0.62,
+        "profile_path": null,
+        "credit_id": "60f453ba33a5330046e5ab35",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1391391,
+        "known_for_department": "Camera",
+        "name": "Kristin R. Glover",
+        "original_name": "Kristin R. Glover",
+        "popularity": 0.847,
+        "profile_path": null,
+        "credit_id": "60f4577862fcd3007e3f61e2",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391567,
+        "known_for_department": "Sound",
+        "name": "John P. Fasal",
+        "original_name": "John P. Fasal",
+        "popularity": 0.652,
+        "profile_path": null,
+        "credit_id": "60f450364c2592007e7293b3",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1392896,
+        "known_for_department": "Art",
+        "name": "Martha Johnston",
+        "original_name": "Martha Johnston",
+        "popularity": 1.117,
+        "profile_path": null,
+        "credit_id": "60f452605545ca002f719432",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1393558,
+        "known_for_department": "Art",
+        "name": "Ray Fisher",
+        "original_name": "Ray Fisher",
+        "popularity": 1.092,
+        "profile_path": null,
+        "credit_id": "5eb8607ebbe1dd002281eefe",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397846,
+        "known_for_department": "Visual Effects",
+        "name": "Craig Barron",
+        "original_name": "Craig Barron",
+        "popularity": 1.388,
+        "profile_path": "/Aami37fpHXKCTxReopbTLohgsY1.jpg",
+        "credit_id": "60f45593635e78002970b970",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405717,
+        "known_for_department": "Sound",
+        "name": "Howell Gibbens",
+        "original_name": "Howell Gibbens",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44e1ee72fe8007490855d",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1406792,
+        "known_for_department": "Crew",
+        "name": "Deborah Wuliger",
+        "original_name": "Deborah Wuliger",
+        "popularity": 0.732,
+        "profile_path": null,
+        "credit_id": "60f453a7da9ef2005ec3e7d7",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408305,
+        "known_for_department": "Sound",
+        "name": "Suhail Kafity",
+        "original_name": "Suhail Kafity",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44e4f62fcd3005ce82b3b",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1410573,
+        "known_for_department": "Visual Effects",
+        "name": "Denise Davis",
+        "original_name": "Denise Davis",
+        "popularity": 0.656,
+        "profile_path": null,
+        "credit_id": "60f44aeada9ef200748385d9",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1413196,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Bercsi",
+        "original_name": "Patricia Bercsi",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f449b14c2592007e7283dd",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1424049,
+        "known_for_department": "Sound",
+        "name": "Nancy Fogarty",
+        "original_name": "Nancy Fogarty",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44d76f90b19004561ac8e",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1429549,
+        "known_for_department": "Editing",
+        "name": "Dale E. Grahn",
+        "original_name": "Dale E. Grahn",
+        "popularity": 3.318,
+        "profile_path": null,
+        "credit_id": "60f4555fad87f7002d040df2",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1430211,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carol Meikle",
+        "original_name": "Carol Meikle",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5dbb7332d2c0c100181c9763",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430234,
+        "known_for_department": "Visual Effects",
+        "name": "Juliette Yager",
+        "original_name": "Juliette Yager",
+        "popularity": 0.756,
+        "profile_path": null,
+        "credit_id": "60f44b1062fcd3007e3f4843",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430236,
+        "known_for_department": "Visual Effects",
+        "name": "Carolyn Soper",
+        "original_name": "Carolyn Soper",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44a7cad87f7002d03f642",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1440289,
+        "known_for_department": "Production",
+        "name": "Deborah Laub",
+        "original_name": "Deborah Laub",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4520462fcd30044b2d49c",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453693,
+        "known_for_department": "Production",
+        "name": "Whitney Green",
+        "original_name": "Whitney Green",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f446e25545ca005c188159",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455411,
+        "known_for_department": "Crew",
+        "name": "Louis R. Cooper",
+        "original_name": "Louis R. Cooper",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "60f44d3e5545ca0044ba42ad",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504123,
+        "known_for_department": "Acting",
+        "name": "Eddy Donno",
+        "original_name": "Eddy Donno",
+        "popularity": 0.723,
+        "profile_path": "/rv7ALEG5UVL3lKcmtzyWZT0j57j.jpg",
+        "credit_id": "5c770e840e0a265e6f570fba",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530322,
+        "known_for_department": "Sound",
+        "name": "Matthew Harrison",
+        "original_name": "Matthew Harrison",
+        "popularity": 2.149,
+        "profile_path": null,
+        "credit_id": "60f44f28f90b19005dd0062c",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536550,
+        "known_for_department": "Sound",
+        "name": "R.J. Palmer",
+        "original_name": "R.J. Palmer",
+        "popularity": 0.652,
+        "profile_path": null,
+        "credit_id": "60f44e6cb84cdd002f5f06d8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536880,
+        "known_for_department": "Sound",
+        "name": "F. Hudson Miller",
+        "original_name": "F. Hudson Miller",
+        "popularity": 2.744,
+        "profile_path": null,
+        "credit_id": "60f44e5d635e78007cc1ccdf",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541688,
+        "known_for_department": "Crew",
+        "name": "Christian J. Fletcher",
+        "original_name": "Christian J. Fletcher",
+        "popularity": 0.6,
+        "profile_path": "/mzhuznfQ2YZsvFk8W6yqlRlsMc6.jpg",
+        "credit_id": "5c770b9c9251416f3b190dc4",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1550830,
+        "known_for_department": "Crew",
+        "name": "Donald Frazee",
+        "original_name": "Donald Frazee",
+        "popularity": 0.706,
+        "profile_path": null,
+        "credit_id": "60f44cf1635e78005ded8398",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1604463,
+        "known_for_department": "Sound",
+        "name": "John Richards",
+        "original_name": "John Richards",
+        "popularity": 2.304,
+        "profile_path": null,
+        "credit_id": "60f454dfc439c00029e48ed5",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1652438,
+        "known_for_department": "Art",
+        "name": "James P. Meehan",
+        "original_name": "James P. Meehan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4491c4c2592002d24ed00",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656419,
+        "known_for_department": "Camera",
+        "name": "Jeff Case",
+        "original_name": "Jeff Case",
+        "popularity": 0.695,
+        "profile_path": null,
+        "credit_id": "60f44c2cb865eb0060b08eb4",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1693550,
+        "known_for_department": "Sound",
+        "name": "Charles J. Bond",
+        "original_name": "Charles J. Bond",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44a574c2592005e64455f",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763133,
+        "known_for_department": "Sound",
+        "name": "Jim Likowski",
+        "original_name": "Jim Likowski",
+        "popularity": 0.972,
+        "profile_path": null,
+        "credit_id": "60f44f405545ca005c18912d",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1771299,
+        "known_for_department": "Sound",
+        "name": "Maggie Ostroff",
+        "original_name": "Maggie Ostroff",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44f617b7b4d0020e9a860",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824569,
+        "known_for_department": "Camera",
+        "name": "Ben Beaird",
+        "original_name": "Ben Beaird",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44bf4b84cdd007ebcdfcd",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877413,
+        "known_for_department": "Sound",
+        "name": "David Gertz",
+        "original_name": "David Gertz",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f450ab635e78005ded8c46",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1885520,
+        "known_for_department": "Camera",
+        "name": "Gregory Romero",
+        "original_name": "Gregory Romero",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44c417b7b4d0020e9a164",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1897493,
+        "known_for_department": "Editing",
+        "name": "John Haggar",
+        "original_name": "John Haggar",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f45707da9ef2004692613a",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899435,
+        "known_for_department": "Editing",
+        "name": "Theresa Repola Mohammed",
+        "original_name": "Theresa Repola Mohammed",
+        "popularity": 1.081,
+        "profile_path": null,
+        "credit_id": "60f4554862fcd30044b2dc1f",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1905120,
+        "known_for_department": "Sound",
+        "name": "Denise Whiting",
+        "original_name": "Denise Whiting",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44ea2b84cdd007ebce5f6",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931698,
+        "known_for_department": "Sound",
+        "name": "Marva Fucci",
+        "original_name": "Marva Fucci",
+        "popularity": 0.833,
+        "profile_path": null,
+        "credit_id": "60f44f535545ca002f718da7",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936767,
+        "known_for_department": "Crew",
+        "name": "Michael Peavey",
+        "original_name": "Michael Peavey",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f454885545ca002f71998b",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1973515,
+        "known_for_department": "Crew",
+        "name": "Annie Ellis",
+        "original_name": "Annie Ellis",
+        "popularity": 3.126,
+        "profile_path": "/xCh9L6dOj9U2ydQybaVtDEN3WH.jpg",
+        "credit_id": "5c770eae0e0a265e6f570fff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037694,
+        "known_for_department": "Visual Effects",
+        "name": "Michael Lessa",
+        "original_name": "Michael Lessa",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44ab8f90b1900746a9991",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2071370,
+        "known_for_department": "Crew",
+        "name": "Donald T. Black",
+        "original_name": "Donald T. Black",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44d0c33a533007540f613",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2141829,
+        "known_for_department": "Lighting",
+        "name": "Michael Everett",
+        "original_name": "Michael Everett",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f44bcdb865eb0060b08e1f",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256127,
+        "known_for_department": "Crew",
+        "name": "Peter R. Chittell",
+        "original_name": "Peter R. Chittell",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "60f45433f2883800777d4bde",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2314103,
+        "known_for_department": "Production",
+        "name": "Jeanie Daniels",
+        "original_name": "Jeanie Daniels",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f4538cf90b19002d18f8ba",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2445743,
+        "known_for_department": "Production",
+        "name": "Jay Heit",
+        "original_name": "Jay Heit",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5dbb729c0f2fbd001478b4a2",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2445744,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Richard Sarre",
+        "original_name": "Richard Sarre",
+        "popularity": 0.648,
+        "profile_path": null,
+        "credit_id": "5dbb735454f6eb00184d6543",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3137443,
+        "known_for_department": "Crew",
+        "name": "Michael Pangrazio",
+        "original_name": "Michael Pangrazio",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "60f455acb84cdd002f5f162f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0107120",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
