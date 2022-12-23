@@ -97,6 +97,7 @@ function getId(metadata) {
 function slugify(n) {
     return n
         .replace(/'/g, "")
+        .replace(/( ?)&( ?)/g, "$1and$2")
         .replace(/\W+/g, "_")
         .split("_")
         .filter(x => x)
