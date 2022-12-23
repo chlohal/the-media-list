@@ -83,7 +83,7 @@ ${triggers
 
     fs.writeFileSync(`${dataFolder}/tmdb.json`, JSON.stringify(metadata, null, 2));
     fs.writeFileSync(`${dataFolder}/d4.json`, JSON.stringify(triggers, null, 2));
-    
+    fs.writeFileSync(`${dataFolder}/meta.json`, JSON.stringify({ addedOn: new Date().toISOString() }, null, 2));
 })();
 
 function getId(metadata) {
