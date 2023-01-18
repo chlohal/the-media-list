@@ -1,0 +1,40 @@
+header {
+    max-width: 100%;
+    width: 120ch;
+    margin: 0 auto;
+    padding: 1em 0;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+header #searcher {
+    box-shadow: 0 0 1em 0 #403d4e;
+    background: #48445c;
+    padding: 1rem;
+    font-size: 1.125em;
+    font-family: 'Fira Code', 'Courier New', Courier, monospace;
+}
+
+header .searcher-icon {
+    position: absolute;
+    top: 1.75em;
+    height: 2em;
+    right: 1em;
+    pointer-events: none;
+}
+
+header .searcher-icon path {
+    fill: #efe;
+}
+
+.search-data {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0;
+}
+
+.search-data dd {
+    margin-left: 2em;
+    margin-right: 1ch;
+}

@@ -1,3 +1,15 @@
 token_tmdb
 token_gh
 token_d4
+# Local Netlify folder
+.netlify
+.vscode
+
+# public stuff that gets compiled from data
+public/api
+public/images
+public/media
+
+# local notes
+need.tsv
+need_interesrt/

@@ -1,0 +1,5 @@
+/media/:media /media 200
+
+/media/:media/watch-session/:session-id /watch-session 200
+
+/images/:image https://image.tmdb.org/t/p/w500/:image 200

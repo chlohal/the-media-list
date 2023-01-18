@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #403d4e;
+    color: #efe;
+    overflow-x: hidden;
+    font-family: 'Fira Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    max-width: 100%;
+    width: 120ch;
+    margin: 0 auto;
+    padding: 0 1em;
+}

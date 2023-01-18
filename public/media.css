@@ -1,0 +1,241 @@
+main {
+    display: grid;
+    grid-template-rows: min-content min-content min-content min-content;
+    gap: 1em;
+    padding: 1em;
+}
+
+main * {
+    grid-column: 1;
+}
+
+main > img {
+    width: 20em;
+    height: 30em;
+    grid-column: 1;
+    margin: 0 auto;
+}
+
+main h1 {
+    grid-column: 2;
+    margin: 0;
+    color: #eee;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.05ch;
+    
+    display: flex;
+    align-items: center;
+    gap: 0.5ch;
+}
+
+.top-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin: 0;
+}
+
+.top-info dt:first-child + dd::before {
+    content: "";
+    display: none;
+}
+
+.top-info dd::before {
+    content: "\2022";
+    display: inline-block;
+    margin-right: 0.5em;
+}
+
+.top-info dt {
+    display: none;
+}
+
+.info-segment {
+    margin: 0;
+}
+
+.watch-providers {
+    background: #393744;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    position: relative;
+}
+
+.watch-providers h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.05ch;
+    font-size: 1em;
+    margin: 0;
+}
+
+.watch-providers ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.watch-providers li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;
+    width: min-content;
+    text-align: center;
+}
+
+.watch-providers .empty {
+    width: 100%;
+}
+
+.empty {
+    text-align: center;
+    padding: 1.5em;
+    font-size: 0.95em;
+    font-weight: bold;
+    color: #bdbace;
+    letter-spacing: 0.05ch;
+}
+
+.watch-providers img {
+    width: 3em;
+    height: 3em;
+    border-radius: 100%;
+}
+
+.metadata {
+    display: flex;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.metadata div {
+    padding: 0.5em;
+}
+
+.metadata dt {
+    font-weight: bold;
+    letter-spacing: 0.05ch;
+    text-transform: uppercase;
+    font-size: 0.8em;
+}
+
+.metadata dd {
+    margin: 0;
+}
+
+.watch-sessions--parent { 
+    overflow: hidden;
+    position: relative;
+    height: 13em;
+}
+
+.watch-sessions {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.watch-sessions ol {
+    flex-grow: 1;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+}
+
+.watch-sessions li {
+    height: 8rem;
+    width: 10rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background: #393744;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.watch-sessions > button:only-child {
+    height: 5em;
+}
+
+.watch-sessions > button {
+    cursor: pointer;
+    height: 2em;
+    margin: 0 0 0.5em  0;
+    margin-bottom: 0.5em;
+    background-color: #1b1442;
+    border-radius: 0.25em;
+    border: 0;
+    border-radius: 1;
+    color: inherit;
+    text-transform: uppercase;
+    font-size: 1.25em;
+    letter-spacing: 0.1ch;
+}
+
+.watch-sessions li h3 {
+    margin: 0;
+    text-align: center;
+    line-height: 0.8;
+}
+
+.watch-sessions .viewed {
+    font-size: 0.75em;
+    text-transform: uppercase;
+    letter-spacing: -0.075ch;
+    text-align: center;
+    display: block;
+}
+
+.watch-sessions .empty {
+    background: #3c3a4999;
+    border-radius: 1em;
+    height: 8rem;
+}
+
+.watch-sessions .edit-watch {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2em;
+    background: #dfb0e099;
+    text-align: center;
+    padding: 0.125em;
+    border: 0;
+    border-radius: 1em 1em 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.watch-sessions .edit-watch svg {
+    height: 1.5em;
+    fill: #1b1442;
+}
+
+@media screen and (min-width: 42em) {
+    main {
+        grid-template-columns: max-content 1fr;
+    }
+    main * {
+        grid-column: 2;
+    }
+    main img {
+        grid-column: 1;
+        grid-row: 1 / 12;
+    }
+    .watch-providers {
+        grid-row: 10;
+    }
+}

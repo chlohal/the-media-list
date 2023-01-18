@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/list.css">
+    <link rel="stylesheet" href="/search.css">
+    <script src="/autocomplete.js" defer></script>
+    <script src="/infinite-scroll.js" defer></script>
+    <script src="/search.js" defer></script>
+    
+    <meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+    <header role="search">
+        <div aria-label="Search Input" tabindex="0" contenteditable="" id="searcher"></div>
+        <
+        
+        <svg class="searcher-icon" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="m15.97 17.031c-1.479 1.238-3.384 1.985-5.461 1.985-4.697 0-8.509-3.812-8.509-8.508s3.812-8.508 8.509-8.508c4.695 0 8.508 3.812 8.508 8.508 0 2.078-.747 3.984-1.985 5.461l4.749 4.75c.146.146.219.338.219.531 0 .587-.537.75-.75.75-.192 0-.384-.073-.531-.22zm-5.461-13.53c-3.868 0-7.007 3.14-7.007 7.007s3.139 7.007 7.007 7.007c3.866 0 7.007-3.14 7.007-7.007s-3.141-7.007-7.007-7.007z"
+                fill-rule="nonzero" />
+        </svg>
+        
+        <dl class="search-data">
+            <dt>Unwatched</dt>
+            <dd id="unwatched-counter">--</dd>
+            <dt>Items</dt>
+            <dd id="item-counter">--</dd>
+        </dl>
+    </header>
+    <main id="main">
+        <ul>
+            
+        </ul>
+        
+        <div style="height: 10em;border-bottom: 1px solid black;position: fixed;top: -10em;" id="height-detect" aria-hidden="true"></div>
+        <script>document.querySelector("main ul").style.height = localStorage.getItem("ELEM_TOTAL_COUNT") * 10 + "em"</script>
+    </main>
+</body>
+
+</html>
