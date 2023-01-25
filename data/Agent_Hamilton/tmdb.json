@@ -1,0 +1,542 @@
+{
+  "adult": false,
+  "backdrop_path": "/xSvbUVbN2wdhpmzjijYXBjETqQo.jpg",
+  "created_by": [
+    {
+      "id": 68568,
+      "credit_id": "625e86c42d372115b103d5bf",
+      "name": "Jan Guillou",
+      "gender": 2,
+      "profile_path": "/5PwCmKu8jF6m6OecokpYAERXxzV.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2020-01-01",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.cmore.se/serie/161300-hamilton",
+  "id": 97079,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2022-05-09",
+  "last_episode_to_air": {
+    "air_date": "2022-05-09",
+    "episode_number": 8,
+    "id": 3678358,
+    "name": "The Reckoning, part 2",
+    "overview": "Hamilton meets a woman who turns out to belong to a group of militant environmentalists. When Hamilton realizes the activists are telling the truth, he breaks with OP5 and joins the group.",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 2,
+    "show_id": 97079,
+    "still_path": "/t24wNwHFlTemhY5G7FqdzHKtE1a.jpg",
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  "name": "Agent Hamilton",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 352,
+      "name": "TV4",
+      "logo_path": "/9zmhGgy7jANwrQduB16IubC10KM.png",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Hamilton",
+  "overview": "Carl Hamilton has just returned to Sweden after many years of secret education in the US when Stockholm is shaken by a series of terrorist attacks. Hamilton is assigned to assist the Swedish intelligence service in their pursuit of the guilty, but at the same time works as a double agent.",
+  "popularity": 12.817,
+  "poster_path": "/A8wKCnzR2lksFuO6XyJZUUYddRP.jpg",
+  "production_companies": [
+    {
+      "id": 142125,
+      "logo_path": "/kCBgoo2LFsiQ8oVfm8qdoy6HidO.png",
+      "name": "Dramacorp",
+      "origin_country": "SE"
+    },
+    {
+      "id": 147232,
+      "logo_path": null,
+      "name": "Kärnfilm",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 9,
+      "id": 139539,
+      "name": "Season 1",
+      "overview": "Carl Hamilton has just returned home from CIA training when two explosions rock Stockholm during a May Day speech. Säpo police officer Kristin Ek is at the scene and makes eye contact with a man leaving the area.",
+      "poster_path": "/A8wKCnzR2lksFuO6XyJZUUYddRP.jpg",
+      "season_number": 1
+    },
+    {
+      "air_date": "2022-04-18",
+      "episode_count": 8,
+      "id": 288073,
+      "name": "Season 2",
+      "overview": "Hamilton faces several action-packed missions with ramifications in countries such as France, Belgium and Poland.",
+      "poster_path": "/n9tU3449LdrTskQK6PKwNzc8Pjd.jpg",
+      "season_number": 2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 24,
+  "watch_providers": {
+    "AT": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=AT",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/dKH9TB94EIbnaWnjO6vX0snaNVP.jpg",
+          "provider_id": 537,
+          "provider_name": "ZDF",
+          "display_priority": 34
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=CA",
+      "flatrate": [
+        {
+          "logo_path": "/vuS4VlY50SJVHbCU3vGxQehcsAg.jpg",
+          "provider_id": 427,
+          "provider_name": "Mhz Choice",
+          "display_priority": 45
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=CH",
+      "free": [
+        {
+          "logo_path": "/dKH9TB94EIbnaWnjO6vX0snaNVP.jpg",
+          "provider_id": 537,
+          "provider_name": "ZDF",
+          "display_priority": 31
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=DE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/dKH9TB94EIbnaWnjO6vX0snaNVP.jpg",
+          "provider_id": 537,
+          "provider_name": "ZDF",
+          "display_priority": 62
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=DK",
+      "flatrate": [
+        {
+          "logo_path": "/pCIkSBek0aZfPQzOn9gfazuYaLV.jpg",
+          "provider_id": 77,
+          "provider_name": "C More",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=EE",
+      "flatrate": [
+        {
+          "logo_path": "/jgD3gxzW39UhJ7wZsxst75bN8Ck.jpg",
+          "provider_id": 373,
+          "provider_name": "Go3",
+          "display_priority": 9
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=FI",
+      "buy": [
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/pCIkSBek0aZfPQzOn9gfazuYaLV.jpg",
+          "provider_id": 77,
+          "provider_name": "C More",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 34
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=FR",
+      "flatrate": [
+        {
+          "logo_path": "/3boZfmOm36QssW1VllChtZL6P50.jpg",
+          "provider_id": 1731,
+          "provider_name": "Salto Amazon Channel",
+          "display_priority": 59
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=LT",
+      "flatrate": [
+        {
+          "logo_path": "/jgD3gxzW39UhJ7wZsxst75bN8Ck.jpg",
+          "provider_id": 373,
+          "provider_name": "Go3",
+          "display_priority": 9
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=LV",
+      "flatrate": [
+        {
+          "logo_path": "/jgD3gxzW39UhJ7wZsxst75bN8Ck.jpg",
+          "provider_id": 373,
+          "provider_name": "Go3",
+          "display_priority": 9
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=NL",
+      "flatrate": [
+        {
+          "logo_path": "/m8wib2YFVWHaY0SvnExvXZFusz9.jpg",
+          "provider_id": 472,
+          "provider_name": "NLZIET",
+          "display_priority": 24
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/73igBrpTdAhEGwuYxhmnhTK5Srs.jpg",
+          "provider_id": 360,
+          "provider_name": "NPO Start",
+          "display_priority": 19
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=NO",
+      "flatrate": [
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "SumoTV",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 32
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=RU",
+      "flatrate": [
+        {
+          "logo_path": "/w1T8s7FqakcfucR8cgOvbe6UeXN.jpg",
+          "provider_id": 115,
+          "provider_name": "Okko",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/w1T8s7FqakcfucR8cgOvbe6UeXN.jpg",
+          "provider_id": 115,
+          "provider_name": "Okko",
+          "display_priority": 0
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=SE",
+      "buy": [
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/pCIkSBek0aZfPQzOn9gfazuYaLV.jpg",
+          "provider_id": 77,
+          "provider_name": "C More",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/vuAxCPW4tlZ7Dg9EshAdPoHZFBo.jpg",
+          "provider_id": 497,
+          "provider_name": "Tele2 Play",
+          "display_priority": 24
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=US",
+      "flatrate": [
+        {
+          "logo_path": "/72tiOIjZQPqm7MGhqoqyjyTJzSv.jpg",
+          "provider_id": 291,
+          "provider_name": "MZ Choice Amazon Channel",
+          "display_priority": 98
+        },
+        {
+          "logo_path": "/vuS4VlY50SJVHbCU3vGxQehcsAg.jpg",
+          "provider_id": 427,
+          "provider_name": "Mhz Choice",
+          "display_priority": 113
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/tv/97079-hamilton/watch?locale=ZA",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 28
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "name": "secret agent",
+      "id": 4289
+    },
+    {
+      "name": "double agent",
+      "id": 3637
+    },
+    {
+      "name": "thriller",
+      "id": 9950
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76555,
+        "known_for_department": "Acting",
+        "name": "Jakob Oftebro",
+        "original_name": "Jakob Oftebro",
+        "popularity": 11.459,
+        "profile_path": "/qwCdGExEyucOFLFTkYSrhpGfJ0N.jpg",
+        "character": "Hamilton",
+        "credit_id": "5e0e5bc4fd4f8000135f38ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93139,
+        "known_for_department": "Acting",
+        "name": "Nina Zanjani",
+        "original_name": "Nina Zanjani",
+        "popularity": 6.392,
+        "profile_path": "/cebUpPxjJNyACMOxdDK2BYqpbpO.jpg",
+        "character": "Kristin Ek",
+        "credit_id": "5e2747782dda890012563fd4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1150856,
+        "known_for_department": "Acting",
+        "name": "Jörgen Thorsson",
+        "original_name": "Jörgen Thorsson",
+        "popularity": 2.979,
+        "profile_path": "/lUBOL0RM4Q9Ree8mTc9HuDj1VwY.jpg",
+        "character": "Birger Hagman",
+        "credit_id": "5e27480b2dda89001456423c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79270,
+        "known_for_department": "Acting",
+        "name": "Annika Hallin",
+        "original_name": "Annika Hallin",
+        "popularity": 5.158,
+        "profile_path": "/w0xkKmLS2AeXKB6HqrUqeq5LzRC.jpg",
+        "character": "Astrid Bofors",
+        "credit_id": "627cfd2020e6a513bbe71ca5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1036879,
+        "known_for_department": "Acting",
+        "name": "Felice Jankell",
+        "original_name": "Felice Jankell",
+        "popularity": 9.542,
+        "profile_path": "/7DbXVbGlWcYESPBtAHwwRvMLwzf.jpg",
+        "character": "Lykke Öjestad",
+        "credit_id": "6341b556706e5600823dc7e3",
+        "order": 15
+      }
+    ],
+    "crew": []
+  },
+  "external_ids": {
+    "imdb_id": "tt5534588",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 370960,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "tv"
+}
