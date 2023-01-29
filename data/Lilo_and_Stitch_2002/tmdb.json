@@ -1,0 +1,3618 @@
+{
+  "adult": false,
+  "backdrop_path": "/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+  "belongs_to_collection": {
+    "id": 97461,
+    "name": "Lilo & Stitch Collection",
+    "poster_path": "/bstyyXaLinnYwoyvo5HaDceJN07.jpg",
+    "backdrop_path": "/oKfkaJLqc1cRURbq8DG2D6TOeAX.jpg"
+  },
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://movies.disney.com/lilo-stitch",
+  "id": 11544,
+  "imdb_id": "tt0275847",
+  "original_language": "en",
+  "original_title": "Lilo & Stitch",
+  "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.",
+  "popularity": 70.577,
+  "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "logo_path": null,
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-06-21",
+  "revenue": 273144151,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's one in every family.",
+  "title": "Lilo & Stitch",
+  "video": false,
+  "vote_average": 7.501,
+  "vote_count": 5335,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AL",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 24
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 44
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 24
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=AU",
+      "rent": [
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=BA",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=BE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=BG",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 18
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=BO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=BR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 58
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 58
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CH",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 40
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/rVOOhp6V8FheEAKtFAJMLMbnaMZ.jpg",
+          "provider_id": 150,
+          "provider_name": "blue TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/rVOOhp6V8FheEAKtFAJMLMbnaMZ.jpg",
+          "provider_id": 150,
+          "provider_name": "blue TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CL",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CO",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=CZ",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=DE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 33
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 33
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=DK",
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=DO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=EC",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=EE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=EG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=ES",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 35
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/gZTgebCNny3MHvUxFde7gueVgT1.jpg",
+          "provider_id": 149,
+          "provider_name": "Movistar Plus",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 35
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=FI",
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=FR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 46
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 46
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=GB",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 29
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 29
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=GR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 20
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=GT",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=HK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 37
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=HN",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=HR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 38
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=HU",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 3
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=IE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=IN",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 2
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=IS",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=IT",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/fIgu78384gG1lsxpevWZ5DcUXta.jpg",
+          "provider_id": 359,
+          "provider_name": "Mediaset Infinity",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=JP",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/v8vA6WnPVTOE1o39waNFVmAqEJj.jpg",
+          "provider_id": 390,
+          "provider_name": "Disney Plus",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=KR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        }
+      ]
+    },
+    "LI": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=LI",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=LT",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 25
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=LV",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 24
+        }
+      ]
+    },
+    "MD": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=MD",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=MK",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=MT",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=MX",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=MY",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=NL",
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 39
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 34
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=NO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=NZ",
+      "rent": [
+        {
+          "logo_path": "/6HtR4lwikdriuJi86cZa3nXjB3d.jpg",
+          "provider_id": 24,
+          "provider_name": "Quickflix Store",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 3
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=PE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=PH",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 31
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=PL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=PT",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 8
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 8
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=PY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 19
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=RS",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=RU",
+      "buy": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 24
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SE",
+      "buy": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SG",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SI",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 7
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SK",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 40
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 30
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=SV",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=TH",
+      "flatrate": [
+        {
+          "logo_path": "/7Fl8ylPDclt3ZYgNbW2t7rbZE9I.jpg",
+          "provider_id": 122,
+          "provider_name": "Hotstar",
+          "display_priority": 0
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=TR",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 22
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 6
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=TW",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ]
+    },
+    "UG": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=UG",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=US",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 2
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 36
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 47
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 36
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 47
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 48
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 51
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 130
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 164
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=UY",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 33
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=VE",
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/11544-lilo-stitch/watch?locale=ZA",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple iTunes",
+          "display_priority": 2
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg",
+          "provider_id": 337,
+          "provider_name": "Disney Plus",
+          "display_priority": 28
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 1603,
+      "name": "extraterrestrial technology"
+    },
+    {
+      "id": 1668,
+      "name": "hawaii"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 2766,
+      "name": "mutation"
+    },
+    {
+      "id": 4862,
+      "name": "alien life-form"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 168490,
+      "name": "dead parents"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1580,
+        "known_for_department": "Acting",
+        "name": "Daveigh Chase",
+        "original_name": "Daveigh Chase",
+        "popularity": 11.998,
+        "profile_path": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
+        "cast_id": 8,
+        "character": "Lilo (voice)",
+        "credit_id": "52fe44569251416c750312e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Acting",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 10.768,
+        "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
+        "cast_id": 9,
+        "character": "Stitch (voice)",
+        "credit_id": "52fe44569251416c750312e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13445,
+        "known_for_department": "Acting",
+        "name": "Tia Carrere",
+        "original_name": "Tia Carrere",
+        "popularity": 26.444,
+        "profile_path": "/rnHioNQkSmBAMgEBseu9bu6vw9l.jpg",
+        "cast_id": 10,
+        "character": "Nani (voice)",
+        "credit_id": "52fe44569251416c750312eb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28010,
+        "known_for_department": "Acting",
+        "name": "David Ogden Stiers",
+        "original_name": "David Ogden Stiers",
+        "popularity": 6.502,
+        "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg",
+        "cast_id": 11,
+        "character": "Jumba (voice)",
+        "credit_id": "52fe44569251416c750312ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58955,
+        "known_for_department": "Acting",
+        "name": "Kevin McDonald",
+        "original_name": "Kevin McDonald",
+        "popularity": 5.454,
+        "profile_path": "/ymwrW99x9gyN0zeRkqavt3lZMa9.jpg",
+        "cast_id": 13,
+        "character": "Pleakley (voice)",
+        "credit_id": "52fe44569251416c750312f9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10182,
+        "known_for_department": "Acting",
+        "name": "Ving Rhames",
+        "original_name": "Ving Rhames",
+        "popularity": 25.791,
+        "profile_path": "/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg",
+        "cast_id": 14,
+        "character": "Cobra Bubbles (voice)",
+        "credit_id": "52fe44569251416c750312fd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937681,
+        "known_for_department": "Acting",
+        "name": "Zoe Caldwell",
+        "original_name": "Zoe Caldwell",
+        "popularity": 1.582,
+        "profile_path": "/iPJ5cw8bdet7N2bjbWloKE04kOf.jpg",
+        "cast_id": 15,
+        "character": "Grand Councilwoman (voice)",
+        "credit_id": "52fe44569251416c75031301",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58319,
+        "known_for_department": "Acting",
+        "name": "Jason Scott Lee",
+        "original_name": "Jason Scott Lee",
+        "popularity": 11.982,
+        "profile_path": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg",
+        "cast_id": 16,
+        "character": "David Kawena (voice)",
+        "credit_id": "52fe44569251416c75031305",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 19.02,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 17,
+        "character": "Captain Gantu (voice)",
+        "credit_id": "52fe44569251416c75031309",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76003,
+        "known_for_department": "Crew",
+        "name": "Susan Hegarty",
+        "original_name": "Susan Hegarty",
+        "popularity": 1.6,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Rescue Lady (voice)",
+        "credit_id": "52fe44569251416c7503130d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59401,
+        "known_for_department": "Acting",
+        "name": "Amy Hill",
+        "original_name": "Amy Hill",
+        "popularity": 10.487,
+        "profile_path": "/x5vR2MXZiWGHkppRXlXYj7y7611.jpg",
+        "cast_id": 19,
+        "character": "Mrs. Hasagawa (voice)",
+        "credit_id": "52fe44569251416c75031311",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571562,
+        "known_for_department": "Acting",
+        "name": "Steve Blum",
+        "original_name": "Steve Blum",
+        "popularity": 4.982,
+        "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+        "cast_id": 56,
+        "character": "Hammerhead Guard (voice)",
+        "credit_id": "5ff1bcfb21118f003f251f8d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 978647,
+        "known_for_department": "Acting",
+        "name": "Kunewa Mook",
+        "original_name": "Kunewa Mook",
+        "popularity": 2.162,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Hula Teacher (voice)",
+        "credit_id": "6077ea9918864b002cedb3fb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61968,
+        "known_for_department": "Acting",
+        "name": "Patrick Pinney",
+        "original_name": "Patrick Pinney",
+        "popularity": 5.515,
+        "profile_path": "/lFRkthHgjyUn2AAqDAoVszedVJL.jpg",
+        "cast_id": 60,
+        "character": "Firefighter (voice)",
+        "credit_id": "60dcdbffa1285600469f37e1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217777,
+        "known_for_department": "Acting",
+        "name": "Steve Alterman",
+        "original_name": "Steve Alterman",
+        "popularity": 0.868,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Additional Voices (voice)",
+        "credit_id": "63612fa65900860079714a00",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3766536,
+        "known_for_department": "Acting",
+        "name": "Bill Asing",
+        "original_name": "Bill Asing",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 75,
+        "character": "Man (voice)",
+        "credit_id": "63613925590086007e3c166e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086504,
+        "known_for_department": "Acting",
+        "name": "Emily Anderson",
+        "original_name": "Emily Anderson",
+        "popularity": 0.833,
+        "profile_path": null,
+        "cast_id": 76,
+        "character": "Woman (voice)",
+        "credit_id": "636139ade18e3f0079f93642",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19545,
+        "known_for_department": "Acting",
+        "name": "Jack Angel",
+        "original_name": "Jack Angel",
+        "popularity": 4.077,
+        "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg",
+        "cast_id": 77,
+        "character": "Alien Guard (voice)",
+        "credit_id": "63613a07efd3c2007af0307f",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37,
+        "known_for_department": "Sound",
+        "name": "Alan Silvestri",
+        "original_name": "Alan Silvestri",
+        "popularity": 4.792,
+        "profile_path": "/pQOAsQDuYMR4cKaPAP0wkRlCSNo.jpg",
+        "credit_id": "52fe44569251416c750312d3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 900,
+        "known_for_department": "Sound",
+        "name": "Christopher Boyes",
+        "original_name": "Christopher Boyes",
+        "popularity": 3.339,
+        "profile_path": null,
+        "credit_id": "56833e719251412e52014702",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 900,
+        "known_for_department": "Sound",
+        "name": "Christopher Boyes",
+        "original_name": "Christopher Boyes",
+        "popularity": 3.339,
+        "profile_path": null,
+        "credit_id": "56833e67c3a3684bcc0173bd",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 900,
+        "known_for_department": "Sound",
+        "name": "Christopher Boyes",
+        "original_name": "Christopher Boyes",
+        "popularity": 3.339,
+        "profile_path": null,
+        "credit_id": "632a5e01b6abc40091ff7e85",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7902,
+        "known_for_department": "Production",
+        "name": "Ruth Lambert",
+        "original_name": "Ruth Lambert",
+        "popularity": 1.24,
+        "profile_path": null,
+        "credit_id": "591112b1c3a36864a7038caf",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7903,
+        "known_for_department": "Production",
+        "name": "Mary Hidalgo",
+        "original_name": "Mary Hidalgo",
+        "popularity": 1.592,
+        "profile_path": null,
+        "credit_id": "55685d2cc3a3681c650023ed",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15812,
+        "known_for_department": "Writing",
+        "name": "Roger Allers",
+        "original_name": "Roger Allers",
+        "popularity": 3.383,
+        "profile_path": "/sdFyM5FNcJuMv7knrz6swaIHXIJ.jpg",
+        "credit_id": "632a5d332dffd80091fcdacf",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21201,
+        "known_for_department": "Editing",
+        "name": "Darren T. Holmes",
+        "original_name": "Darren T. Holmes",
+        "popularity": 0.98,
+        "profile_path": null,
+        "credit_id": "52fe44569251416c750312df",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61419,
+        "known_for_department": "Production",
+        "name": "Matthew Jon Beck",
+        "original_name": "Matthew Jon Beck",
+        "popularity": 0.73,
+        "profile_path": null,
+        "credit_id": "5911148dc3a368650a038361",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61949,
+        "known_for_department": "Directing",
+        "name": "Robert Walker",
+        "original_name": "Robert Walker",
+        "popularity": 0.982,
+        "profile_path": null,
+        "credit_id": "632a5d8d39b6c30086525a6a",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65534,
+        "known_for_department": "Visual Effects",
+        "name": "Andreas Deja",
+        "original_name": "Andreas Deja",
+        "popularity": 1.131,
+        "profile_path": "/hy1jlK4mw6RAnbke5FtzZCbdQNi.jpg",
+        "credit_id": "5518c093925141731c0016e1",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Acting",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 10.768,
+        "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
+        "credit_id": "52fe44569251416c750312c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Acting",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 10.768,
+        "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
+        "credit_id": "5c23af7b92514167efc57466",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Acting",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 10.768,
+        "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
+        "credit_id": "5911136cc3a36864ec0365ec",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Acting",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 10.768,
+        "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
+        "credit_id": "632a5cb0cf9ba300823592d7",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69797,
+        "known_for_department": "Directing",
+        "name": "Dean DeBlois",
+        "original_name": "Dean DeBlois",
+        "popularity": 5.341,
+        "profile_path": "/miMZ0l4rY81NiyMviWz1BeTGtuE.jpg",
+        "credit_id": "52fe44569251416c750312bb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69797,
+        "known_for_department": "Directing",
+        "name": "Dean DeBlois",
+        "original_name": "Dean DeBlois",
+        "popularity": 5.341,
+        "profile_path": "/miMZ0l4rY81NiyMviWz1BeTGtuE.jpg",
+        "credit_id": "5c23af710e0a264dd8f19b29",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69798,
+        "known_for_department": "Production",
+        "name": "Clark Spencer",
+        "original_name": "Clark Spencer",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe44569251416c750312cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70240,
+        "known_for_department": "Art",
+        "name": "Paul A. Felix",
+        "original_name": "Paul A. Felix",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591113819251414e8d0388b8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76595,
+        "known_for_department": "Acting",
+        "name": "Byron Howard",
+        "original_name": "Byron Howard",
+        "popularity": 3.296,
+        "profile_path": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+        "credit_id": "632a5cb839b6c3009e9a4f72",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89028,
+        "known_for_department": "Production",
+        "name": "Lisa M. Poole",
+        "original_name": "Lisa M. Poole",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5c23af08c3a368700bf0537f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80671,
+        "known_for_department": "Writing",
+        "name": "John Sanford",
+        "original_name": "John Sanford",
+        "popularity": 1.407,
+        "profile_path": "/3ualeYti4oYbw4tG1E21X6lWtlg.jpg",
+        "credit_id": "632a5d2acf9ba3007d7fcdf2",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74976,
+        "known_for_department": "Sound",
+        "name": "Mel Metcalfe",
+        "original_name": "Mel Metcalfe",
+        "popularity": 1.683,
+        "profile_path": null,
+        "credit_id": "56833e38c3a3685f89001d82",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74978,
+        "known_for_department": "Sound",
+        "name": "Terry Porter",
+        "original_name": "Terry Porter",
+        "popularity": 0.97,
+        "profile_path": null,
+        "credit_id": "56833e5692514131df013691",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83091,
+        "known_for_department": "Sound",
+        "name": "Dean A. Zupancic",
+        "original_name": "Dean A. Zupancic",
+        "popularity": 0.962,
+        "profile_path": null,
+        "credit_id": "56833e48c3a3682abc00faa4",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115755,
+        "known_for_department": "Crew",
+        "name": "Mark Henn",
+        "original_name": "Mark Henn",
+        "popularity": 3.159,
+        "profile_path": null,
+        "credit_id": "591114bdc3a36864ec03671a",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339446,
+        "known_for_department": "Sound",
+        "name": "Frank E. Eulner",
+        "original_name": "Frank E. Eulner",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "56833e84925141133400d5e3",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394306,
+        "known_for_department": "Sound",
+        "name": "Kenneth Karman",
+        "original_name": "Kenneth Karman",
+        "popularity": 2.357,
+        "profile_path": null,
+        "credit_id": "591113b19251414e9203a708",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400906,
+        "known_for_department": "Sound",
+        "name": "Christopher Scarabosio",
+        "original_name": "Christopher Scarabosio",
+        "popularity": 1.474,
+        "profile_path": "/9lOLuw52TKHXbzOzzlOsTYS3UEu.jpg",
+        "credit_id": "56833f5fc3a3685f89001db7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401075,
+        "known_for_department": "Writing",
+        "name": "Ed Gombert",
+        "original_name": "Ed Gombert",
+        "popularity": 1.833,
+        "profile_path": null,
+        "credit_id": "632a5cf1c8f3c4007bb55791",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414178,
+        "known_for_department": "Sound",
+        "name": "Scott Guitteau",
+        "original_name": "Scott Guitteau",
+        "popularity": 1.502,
+        "profile_path": null,
+        "credit_id": "56833f3a92514169d0001ecd",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1422411,
+        "known_for_department": "Sound",
+        "name": "Al Nelson",
+        "original_name": "Al Nelson",
+        "popularity": 1.228,
+        "profile_path": null,
+        "credit_id": "56833f479251417def0163eb",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447362,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Oliver",
+        "original_name": "Eric Oliver",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5911128fc3a36864fc03997c",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448489,
+        "known_for_department": "Art",
+        "name": "Misoon Kim",
+        "original_name": "Misoon Kim",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5911134dc3a3686519036038",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453513,
+        "known_for_department": "Visual Effects",
+        "name": "Rob Bekuhrs",
+        "original_name": "Rob Bekuhrs",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "555e39319251417e550006f1",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1464353,
+        "known_for_department": "Crew",
+        "name": "Leslie Moes",
+        "original_name": "Leslie Moes",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5de6cf9ba300823593ef",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1615288,
+        "known_for_department": "Art",
+        "name": "Robert E. Stanton",
+        "original_name": "Robert E. Stanton",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5bf7a3b5e60091f5a92a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1777864,
+        "known_for_department": "Visual Effects",
+        "name": "James Young Jackson",
+        "original_name": "James Young Jackson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591114cbc3a36864ec036723",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1777882,
+        "known_for_department": "Visual Effects",
+        "name": "Dominic M. Carola",
+        "original_name": "Dominic M. Carola",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591114ae9251414ead037ce8",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777884,
+        "known_for_department": "Visual Effects",
+        "name": "Theodore Anthony Lee Ty",
+        "original_name": "Theodore Anthony Lee Ty",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591114e1c3a368650a0383ac",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809268,
+        "known_for_department": "Visual Effects",
+        "name": "Joseph Gilland",
+        "original_name": "Joseph Gilland",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591113f29251414eca03832a",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1813167,
+        "known_for_department": "Art",
+        "name": "Ric Sluiter",
+        "original_name": "Ric Sluiter",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5911138d9251414eca0382e7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1813169,
+        "known_for_department": "Production",
+        "name": "Camille Cavallin-Fay",
+        "original_name": "Camille Cavallin-Fay",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "59111578c3a368646b03db8a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1822535,
+        "known_for_department": "Acting",
+        "name": "Arden Chan",
+        "original_name": "Arden Chan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5be42dffd80091fcd9a3",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1992548,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Guaglione",
+        "original_name": "Eric Guaglione",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5c78c51acd00826d2335",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007250,
+        "known_for_department": "Visual Effects",
+        "name": "Christine Lawrence Finney",
+        "original_name": "Christine Lawrence Finney",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5c56ef9d72007b1d177a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3708993,
+        "known_for_department": "Visual Effects",
+        "name": "Philip S. Boyd",
+        "original_name": "Philip S. Boyd",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "632a5c4c66a7c300822aaee5",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0275847",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
