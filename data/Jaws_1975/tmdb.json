@@ -1,0 +1,5888 @@
+{
+  "adult": false,
+  "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+  "belongs_to_collection": {
+    "id": 2366,
+    "name": "Jaws Collection",
+    "poster_path": "/fgraZdDCvAtBr0MHczmL6raonHd.jpg",
+    "backdrop_path": "/1e2QvI2u7Q4d2admK6Xw0AjLjVp.jpg"
+  },
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.uphe.com/movies/jaws",
+  "id": 578,
+  "imdb_id": "tt0073195",
+  "original_language": "en",
+  "original_title": "Jaws",
+  "overview": "When an insatiable great white shark terrorizes the townspeople of Amity Island, the police chief, an oceanographer and a grizzled shark hunter seek to destroy the blood-thirsty beast.",
+  "popularity": 39.617,
+  "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1865,
+      "logo_path": null,
+      "name": "Zanuck/Brown Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-06-20",
+  "revenue": 470653000,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't go in the water",
+  "title": "Jaws",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 8986,
+  "watch_providers": {
+    "AD": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 12
+        }
+      ]
+    },
+    "AG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AG",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "AL": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AL",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 30
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AT",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/3WN3S7D5f41d3RhI2jtVbTehlf2.jpg",
+          "provider_id": 1856,
+          "provider_name": "Magenta TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/y0kyIFElN5sJAsmW8Txj69wzrD2.jpg",
+          "provider_id": 321,
+          "provider_name": "Sky X",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/MiVcYLkztM6qqLeVSYWHFCUcXx.jpg",
+          "provider_id": 30,
+          "provider_name": "WOW",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 25
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=AU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+          "provider_id": 429,
+          "provider_name": "Telstra TV",
+          "display_priority": 32
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BA",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 30
+        }
+      ]
+    },
+    "BB": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BB",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "BE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/vjsvYNPgq6BpUoubXR1wNkokoBb.jpg",
+          "provider_id": 313,
+          "provider_name": "Yelo Play",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/dfkvd9l1xYWUMP5t4okULq5QbJt.jpg",
+          "provider_id": 1857,
+          "provider_name": "Telenet",
+          "display_priority": 35
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/jWKX6kO7JqQbqVnu9QtEO6FC85n.jpg",
+          "provider_id": 697,
+          "provider_name": "meJane",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "BG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BG",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 22
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        }
+      ]
+    },
+    "BH": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BH",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "BM": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BM",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "BO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ]
+    },
+    "BR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BR",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/oBoWstXQFHAlPApyxIQ31CIbNQk.jpg",
+          "provider_id": 307,
+          "provider_name": "Globoplay",
+          "display_priority": 10
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 49
+        }
+      ]
+    },
+    "BS": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=BS",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 58
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/yNr05VQlKK4dI0Ncwf9InIVGKs9.jpg",
+          "provider_id": 140,
+          "provider_name": "Cineplex",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 58
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/jmyYN1124dDIzqMysLekixy3AzF.jpg",
+          "provider_id": 164,
+          "provider_name": "Hollystar",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/rVOOhp6V8FheEAKtFAJMLMbnaMZ.jpg",
+          "provider_id": 150,
+          "provider_name": "blue TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/sHP8XLo4Ac4WMbziRyAdRQdb76q.jpg",
+          "provider_id": 210,
+          "provider_name": "Sky",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+          "provider_id": 622,
+          "provider_name": "UPC TV",
+          "display_priority": 40
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CI": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CI",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CL",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CO",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 11
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CR",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CV": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CV",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 13
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 13
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=CZ",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 28
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 33
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+          "provider_id": 178,
+          "provider_name": "MagentaTV",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 33
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/MiVcYLkztM6qqLeVSYWHFCUcXx.jpg",
+          "provider_id": 30,
+          "provider_name": "WOW",
+          "display_priority": 5
+        }
+      ]
+    },
+    "DK": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 20
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 21
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        }
+      ]
+    },
+    "DO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DO",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "DZ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=DZ",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=EC",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ]
+    },
+    "EE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=EE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "EG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=EG",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "ES": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=ES",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 36
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/gqdajHmtr6qtutL7kkmEgleGfV9.jpg",
+          "provider_id": 63,
+          "provider_name": "Filmin",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/gZTgebCNny3MHvUxFde7gueVgT1.jpg",
+          "provider_id": 149,
+          "provider_name": "Movistar Plus",
+          "display_priority": 10
+        }
+      ]
+    },
+    "FI": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=FI",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/ihE8Z4jZcGsmQsGRj6q06oxD2Wd.jpg",
+          "provider_id": 540,
+          "provider_name": "Elisa Viihde",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/xTVM8uXT9QocigQ07LE7Irc65W2.jpg",
+          "provider_id": 553,
+          "provider_name": "Telia Play",
+          "display_priority": 34
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 5
+        }
+      ]
+    },
+    "FJ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=FJ",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "FR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=FR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/b6hJjWPa7h8VCpaCVJCSu8EPlqT.jpg",
+          "provider_id": 138,
+          "provider_name": "Filmo TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/s90cXW0NE709rLYRQ8YzMYjMmU3.jpg",
+          "provider_id": 310,
+          "provider_name": "LaCinetek",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/ddWcbe8fYAfcQMjighzWGLjjyip.jpg",
+          "provider_id": 61,
+          "provider_name": "Orange VOD",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/b6hJjWPa7h8VCpaCVJCSu8EPlqT.jpg",
+          "provider_id": 138,
+          "provider_name": "Filmo TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/knpqBvBQjyHnFrYPJ9bbtUCv6uo.jpg",
+          "provider_id": 58,
+          "provider_name": "Canal VOD",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/s90cXW0NE709rLYRQ8YzMYjMmU3.jpg",
+          "provider_id": 310,
+          "provider_name": "LaCinetek",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/lwefE4yPpCQGhH2LotPuhGA8gCV.jpg",
+          "provider_id": 239,
+          "provider_name": "Universcine",
+          "display_priority": 42
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 47
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/3boZfmOm36QssW1VllChtZL6P50.jpg",
+          "provider_id": 1731,
+          "provider_name": "Salto Amazon Channel",
+          "display_priority": 60
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=GB",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 29
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/fBHHXKC34ffxAsQvDe0ZJbvmTEQ.jpg",
+          "provider_id": 29,
+          "provider_name": "Sky Go",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/nqGY5wuSv14vbY7NYOs8stJ6ZBF.jpg",
+          "provider_id": 591,
+          "provider_name": "Now TV Cinema",
+          "display_priority": 64
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 29
+        }
+      ]
+    },
+    "GF": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=GF",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 30
+        }
+      ]
+    },
+    "GH": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=GH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 17
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 17
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=GR",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ]
+    },
+    "GT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=GT",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ]
+    },
+    "HK": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=HK",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 7
+        }
+      ]
+    },
+    "HN": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=HN",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "HR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=HR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 40
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "HU": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=HU",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 28
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "ID": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=ID",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 7
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/fBHHXKC34ffxAsQvDe0ZJbvmTEQ.jpg",
+          "provider_id": 29,
+          "provider_name": "Sky Go",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/nqGY5wuSv14vbY7NYOs8stJ6ZBF.jpg",
+          "provider_id": 591,
+          "provider_name": "Now TV Cinema",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "IL": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IL",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 28
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 28
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IN",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 49
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 13
+        }
+      ]
+    },
+    "IQ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IQ",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "IS": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IS",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 29
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "IT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=IT",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/y7mZSw1FV99yfawxOISBQTvtJxM.jpg",
+          "provider_id": 39,
+          "provider_name": "Now TV",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 22
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ]
+    },
+    "JM": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=JM",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 27
+        }
+      ]
+    },
+    "JO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=JO",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=JP",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/9pS9Y3xkCLJnti9pi1AyrD5KbZe.jpg",
+          "provider_id": 84,
+          "provider_name": "U-NEXT",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/g8jqHtXJsMlc8B1Gb0Rt8AvUJMn.jpg",
+          "provider_id": 85,
+          "provider_name": "dTV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        }
+      ]
+    },
+    "KE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=KE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "KR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=KR",
+      "buy": [
+        {
+          "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+          "provider_id": 356,
+          "provider_name": "wavve",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+          "provider_id": 356,
+          "provider_name": "wavve",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/a4ciTQc27FsgdUp7PCrToHPygcw.jpg",
+          "provider_id": 96,
+          "provider_name": "Naver Store",
+          "display_priority": 6
+        }
+      ]
+    },
+    "KW": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=KW",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LB": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=LB",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LC": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=LC",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=LT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "LV": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=LV",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "LY": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=LY",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "MA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "MC": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MC",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "MD": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MD",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MK": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MK",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 28
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MT",
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MU": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MU",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "MX": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MX",
+      "buy": [
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 31
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 25
+        },
+        {
+          "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+          "provider_id": 558,
+          "provider_name": "Cinépolis KLIC",
+          "display_priority": 31
+        }
+      ]
+    },
+    "MY": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MY",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 9
+        }
+      ]
+    },
+    "MZ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=MZ",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 16
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 16
+        }
+      ]
+    },
+    "NE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "NG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NG",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NL",
+      "buy": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/bVClgB5bpaTRM3sVPlboaxkFD0U.jpg",
+          "provider_id": 563,
+          "provider_name": "KPN",
+          "display_priority": 35
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/llmnYOyknekZsXtkCaazKjhTLvG.jpg",
+          "provider_id": 71,
+          "provider_name": "Pathé Thuis",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 40
+        },
+        {
+          "logo_path": "/jWKX6kO7JqQbqVnu9QtEO6FC85n.jpg",
+          "provider_id": 697,
+          "provider_name": "meJane",
+          "display_priority": 48
+        }
+      ]
+    },
+    "NO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NO",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "TV 2 Play",
+          "display_priority": 20
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        },
+        {
+          "logo_path": "/5nECaP8nhtrzZfx7oG0yoFMfqiA.jpg",
+          "provider_id": 431,
+          "provider_name": "TV 2 Play",
+          "display_priority": 20
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/gKno1uvHwHyhQTKMflDvEqj5oGJ.jpg",
+          "provider_id": 578,
+          "provider_name": "Strim",
+          "display_priority": 32
+        }
+      ]
+    },
+    "NZ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=NZ",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 10
+        }
+      ]
+    },
+    "OM": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=OM",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PA",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 27
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PE",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+          "provider_id": 167,
+          "provider_name": "Claro video",
+          "display_priority": 10
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ]
+    },
+    "PF": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PF",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PH": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PH",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "PL": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PL",
+      "free": [
+        {
+          "logo_path": "/kplaFNfZXsdyqsz4TAK8xaKU9Qa.jpg",
+          "provider_id": 245,
+          "provider_name": "VOD Poland",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 34
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 8
+        }
+      ]
+    },
+    "PS": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PS",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "PT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PT",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 7
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        }
+      ]
+    },
+    "PY": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=PY",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 22
+        }
+      ]
+    },
+    "QA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=QA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "RO": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=RO",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 23
+        }
+      ]
+    },
+    "RS": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=RS",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 31
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        }
+      ]
+    },
+    "RU": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=RU",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/Aduyz3yAGMXTmd2N6NiIOYCmWF3.jpg",
+          "provider_id": 557,
+          "provider_name": "More TV",
+          "display_priority": 17
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/1KAux0lBEHpLnQcvaf1Qf1uKcIP.jpg",
+          "provider_id": 117,
+          "provider_name": "Kinopoisk",
+          "display_priority": 24
+        },
+        {
+          "logo_path": "/zLM7f1w2L8TU2Fspzns72m6h3yY.jpg",
+          "provider_id": 501,
+          "provider_name": "Wink",
+          "display_priority": 1000
+        },
+        {
+          "logo_path": "/o9ExgOSLF3OTwR6T3DJOuwOKJgq.jpg",
+          "provider_id": 113,
+          "provider_name": "Ivi",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 1
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 28
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SE",
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/cvl65OJnz14LUlC3yGK1KHj8UYs.jpg",
+          "provider_id": 76,
+          "provider_name": "Viaplay",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 17
+        },
+        {
+          "logo_path": "/3QsJbibv5dFW2IYuXbTjxDmGGRZ.jpg",
+          "provider_id": 423,
+          "provider_name": "Blockbuster",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/dNcz2AZHPEgt4BIKJe56r4visuK.jpg",
+          "provider_id": 426,
+          "provider_name": "SF Anytime",
+          "display_priority": 19
+        }
+      ]
+    },
+    "SG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SI": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SI",
+      "buy": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 31
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 33
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 31
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "SK": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SK",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/iieEQVJIEOSfDj477zG8sSTtr25.jpg",
+          "provider_id": 1773,
+          "provider_name": "SkyShowtime",
+          "display_priority": 42
+        }
+      ]
+    },
+    "SM": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SM",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SN": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SN",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "SV": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=SV",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 25
+        }
+      ]
+    },
+    "TC": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TC",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "TH": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TH",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TN": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TN",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TR",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 4
+        }
+      ]
+    },
+    "TT": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TT",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 11
+        }
+      ]
+    },
+    "TW": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TW",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 7
+        }
+      ]
+    },
+    "TZ": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=TZ",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 20
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 20
+        }
+      ]
+    },
+    "UG": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=UG",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=US",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 52
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 53
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 57
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 135
+        },
+        {
+          "logo_path": "/79mRAYq40lcYiXkQm6N7YErSSHd.jpg",
+          "provider_id": 486,
+          "provider_name": "Spectrum On Demand",
+          "display_priority": 169
+        },
+        {
+          "logo_path": "/1UP7ysjKolfD0rmp2fLmvyRHkdn.jpg",
+          "provider_id": 547,
+          "provider_name": "Alamo on Demand",
+          "display_priority": 181
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 52
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 53
+        },
+        {
+          "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+          "provider_id": 358,
+          "provider_name": "DIRECTV",
+          "display_priority": 57
+        },
+        {
+          "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+          "provider_id": 352,
+          "provider_name": "AMC on Demand",
+          "display_priority": 135
+        },
+        {
+          "logo_path": "/1UP7ysjKolfD0rmp2fLmvyRHkdn.jpg",
+          "provider_id": 547,
+          "provider_name": "Alamo on Demand",
+          "display_priority": 181
+        }
+      ]
+    },
+    "UY": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=UY",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 30
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "VA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=VA",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 0
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=VE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 8
+        }
+      ]
+    },
+    "YE": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=YE",
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ]
+    },
+    "ZA": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=ZA",
+      "flatrate": [
+        {
+          "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+          "provider_id": 8,
+          "provider_name": "Netflix",
+          "display_priority": 0
+        },
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 2
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "ZM": {
+      "link": "https://www.themoviedb.org/movie/578-jaws/watch?locale=ZM",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+          "provider_id": 119,
+          "provider_name": "Amazon Prime Video",
+          "display_priority": 1
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 1000
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 1495,
+      "name": "fishing"
+    },
+    {
+      "id": 1913,
+      "name": "atlantic ocean"
+    },
+    {
+      "id": 2069,
+      "name": "bathing"
+    },
+    {
+      "id": 2580,
+      "name": "shipwreck"
+    },
+    {
+      "id": 2988,
+      "name": "shark attack"
+    },
+    {
+      "id": 2993,
+      "name": "police chief"
+    },
+    {
+      "id": 2996,
+      "name": "ferry boat"
+    },
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 5160,
+      "name": "animal attack"
+    },
+    {
+      "id": 9398,
+      "name": "long island, new york"
+    },
+    {
+      "id": 10852,
+      "name": "dead child"
+    },
+    {
+      "id": 13031,
+      "name": "creature"
+    },
+    {
+      "id": 13078,
+      "name": "skinny dipping"
+    },
+    {
+      "id": 15097,
+      "name": "shark"
+    },
+    {
+      "id": 15098,
+      "name": "great white shark"
+    },
+    {
+      "id": 156175,
+      "name": "dead dog"
+    },
+    {
+      "id": 158259,
+      "name": "child killed by animal"
+    },
+    {
+      "id": 159743,
+      "name": "fourth of july"
+    },
+    {
+      "id": 163300,
+      "name": "severed leg"
+    },
+    {
+      "id": 174617,
+      "name": "fishing boat"
+    },
+    {
+      "id": 223059,
+      "name": "animal horror"
+    },
+    {
+      "id": 284923,
+      "name": "shark cage"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6355,
+        "known_for_department": "Acting",
+        "name": "Roy Scheider",
+        "original_name": "Roy Scheider",
+        "popularity": 10.876,
+        "profile_path": "/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg",
+        "cast_id": 15,
+        "character": "Police Chief Martin Brody",
+        "credit_id": "52fe4255c3a36847f8016071",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8606,
+        "known_for_department": "Acting",
+        "name": "Robert Shaw",
+        "original_name": "Robert Shaw",
+        "popularity": 10.592,
+        "profile_path": "/jAx8XglxBUTV19yuK0r4vU3AWdd.jpg",
+        "cast_id": 16,
+        "character": "Quint",
+        "credit_id": "52fe4255c3a36847f8016075",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3037,
+        "known_for_department": "Acting",
+        "name": "Richard Dreyfuss",
+        "original_name": "Richard Dreyfuss",
+        "popularity": 19.089,
+        "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg",
+        "cast_id": 17,
+        "character": "Matt Hooper",
+        "credit_id": "52fe4255c3a36847f8016079",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8608,
+        "known_for_department": "Acting",
+        "name": "Murray Hamilton",
+        "original_name": "Murray Hamilton",
+        "popularity": 7.484,
+        "profile_path": "/kEAXyzRQ5POdciTjAUjRW4lIslj.jpg",
+        "cast_id": 19,
+        "character": "Mayor Larry Vaughn",
+        "credit_id": "52fe4255c3a36847f8016081",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8607,
+        "known_for_department": "Acting",
+        "name": "Lorraine Gary",
+        "original_name": "Lorraine Gary",
+        "popularity": 5.809,
+        "profile_path": "/6JKNdZopypnFnD9xSSlDs6YTHMC.jpg",
+        "cast_id": 18,
+        "character": "Ellen Brody",
+        "credit_id": "52fe4255c3a36847f801607d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8612,
+        "known_for_department": "Acting",
+        "name": "Jay Mello",
+        "original_name": "Jay Mello",
+        "popularity": 11.25,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Sean Brody",
+        "credit_id": "52fe4255c3a36847f8016099",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8609,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Kramer",
+        "original_name": "Jeffrey Kramer",
+        "popularity": 3.244,
+        "profile_path": "/tLlMHQtZWhR3qHXBu1RR6NanERX.jpg",
+        "cast_id": 21,
+        "character": "Deputy Leonard 'Lenny' Hendricks",
+        "credit_id": "52fe4255c3a36847f8016089",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8555,
+        "known_for_department": "Acting",
+        "name": "Carl Gottlieb",
+        "original_name": "Carl Gottlieb",
+        "popularity": 2.153,
+        "profile_path": "/tXsKWTANoQLwLyXTUteuDcDIc8b.jpg",
+        "cast_id": 20,
+        "character": "Ben Meadows",
+        "credit_id": "52fe4255c3a36847f8016085",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8610,
+        "known_for_department": "Acting",
+        "name": "Susan Backlinie",
+        "original_name": "Susan Backlinie",
+        "popularity": 4.866,
+        "profile_path": "/A0WzKdjIf7MFxyV4adJE5vMRn5J.jpg",
+        "cast_id": 22,
+        "character": "Christine 'Chrissie' Watkins",
+        "credit_id": "52fe4255c3a36847f801608d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8613,
+        "known_for_department": "Acting",
+        "name": "Lee Fierro",
+        "original_name": "Lee Fierro",
+        "popularity": 1.932,
+        "profile_path": "/mszs36kiWIcoJ5nxegZErKGk5Ry.jpg",
+        "cast_id": 26,
+        "character": "Mrs. Kintner",
+        "credit_id": "52fe4255c3a36847f801609d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8615,
+        "known_for_department": "Acting",
+        "name": "Craig Kingsbury",
+        "original_name": "Craig Kingsbury",
+        "popularity": 1.503,
+        "profile_path": "/zPDkW6BZYvAyc7NPgtXpakIMexz.jpg",
+        "cast_id": 28,
+        "character": "Ben Gardner",
+        "credit_id": "52fe4255c3a36847f80160a5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735328,
+        "known_for_department": "Acting",
+        "name": "Phil Murray",
+        "original_name": "Phil Murray",
+        "popularity": 0.965,
+        "profile_path": "/1DgeK6R49NVxTa70PFPs38lMRjo.jpg",
+        "cast_id": 62,
+        "character": "Mr. Taft",
+        "credit_id": "5f2e6821be7f350036f3a57b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16224,
+        "known_for_department": "Acting",
+        "name": "Fritzi Jane Courtney",
+        "original_name": "Fritzi Jane Courtney",
+        "popularity": 1.6,
+        "profile_path": "/zu2aAlmeTLvbEUkhj6901JMQWdi.jpg",
+        "cast_id": 37,
+        "character": "Mrs. Taft (uncredited)",
+        "credit_id": "56ba1a9cc3a3681e5900314b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 592894,
+        "known_for_department": "Acting",
+        "name": "Belle McDonald",
+        "original_name": "Belle McDonald",
+        "popularity": 1.356,
+        "profile_path": "/eJRqlcurBuKf1bj5V6xWzyklmSD.jpg",
+        "cast_id": 39,
+        "character": "Mrs. Posner (uncredited)",
+        "credit_id": "56ba1c00c3a3681e7d002c03",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8591,
+        "known_for_department": "Acting",
+        "name": "Ted Grossman",
+        "original_name": "Ted Grossman",
+        "popularity": 5.371,
+        "profile_path": "/2L7S57LmXg1EFwVOkI06JS5oAhM.jpg",
+        "cast_id": 32,
+        "character": "Estuary Victim",
+        "credit_id": "55de5a40925141472d00038c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8616,
+        "known_for_department": "Acting",
+        "name": "Robert Nevin",
+        "original_name": "Robert Nevin",
+        "popularity": 1.159,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Medical Examiner",
+        "credit_id": "52fe4255c3a36847f80160a9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8554,
+        "known_for_department": "Writing",
+        "name": "Peter Benchley",
+        "original_name": "Peter Benchley",
+        "popularity": 3.93,
+        "profile_path": "/bkiyTDgdvyXkowNvJ3QYy9IOGG.jpg",
+        "cast_id": 33,
+        "character": "Interviewer",
+        "credit_id": "55de5af4c3a3686e82000411",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51550,
+        "known_for_department": "Acting",
+        "name": "Dorothy Fielding",
+        "original_name": "Dorothy Fielding",
+        "popularity": 1.599,
+        "profile_path": "/wuZGmmQxOsbolkJFe7pleYwD3eE.jpg",
+        "cast_id": 34,
+        "character": "Girl in Music Store (uncredited)",
+        "credit_id": "55de5b6fc3a3686e7d00039b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 197925,
+        "known_for_department": "Writing",
+        "name": "David Engelbach",
+        "original_name": "David Engelbach",
+        "popularity": 1.623,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Research Assistant (uncredited)",
+        "credit_id": "56ba1af8c3a3681e6800391a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1360008,
+        "known_for_department": "Acting",
+        "name": "Joseph Oliveira",
+        "original_name": "Joseph Oliveira",
+        "popularity": 1.49,
+        "profile_path": "/hrVn7CVgShz3UaLLnzMxSIRnKCa.jpg",
+        "cast_id": 40,
+        "character": "Swimmer (uncredited)",
+        "credit_id": "56ba1c6192514106ac002c23",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1946,
+        "known_for_department": "Acting",
+        "name": "Beverly Powers",
+        "original_name": "Beverly Powers",
+        "popularity": 5.864,
+        "profile_path": "/kaMVTp0v0hRhGyjLBZ4ezlsW6ZC.jpg",
+        "cast_id": 41,
+        "character": "Topless Swimmer (uncredited)",
+        "credit_id": "56ba1cbc92514106a4002ac7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 124243,
+        "known_for_department": "Acting",
+        "name": "Ayn Ruymen",
+        "original_name": "Ayn Ruymen",
+        "popularity": 1.286,
+        "profile_path": "/lxn99XWxt2A400MrRhUWXrUJN2g.jpg",
+        "cast_id": 42,
+        "character": "Nurse (uncredited)",
+        "credit_id": "56ba1cf192514106ac002c3c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1081816,
+        "known_for_department": "Acting",
+        "name": "Christopher Sands",
+        "original_name": "Christopher Sands",
+        "popularity": 0.84,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Lifeguard (uncredited)",
+        "credit_id": "56ba1d3ec3a3681e5d002d78",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 39039,
+        "known_for_department": "Acting",
+        "name": "Rex Trailer",
+        "original_name": "Rex Trailer",
+        "popularity": 1.26,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Scout Master (uncredited)",
+        "credit_id": "56ba1debc3a3681e6d002c28",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2957401,
+        "known_for_department": "Acting",
+        "name": "Joe La Creta",
+        "original_name": "Joe La Creta",
+        "popularity": 1.564,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Barwood (uncredited)",
+        "credit_id": "6014a68ed7cd06003e058548",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97751,
+        "known_for_department": "Acting",
+        "name": "Denise Cheshire",
+        "original_name": "Denise Cheshire",
+        "popularity": 1.729,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Swimming Chrissie - First Victim (uncredited)",
+        "credit_id": "56b9559f92514106a4000f03",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 488,
+        "known_for_department": "Directing",
+        "name": "Steven Spielberg",
+        "original_name": "Steven Spielberg",
+        "popularity": 28.948,
+        "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "cast_id": 35,
+        "character": "Amity Point Lifestation Worker (voice) (uncredited)",
+        "credit_id": "55de5b88925141472000041e",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 491,
+        "known_for_department": "Sound",
+        "name": "John Williams",
+        "original_name": "John Williams",
+        "popularity": 6.886,
+        "profile_path": "/KFyMqUWeiBdP9tJcZyGWOqnrgK.jpg",
+        "credit_id": "52fe4255c3a36847f801603d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 488,
+        "known_for_department": "Directing",
+        "name": "Steven Spielberg",
+        "original_name": "Steven Spielberg",
+        "popularity": 28.948,
+        "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "credit_id": "52fe4255c3a36847f801601f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 796,
+        "known_for_department": "Art",
+        "name": "John M. Dwyer",
+        "original_name": "John M. Dwyer",
+        "popularity": 1.176,
+        "profile_path": null,
+        "credit_id": "52fe4255c3a36847f8016055",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12865,
+        "known_for_department": "Editing",
+        "name": "Jeff Gourson",
+        "original_name": "Jeff Gourson",
+        "popularity": 1.423,
+        "profile_path": null,
+        "credit_id": "56ba231ac3a3681e60002bb5",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044,
+        "known_for_department": "Camera",
+        "name": "Michael Chapman",
+        "original_name": "Michael Chapman",
+        "popularity": 0.625,
+        "profile_path": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg",
+        "credit_id": "609916f38ee49c003e74a7ab",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297,
+        "known_for_department": "Production",
+        "name": "Richard D. Zanuck",
+        "original_name": "Richard D. Zanuck",
+        "popularity": 3.72,
+        "profile_path": "/xnqVhmH5MAEuBEZMVpBRjVb2fIN.jpg",
+        "credit_id": "52fe4255c3a36847f8016037",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2287,
+        "known_for_department": "Camera",
+        "name": "Bill Butler",
+        "original_name": "Bill Butler",
+        "popularity": 3.502,
+        "profile_path": "/kiEZlHSzWCTrzpAjc4XjFFVBPkF.jpg",
+        "credit_id": "53807bc5c3a36805a1004d8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5322,
+        "known_for_department": "Production",
+        "name": "David Brown",
+        "original_name": "David Brown",
+        "popularity": 1.388,
+        "profile_path": null,
+        "credit_id": "52fe4255c3a36847f8016031",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8554,
+        "known_for_department": "Writing",
+        "name": "Peter Benchley",
+        "original_name": "Peter Benchley",
+        "popularity": 3.93,
+        "profile_path": "/bkiyTDgdvyXkowNvJ3QYy9IOGG.jpg",
+        "credit_id": "52fe4255c3a36847f80160af",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8554,
+        "known_for_department": "Writing",
+        "name": "Peter Benchley",
+        "original_name": "Peter Benchley",
+        "popularity": 3.93,
+        "profile_path": "/bkiyTDgdvyXkowNvJ3QYy9IOGG.jpg",
+        "credit_id": "52fe4255c3a36847f8016025",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8555,
+        "known_for_department": "Acting",
+        "name": "Carl Gottlieb",
+        "original_name": "Carl Gottlieb",
+        "popularity": 2.153,
+        "profile_path": "/tXsKWTANoQLwLyXTUteuDcDIc8b.jpg",
+        "credit_id": "52fe4255c3a36847f801602b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8556,
+        "known_for_department": "Editing",
+        "name": "Verna Fields",
+        "original_name": "Verna Fields",
+        "popularity": 2.023,
+        "profile_path": "/ch981JcAIRYxy7pUvdXchpao48E.jpg",
+        "credit_id": "52fe4255c3a36847f8016049",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8558,
+        "known_for_department": "Art",
+        "name": "Joe Alves",
+        "original_name": "Joe Alves",
+        "popularity": 2.023,
+        "profile_path": "/4JZz6fd5TpqexJzHTXOvgUpMioK.jpg",
+        "credit_id": "52fe4255c3a36847f801604f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8573,
+        "known_for_department": "Directing",
+        "name": "Thomas J. Wright",
+        "original_name": "Thomas J. Wright",
+        "popularity": 3.09,
+        "profile_path": null,
+        "credit_id": "52fe4255c3a36847f801605b",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8573,
+        "known_for_department": "Directing",
+        "name": "Thomas J. Wright",
+        "original_name": "Thomas J. Wright",
+        "popularity": 3.09,
+        "profile_path": null,
+        "credit_id": "56ba2288c3a3681e64002c73",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8582,
+        "known_for_department": "Sound",
+        "name": "John R. Carter",
+        "original_name": "John R. Carter",
+        "popularity": 1.261,
+        "profile_path": null,
+        "credit_id": "5c2b4de00e0a2655fa38ba85",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8586,
+        "known_for_department": "Crew",
+        "name": "Robert A. Mattey",
+        "original_name": "Robert A. Mattey",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "52fe4255c3a36847f8016067",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8591,
+        "known_for_department": "Acting",
+        "name": "Ted Grossman",
+        "original_name": "Ted Grossman",
+        "popularity": 5.371,
+        "profile_path": "/2L7S57LmXg1EFwVOkI06JS5oAhM.jpg",
+        "credit_id": "52fe4255c3a36847f801606d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12435,
+        "known_for_department": "Production",
+        "name": "Shari Rhodes",
+        "original_name": "Shari Rhodes",
+        "popularity": 4.645,
+        "profile_path": "/eXQ9dUdKqqP6NUbpMfUl2xWCcaA.jpg",
+        "credit_id": "56ba24f6c3a3687c9b00002a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12435,
+        "known_for_department": "Production",
+        "name": "Shari Rhodes",
+        "original_name": "Shari Rhodes",
+        "popularity": 4.645,
+        "profile_path": "/eXQ9dUdKqqP6NUbpMfUl2xWCcaA.jpg",
+        "credit_id": "60ec3e63194186002ff23e48",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13521,
+        "known_for_department": "Production",
+        "name": "William S. Gilmore",
+        "original_name": "William S. Gilmore",
+        "popularity": 1.237,
+        "profile_path": null,
+        "credit_id": "6099180ae263bb003a28a618",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13942,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Del Armstrong",
+        "original_name": "Del Armstrong",
+        "popularity": 3.535,
+        "profile_path": null,
+        "credit_id": "56ba1e9692514106a1002ad2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14829,
+        "known_for_department": "Sound",
+        "name": "Robert L. Hoyt",
+        "original_name": "Robert L. Hoyt",
+        "popularity": 0.648,
+        "profile_path": null,
+        "credit_id": "5b48e9659251412536001d6c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17916,
+        "known_for_department": "Directing",
+        "name": "Charlsie Bryant",
+        "original_name": "Charlsie Bryant",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "56ba23d59251417193000012",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66167,
+        "known_for_department": "Sound",
+        "name": "William C. Carruth",
+        "original_name": "William C. Carruth",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "56ba22ca9251416872001cf6",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66222,
+        "known_for_department": "Directing",
+        "name": "James Fargo",
+        "original_name": "James Fargo",
+        "popularity": 1.388,
+        "profile_path": "/kj9CqBSvwh51BAJR97lu6hZlBEH.jpg",
+        "credit_id": "56ba20dac3a3681e7d002cd2",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 161787,
+        "known_for_department": "Crew",
+        "name": "Dick Ziker",
+        "original_name": "Dick Ziker",
+        "popularity": 3.851,
+        "profile_path": "/28dO89lvvZS6ZOw5Rpusygfbwbu.jpg",
+        "credit_id": "603677c65b370d00413c7374",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 184662,
+        "known_for_department": "Acting",
+        "name": "Fred Zendar",
+        "original_name": "Fred Zendar",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "6099183aa3d027003b41b55a",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223613,
+        "known_for_department": "Camera",
+        "name": "Ron Taylor",
+        "original_name": "Ron Taylor",
+        "popularity": 1.22,
+        "profile_path": null,
+        "credit_id": "609917c705a533003e289cf1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1228010,
+        "known_for_department": "Directing",
+        "name": "Tom Joyner",
+        "original_name": "Tom Joyner",
+        "popularity": 0.766,
+        "profile_path": null,
+        "credit_id": "6099165c283ed9003d6e9ade",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1238096,
+        "known_for_department": "Acting",
+        "name": "Valerie Taylor",
+        "original_name": "Valerie Taylor",
+        "popularity": 1.176,
+        "profile_path": null,
+        "credit_id": "609917dbaf58cb003cb2e428",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416440,
+        "known_for_department": "Directing",
+        "name": "Barbara Bass",
+        "original_name": "Barbara Bass",
+        "popularity": 0.968,
+        "profile_path": null,
+        "credit_id": "6099164f746457003e5b15f5",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430210,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Verne Caruso",
+        "original_name": "Verne Caruso",
+        "popularity": 0.732,
+        "profile_path": null,
+        "credit_id": "56ba1ecdc3a3681e7d002c7d",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574927,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jim Gillespie",
+        "original_name": "Jim Gillespie",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "56ba202e92514106b4002c82",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2553356,
+        "known_for_department": "Acting",
+        "name": "Werner Keppler",
+        "original_name": "Werner Keppler",
+        "popularity": 0.972,
+        "profile_path": null,
+        "credit_id": "5e5a5e1955c92600194e997a",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3085710,
+        "known_for_department": "Crew",
+        "name": "Leonard J.V. Compagno",
+        "original_name": "Leonard J.V. Compagno",
+        "popularity": 0.84,
+        "profile_path": null,
+        "credit_id": "6099184d168ea3003b1559df",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3640192,
+        "known_for_department": "Acting",
+        "name": "Lynn Murphy",
+        "original_name": "Lynn Murphy",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "635de69a9ba86a00826e1ab8",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0073195",
+    "wikidata_id": null,
+    "facebook_id": "JawsMovie",
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
