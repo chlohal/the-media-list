@@ -1,0 +1,1445 @@
+{
+  "adult": false,
+  "backdrop_path": "/yEWh2uS2hYEMxfMKasrf0ysw874.jpg",
+  "belongs_to_collection": {
+    "id": 19160,
+    "name": "FernGully Collection",
+    "poster_path": "/7FayIzSXqWGqqYOId58N26alRv1.jpg",
+    "backdrop_path": "/eWikaqHnqLYtCh7pkBeZY3Y5QSm.jpg"
+  },
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 13225,
+  "imdb_id": "tt0104254",
+  "original_language": "en",
+  "original_title": "FernGully: The Last Rainforest",
+  "overview": "When a sprite named Crysta shrinks a human boy, Zak, down to her size, he vows to help the magical fairy folk stop a greedy logging company from destroying their home: the pristine rainforest known as FernGully. Zak and his new friends fight to defend FernGully from lumberjacks — and the vengeful spirit they accidentally unleash after chopping down a magic tree.",
+  "popularity": 19.325,
+  "poster_path": "/jAD6Ofuz4PiYFV3fd3oBP6aOTyM.jpg",
+  "production_companies": [
+    {
+      "id": 47154,
+      "logo_path": null,
+      "name": "Kroyer Films",
+      "origin_country": ""
+    },
+    {
+      "id": 81129,
+      "logo_path": null,
+      "name": "Youngheart Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 81130,
+      "logo_path": null,
+      "name": "FAI Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-04-10",
+  "revenue": 32710894,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do you believe in humans?",
+  "title": "FernGully: The Last Rainforest",
+  "video": false,
+  "vote_average": 6.313,
+  "vote_count": 484,
+  "watch_providers": {
+    "AR": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=AR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 6
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=AT",
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/2tAjxjo1n3H7fsXqMsxWFMeFUWp.jpg",
+          "provider_id": 177,
+          "provider_name": "Pantaflix",
+          "display_priority": 27
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        }
+      ]
+    },
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=CA",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/w2TDH9TRI7pltf5LjN3vXzs7QbN.jpg",
+          "provider_id": 73,
+          "provider_name": "Tubi TV",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/gJ3yVMWouaVj6iHd59TISJ1TlM5.jpg",
+          "provider_id": 230,
+          "provider_name": "Crave",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/sB5vHrmYmliwUvBwZe8HpXo9r8m.jpg",
+          "provider_id": 305,
+          "provider_name": "Crave Starz",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/x36C6aseF5l4uX99Kpse9dbPwBo.jpg",
+          "provider_id": 1794,
+          "provider_name": "Starz Amazon Channel",
+          "display_priority": 112
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 6
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 16
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 30
+        }
+      ]
+    },
+    "CH": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=CH",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CL": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=CL",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "CO": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=CO",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "CZ": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=CZ",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 4
+        }
+      ]
+    },
+    "DE": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=DE",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 15
+        },
+        {
+          "logo_path": "/2tAjxjo1n3H7fsXqMsxWFMeFUWp.jpg",
+          "provider_id": 177,
+          "provider_name": "Pantaflix",
+          "display_priority": 35
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 15
+        }
+      ]
+    },
+    "EC": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=EC",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 11
+        }
+      ]
+    },
+    "GB": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=GB",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/6qlN4ra7T69JynYVbs9SXVUlkLk.jpg",
+          "provider_id": 600,
+          "provider_name": "Shout! Factory Amazon Channel",
+          "display_priority": 74
+        }
+      ]
+    },
+    "GR": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=GR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    },
+    "IE": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=IE",
+      "rent": [
+        {
+          "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+          "provider_id": 130,
+          "provider_name": "Sky Store",
+          "display_priority": 9
+        }
+      ]
+    },
+    "IN": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=IN",
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 8
+        }
+      ]
+    },
+    "JP": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=JP",
+      "rent": [
+        {
+          "logo_path": "/g8jqHtXJsMlc8B1Gb0Rt8AvUJMn.jpg",
+          "provider_id": 85,
+          "provider_name": "dTV",
+          "display_priority": 2
+        }
+      ]
+    },
+    "NL": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=NL",
+      "buy": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 12
+        }
+      ]
+    },
+    "PE": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=PE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "TR": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=TR",
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 5
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=US",
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 52
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 53
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/w2TDH9TRI7pltf5LjN3vXzs7QbN.jpg",
+          "provider_id": 73,
+          "provider_name": "Tubi TV",
+          "display_priority": 49
+        },
+        {
+          "logo_path": "/t6N57S17sdXRXmZDAkaGP0NHNG0.jpg",
+          "provider_id": 300,
+          "provider_name": "Pluto TV",
+          "display_priority": 106
+        },
+        {
+          "logo_path": "/uBE4RMH15mrkuz6vXzuJc7ZLXp1.jpg",
+          "provider_id": 613,
+          "provider_name": "Freevee",
+          "display_priority": 198
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/ju3T8MFGNIoPiYpwHFpNlrYNyG7.jpg",
+          "provider_id": 439,
+          "provider_name": "Shout! Factory TV",
+          "display_priority": 115
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 4
+        },
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 13
+        },
+        {
+          "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+          "provider_id": 192,
+          "provider_name": "YouTube",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+          "provider_id": 7,
+          "provider_name": "Vudu",
+          "display_priority": 41
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 52
+        },
+        {
+          "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+          "provider_id": 279,
+          "provider_name": "Redbox",
+          "display_priority": 53
+        }
+      ]
+    },
+    "VE": {
+      "link": "https://www.themoviedb.org/movie/13225-ferngully-the-last-rainforest/watch?locale=VE",
+      "rent": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 3
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 2710,
+      "name": "fairy"
+    },
+    {
+      "id": 5155,
+      "name": "bat"
+    },
+    {
+      "id": 6305,
+      "name": "pollution"
+    },
+    {
+      "id": 33577,
+      "name": "environment"
+    },
+    {
+      "id": 180550,
+      "name": "rainforest"
+    },
+    {
+      "id": 188334,
+      "name": "logger"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20767,
+        "known_for_department": "Acting",
+        "name": "Samantha Mathis",
+        "original_name": "Samantha Mathis",
+        "popularity": 15.992,
+        "profile_path": "/9dixKdjdBUgG8MrlZTpWpy4OQnh.jpg",
+        "cast_id": 5,
+        "character": "Crysta (voice)",
+        "credit_id": "52fe45509251416c750524f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184498,
+        "known_for_department": "Acting",
+        "name": "Jonathan Ward",
+        "original_name": "Jonathan Ward",
+        "popularity": 3.317,
+        "profile_path": "/cG3e5htoT4cU8Ek4HUA3hHNxuDJ.jpg",
+        "cast_id": 9,
+        "character": "Zak Young (voice)",
+        "credit_id": "52fe45509251416c75052509",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224,
+        "known_for_department": "Acting",
+        "name": "Christian Slater",
+        "original_name": "Christian Slater",
+        "popularity": 48.892,
+        "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg",
+        "cast_id": 6,
+        "character": "Pips (voice)",
+        "credit_id": "52fe45509251416c750524fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13472,
+        "known_for_department": "Acting",
+        "name": "Tim Curry",
+        "original_name": "Tim Curry",
+        "popularity": 27.753,
+        "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+        "cast_id": 4,
+        "character": "Hexxus (voice)",
+        "credit_id": "52fe45509251416c750524f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2157,
+        "known_for_department": "Acting",
+        "name": "Robin Williams",
+        "original_name": "Robin Williams",
+        "popularity": 17.537,
+        "profile_path": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
+        "cast_id": 7,
+        "character": "Batty Koda (voice)",
+        "credit_id": "52fe45509251416c75052501",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31004,
+        "known_for_department": "Acting",
+        "name": "Tone Loc",
+        "original_name": "Tone Loc",
+        "popularity": 5.922,
+        "profile_path": "/puDbq7YPq6Jg0nrSeK6t9MFIhFP.jpg",
+        "cast_id": 8,
+        "character": "Goanna (voice)",
+        "credit_id": "52fe45509251416c75052505",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6465,
+        "known_for_department": "Acting",
+        "name": "Grace Zabriskie",
+        "original_name": "Grace Zabriskie",
+        "popularity": 6.227,
+        "profile_path": "/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg",
+        "cast_id": 10,
+        "character": "Magi Lune (voice)",
+        "credit_id": "52fe45509251416c7505250d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148122,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Blake",
+        "original_name": "Geoffrey Blake",
+        "popularity": 5.297,
+        "profile_path": "/uKdiO6QagiT0mZ7tf9Xrl8OZUKy.jpg",
+        "cast_id": 11,
+        "character": "Ralph (voice)",
+        "credit_id": "52fe45509251416c75052511",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7866,
+        "known_for_department": "Acting",
+        "name": "Robert Pastorelli",
+        "original_name": "Robert Pastorelli",
+        "popularity": 8.616,
+        "profile_path": "/pXQSrVeE4hTIzQvH5eZ1PNTRuK0.jpg",
+        "cast_id": 12,
+        "character": "Tony (voice)",
+        "credit_id": "52fe45509251416c75052515",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11159,
+        "known_for_department": "Acting",
+        "name": "Cheech Marin",
+        "original_name": "Cheech Marin",
+        "popularity": 12.495,
+        "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg",
+        "cast_id": 13,
+        "character": "Stump (voice)",
+        "credit_id": "52fe45509251416c75052519",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63208,
+        "known_for_department": "Acting",
+        "name": "Tommy Chong",
+        "original_name": "Tommy Chong",
+        "popularity": 12.438,
+        "profile_path": "/xjAZc5IB4iPAlqpUbtM1LkcUAhI.jpg",
+        "cast_id": 14,
+        "character": "Root (voice)",
+        "credit_id": "52fe45509251416c7505251d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35035,
+        "known_for_department": "Acting",
+        "name": "Townsend Coleman",
+        "original_name": "Townsend Coleman",
+        "popularity": 2.301,
+        "profile_path": "/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg",
+        "cast_id": 15,
+        "character": "Knotty (voice)",
+        "credit_id": "52fe45509251416c75052521",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81842,
+        "known_for_department": "Acting",
+        "name": "Brian Cummings",
+        "original_name": "Brian Cummings",
+        "popularity": 2.204,
+        "profile_path": "/4q4Y9qVTPh3og39kGNWkNCmMJAx.jpg",
+        "cast_id": 16,
+        "character": "Ock (voice)",
+        "credit_id": "52fe45509251416c75052525",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7210,
+        "known_for_department": "Acting",
+        "name": "Kathleen Freeman",
+        "original_name": "Kathleen Freeman",
+        "popularity": 10.352,
+        "profile_path": "/7UTN2SEcdQ4Ez9br7a8yy1bJV7e.jpg",
+        "cast_id": 17,
+        "character": "Edler (voice)",
+        "credit_id": "52fe45509251416c75052529",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107518,
+        "known_for_department": "Acting",
+        "name": "Naomi Lewis",
+        "original_name": "Naomi Lewis",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Elder #2 (voice)",
+        "credit_id": "52fe45509251416c75052531",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52699,
+        "known_for_department": "Acting",
+        "name": "Danny Mann",
+        "original_name": "Danny Mann",
+        "popularity": 7.276,
+        "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg",
+        "cast_id": 20,
+        "character": "Ash / Voice Dispatch (voice)",
+        "credit_id": "52fe45509251416c75052535",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64951,
+        "known_for_department": "Acting",
+        "name": "Neil Ross",
+        "original_name": "Neil Ross",
+        "popularity": 7.168,
+        "profile_path": "/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg",
+        "cast_id": 21,
+        "character": "Elder (voice)",
+        "credit_id": "52fe45509251416c75052539",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21063,
+        "known_for_department": "Acting",
+        "name": "Pamela Adlon",
+        "original_name": "Pamela Adlon",
+        "popularity": 10.423,
+        "profile_path": "/e541ePtwZuHYP3zT0ANmpqUDFlw.jpg",
+        "cast_id": 22,
+        "character": "Fairy (voice)",
+        "credit_id": "52fe45509251416c7505253d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107519,
+        "known_for_department": "Acting",
+        "name": "Anderson Wong",
+        "original_name": "Anderson Wong",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Rock (voice)",
+        "credit_id": "52fe45509251416c75052541",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107517,
+        "known_for_department": "Production",
+        "name": "Janet Gilmore",
+        "original_name": "Janet Gilmore",
+        "popularity": 0.996,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Fairy #1 (voice)",
+        "credit_id": "5c39aa1a9251414de27389d1",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6008,
+        "known_for_department": "Acting",
+        "name": "Harry Shearer",
+        "original_name": "Harry Shearer",
+        "popularity": 5.449,
+        "profile_path": "/au1mO0Mb9gni7h0rJCSokBTDnVf.jpg",
+        "cast_id": 60,
+        "character": "Fairy 3",
+        "credit_id": "5da1e480a1353300152fd8fe",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70615,
+        "known_for_department": "Acting",
+        "name": "Rodger Bumpass",
+        "original_name": "Rodger Bumpass",
+        "popularity": 7.312,
+        "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg",
+        "cast_id": 61,
+        "character": "Fairy 4",
+        "credit_id": "5da1e48cb84f940013992f1f",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37,
+        "known_for_department": "Sound",
+        "name": "Alan Silvestri",
+        "original_name": "Alan Silvestri",
+        "popularity": 5.33,
+        "profile_path": "/pQOAsQDuYMR4cKaPAP0wkRlCSNo.jpg",
+        "credit_id": "591700b3925141580d030ac6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 599,
+        "known_for_department": "Production",
+        "name": "Marci Liroff",
+        "original_name": "Marci Liroff",
+        "popularity": 0.6,
+        "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+        "credit_id": "59170096c3a3683a9302f124",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7883,
+        "known_for_department": "Art",
+        "name": "Ralph Eggleston",
+        "original_name": "Ralph Eggleston",
+        "popularity": 2.103,
+        "profile_path": "/28ZxW5tHMuWYK8T3I0xLfVAF9yw.jpg",
+        "credit_id": "591700bf92514105da028076",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9196,
+        "known_for_department": "Production",
+        "name": "Ted Field",
+        "original_name": "Ted Field",
+        "popularity": 0.833,
+        "profile_path": null,
+        "credit_id": "5da1e4dee860170014ad2f15",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12058,
+        "known_for_department": "Directing",
+        "name": "Vicky Jenson",
+        "original_name": "Vicky Jenson",
+        "popularity": 6.953,
+        "profile_path": "/dDSlofPZbJxtYBO2f73XjNwcFVT.jpg",
+        "credit_id": "59170148c3a36840aa02cf7b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18389,
+        "known_for_department": "Production",
+        "name": "Robert W. Cort",
+        "original_name": "Robert W. Cort",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5da1e4b1afe2240015e95c6a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58453,
+        "known_for_department": "Directing",
+        "name": "Peter Faiman",
+        "original_name": "Peter Faiman",
+        "popularity": 2.294,
+        "profile_path": null,
+        "credit_id": "5da1e4d4e860170012ad2017",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71793,
+        "known_for_department": "Writing",
+        "name": "Jim Cox",
+        "original_name": "Jim Cox",
+        "popularity": 1.15,
+        "profile_path": null,
+        "credit_id": "52fe45509251416c750524eb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71793,
+        "known_for_department": "Writing",
+        "name": "Jim Cox",
+        "original_name": "Jim Cox",
+        "popularity": 1.15,
+        "profile_path": null,
+        "credit_id": "5da1e4bdafe2240015e95c8a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74300,
+        "known_for_department": "Directing",
+        "name": "Bill Kroyer",
+        "original_name": "Bill Kroyer",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe45509251416c750524e5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74301,
+        "known_for_department": "Writing",
+        "name": "Diana Young",
+        "original_name": "Diana Young",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe45509251416c750524f1",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112875,
+        "known_for_department": "Sound",
+        "name": "Bruce Stubblefield",
+        "original_name": "Bruce Stubblefield",
+        "popularity": 1.38,
+        "profile_path": null,
+        "credit_id": "591701a1c3a3683a9302f1f2",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 226005,
+        "known_for_department": "Visual Effects",
+        "name": "Skip Jones",
+        "original_name": "Skip Jones",
+        "popularity": 0.694,
+        "profile_path": null,
+        "credit_id": "61c4a59521c4ca0089274d2a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1088972,
+        "known_for_department": "Acting",
+        "name": "Jeff Dowd",
+        "original_name": "Jeff Dowd",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5da1e4c7e860170014ad2ec1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107517,
+        "known_for_department": "Production",
+        "name": "Janet Gilmore",
+        "original_name": "Janet Gilmore",
+        "popularity": 0.996,
+        "profile_path": null,
+        "credit_id": "5c39aac8c3a36808694673e7",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113194,
+        "known_for_department": "Visual Effects",
+        "name": "Dave Kupczyk",
+        "original_name": "Dave Kupczyk",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "555248449251414dd900396b",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1128341,
+        "known_for_department": "Production",
+        "name": "Nikki Vanzo",
+        "original_name": "Nikki Vanzo",
+        "popularity": 0.735,
+        "profile_path": null,
+        "credit_id": "55357e2a92514125dc0044ba",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176752,
+        "known_for_department": "Visual Effects",
+        "name": "Dan Haskett",
+        "original_name": "Dan Haskett",
+        "popularity": 0.636,
+        "profile_path": null,
+        "credit_id": "5f1acf66691cd50034981828",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370914,
+        "known_for_department": "Sound",
+        "name": "Hari Ryatt",
+        "original_name": "Hari Ryatt",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "591701f1925141583c03067e",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394130,
+        "known_for_department": "Sound",
+        "name": "Frank A. Montaño",
+        "original_name": "Frank A. Montaño",
+        "popularity": 0.731,
+        "profile_path": null,
+        "credit_id": "59170183c3a368371b021e27",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394306,
+        "known_for_department": "Sound",
+        "name": "Kenneth Karman",
+        "original_name": "Kenneth Karman",
+        "popularity": 2.544,
+        "profile_path": null,
+        "credit_id": "5917021fc3a36842c1031fb9",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397771,
+        "known_for_department": "Production",
+        "name": "Tom Klein",
+        "original_name": "Tom Klein",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5491674e925141473700140d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397822,
+        "known_for_department": "Sound",
+        "name": "Jon Johnson",
+        "original_name": "Jon Johnson",
+        "popularity": 2.563,
+        "profile_path": null,
+        "credit_id": "591701c792514159c102fbe9",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447298,
+        "known_for_department": "Visual Effects",
+        "name": "Darlie Brewster",
+        "original_name": "Darlie Brewster",
+        "popularity": 1.4,
+        "profile_path": null,
+        "credit_id": "5916ff86c3a36842c1031db4",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447436,
+        "known_for_department": "Directing",
+        "name": "Jennifer Yuan",
+        "original_name": "Jennifer Yuan",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "551f998cc3a3684dc9000f6d",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1450347,
+        "known_for_department": "Writing",
+        "name": "Mike Cachuela",
+        "original_name": "Mike Cachuela",
+        "popularity": 0.828,
+        "profile_path": "/cpFzLDMttRswVY3XLefXDYwKN9L.jpg",
+        "credit_id": "5525820fc3a3687e03001cdc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1476808,
+        "known_for_department": "Editing",
+        "name": "Gillian L. Hutshing",
+        "original_name": "Gillian L. Hutshing",
+        "popularity": 0.6,
+        "profile_path": "/ay3cdZswU0cg8ClTUlN7flz4oOE.jpg",
+        "credit_id": "591700a69251415852031472",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652315,
+        "known_for_department": "Production",
+        "name": "Brian Rosen",
+        "original_name": "Brian Rosen",
+        "popularity": 0.656,
+        "profile_path": null,
+        "credit_id": "5da1e560b84f9400159962bc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815884,
+        "known_for_department": "Sound",
+        "name": "Timothy A. Hoggatt",
+        "original_name": "Timothy A. Hoggatt",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5917015d925141585203150b",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815885,
+        "known_for_department": "Sound",
+        "name": "Doug Botnick",
+        "original_name": "Doug Botnick",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5917016a9251415852031519",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815887,
+        "known_for_department": "Sound",
+        "name": "Jacqueline Tager",
+        "original_name": "Jacqueline Tager",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5917022a92514156f5031df6",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2430844,
+        "known_for_department": "Production",
+        "name": "Wayne Young",
+        "original_name": "Wayne Young",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5da1e53b1967570013a84f87",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2430845,
+        "known_for_department": "Production",
+        "name": "William F. Willett",
+        "original_name": "William F. Willett",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5da1e554a13533000f2fd955",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt0104254",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
