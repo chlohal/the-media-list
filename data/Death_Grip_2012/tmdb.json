@@ -1,0 +1,453 @@
+{
+  "adult": false,
+  "backdrop_path": "/dIbm2foF0nSmClRPYl1A0vNYEbA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 159604,
+  "imdb_id": "tt2120128",
+  "original_language": "en",
+  "original_title": "Death Grip",
+  "overview": "In an effort to set his life straight, Kenny Zemacus checks his autistic brother Mark out of the care home where he's spent the past fifteen years since their mother's death. When Kenny reluctantly brings Mark on a last minute museum catering gig, Mark unwittingly entangles them in a dangerous heist involving the museum's showpiece -- the Silver Coin of Judas -- and a murderous satanic cult known as The Knights of Judas. The two brothers are propelled into the cult's demonic world where they must fight for their lives and face the depths of their own dark past.",
+  "popularity": 1.114,
+  "poster_path": "/YxiHiy7FU8MIXxWVAr3ZpDzLSI.jpg",
+  "production_companies": [
+    {
+      "id": 179284,
+      "logo_path": null,
+      "name": "Action Pact Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-06-30",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil Needs a Backup Plan",
+  "title": "Death Grip",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "watch_providers": {
+    "CA": {
+      "link": "https://www.themoviedb.org/movie/159604-death-grip/watch?locale=CA",
+      "free": [
+        {
+          "logo_path": "/wDWvnupneMbY6RhBTHQC9zU0SCX.jpg",
+          "provider_id": 538,
+          "provider_name": "Plex",
+          "display_priority": 90
+        }
+      ],
+      "rent": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 25
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 25
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 25
+        }
+      ]
+    },
+    "US": {
+      "link": "https://www.themoviedb.org/movie/159604-death-grip/watch?locale=US",
+      "rent": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 134
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 134
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+          "provider_id": 331,
+          "provider_name": "FlixFling",
+          "display_priority": 134
+        }
+      ],
+      "ads": [
+        {
+          "logo_path": "/xzfVRl1CgJPYa9dOoyVI3TDSQo2.jpg",
+          "provider_id": 332,
+          "provider_name": "VUDU Free",
+          "display_priority": 45
+        }
+      ],
+      "free": [
+        {
+          "logo_path": "/wDWvnupneMbY6RhBTHQC9zU0SCX.jpg",
+          "provider_id": 538,
+          "provider_name": "Plex",
+          "display_priority": 180
+        }
+      ]
+    }
+  },
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063017,
+        "known_for_department": "Acting",
+        "name": "Eric Jacobus",
+        "original_name": "Eric Jacobus",
+        "popularity": 3.618,
+        "profile_path": "/thlkGvfESBgkwaihPlivXt76N5j.jpg",
+        "cast_id": 5,
+        "character": "Kenny Zemacus",
+        "credit_id": "52fe4c179251416c910ef71b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141355,
+        "known_for_department": "Acting",
+        "name": "Nathan Hoskins",
+        "original_name": "Nathan Hoskins",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Mark Zemacus",
+        "credit_id": "52fe4c179251416c910ef71f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50096,
+        "known_for_department": "Acting",
+        "name": "Johnny Yong Bosch",
+        "original_name": "Johnny Yong Bosch",
+        "popularity": 1.947,
+        "profile_path": "/a0JtdXCVw8HIkWNq2rqlWs1A8CR.jpg",
+        "cast_id": 7,
+        "character": "Torch",
+        "credit_id": "52fe4c179251416c910ef723",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141356,
+        "known_for_department": "Acting",
+        "name": "Rebecca Ahn",
+        "original_name": "Rebecca Ahn",
+        "popularity": 0.694,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Rindy",
+        "credit_id": "52fe4c179251416c910ef727",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141345,
+        "known_for_department": "Acting",
+        "name": "Chelsea Steffensen",
+        "original_name": "Chelsea Steffensen",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Michael",
+        "credit_id": "52fe4c179251416c910ef72b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141357,
+        "known_for_department": "Acting",
+        "name": "Alvin Hsing",
+        "original_name": "Alvin Hsing",
+        "popularity": 0.84,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Dominic",
+        "credit_id": "52fe4c179251416c910ef72f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063030,
+        "known_for_department": "Acting",
+        "name": "Ray Carbonel",
+        "original_name": "Ray Carbonel",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Vince",
+        "credit_id": "52fe4c179251416c910ef733",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772011,
+        "known_for_department": "Acting",
+        "name": "Caitlyn Corson",
+        "original_name": "Caitlyn Corson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "58bf79a49251412e59000139",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141359,
+        "known_for_department": "Acting",
+        "name": "Ed Kahana",
+        "original_name": "Ed Kahana",
+        "popularity": 0.6,
+        "profile_path": "/77WIWmg77TNicNe2EaKbrq6fFy7.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "58c8412e92514174460007e4",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 934361,
+        "known_for_department": "Directing",
+        "name": "Pete Lee",
+        "original_name": "Pete Lee",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "52fe4c179251416c910ef711",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063017,
+        "known_for_department": "Acting",
+        "name": "Eric Jacobus",
+        "original_name": "Eric Jacobus",
+        "popularity": 3.618,
+        "profile_path": "/thlkGvfESBgkwaihPlivXt76N5j.jpg",
+        "credit_id": "52fe4c179251416c910ef705",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063017,
+        "known_for_department": "Acting",
+        "name": "Eric Jacobus",
+        "original_name": "Eric Jacobus",
+        "popularity": 3.618,
+        "profile_path": "/thlkGvfESBgkwaihPlivXt76N5j.jpg",
+        "credit_id": "63fb695a57176f007cfd67f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063017,
+        "known_for_department": "Acting",
+        "name": "Eric Jacobus",
+        "original_name": "Eric Jacobus",
+        "popularity": 3.618,
+        "profile_path": "/thlkGvfESBgkwaihPlivXt76N5j.jpg",
+        "credit_id": "52fe4c179251416c910ef70b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063017,
+        "known_for_department": "Acting",
+        "name": "Eric Jacobus",
+        "original_name": "Eric Jacobus",
+        "popularity": 3.618,
+        "profile_path": "/thlkGvfESBgkwaihPlivXt76N5j.jpg",
+        "credit_id": "52fe4c179251416c910ef717",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164081,
+        "known_for_department": "Camera",
+        "name": "Drew Daniels",
+        "original_name": "Drew Daniels",
+        "popularity": 1.34,
+        "profile_path": "/oViatszuW3jai7gpDwzxwnDYe30.jpg",
+        "credit_id": "63fb694c344a8e00cdcc7f1a",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "George Schminky",
+        "original_name": "George Schminky",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb69bd6aa8e000f0b6eda4",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772011,
+        "known_for_department": "Acting",
+        "name": "Caitlyn Corson",
+        "original_name": "Caitlyn Corson",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb697d57176f00db7fb083",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3017333,
+        "known_for_department": "Acting",
+        "name": "Brad Wagner",
+        "original_name": "Brad Wagner",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb69ad57176f0081d64ec5",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3311311,
+        "known_for_department": "Sound",
+        "name": "Brett Perry",
+        "original_name": "Brett Perry",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb694096e30b00be5a17af",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3939835,
+        "known_for_department": "Sound",
+        "name": "Matteo Grilli",
+        "original_name": "Matteo Grilli",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb698c96e30b0087f84a55",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3939835,
+        "known_for_department": "Sound",
+        "name": "Matteo Grilli",
+        "original_name": "Matteo Grilli",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb699796e30b00be5a17da",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3939869,
+        "known_for_department": "Art",
+        "name": "Ejay Ongaro",
+        "original_name": "Ejay Ongaro",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63fb696d84f249008615341a",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt2120128",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "media_type": "movie"
+}
